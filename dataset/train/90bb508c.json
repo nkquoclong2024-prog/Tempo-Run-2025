@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/lich-thi-dau-euro-2024-4752390.html",
+  "title": "Lịch thi đấu Euro 2024",
+  "content": "\nĐăng Hiếu\nĐăng Hiếu",
+  "metadata": [
+    [
+      "https://vcdn1-thethao.vnecdn.net/2024/06/01/PC-1.jpg?w=220&h=0&q=80&dpr=1&fit=crop&s=uBtkDqhRuVGWTODpsKQvmQ",
+      ""
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Tiêu đề của bài viết tin tức được cung cấp là gì?",
+      "choices": {
+        "A": "Lịch thi đấu Euro 2024",
+        "B": "Kết quả Euro 2024",
+        "C": "Tin tức chung về Euro 2024",
+        "D": "Đội hình các đội tham dự Euro 2024"
+      },
+      "correct_answer": "A",
+      "explanation": "Tiêu đề của bài viết được ghi rõ là 'Lịch thi đấu Euro 2024'."
+    },
+    {
+      "question": "Nội dung chính được cung cấp trong phần 'NỘI DUNG' của bài viết là gì?",
+      "choices": {
+        "A": "Đăng Hiếu Đăng Hiếu",
+        "B": "Lịch thi đấu chi tiết Euro 2024",
+        "C": "Thông tin về các đội tham gia Euro 2024",
+        "D": "Không có nội dung nào được cung cấp ngoài tiêu đề"
+      },
+      "correct_answer": "A",
+      "explanation": "Phần 'NỘI DUNG' của bài viết chỉ chứa cụm từ 'Đăng Hiếu Đăng Hiếu'."
+    },
+    {
+      "question": "Theo bài viết được cung cấp, tên riêng nào xuất hiện trong phần nội dung?",
+      "choices": {
+        "A": "Đăng Hiếu",
+        "B": "Euro",
+        "C": "Hiếu Đăng",
+        "D": "Không có tên riêng nào"
+      },
+      "correct_answer": "A",
+      "explanation": "Phần nội dung của bài viết có ghi 'Đăng Hiếu Đăng Hiếu', cho thấy tên 'Đăng Hiếu' được nhắc đến."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:34:55"
+}

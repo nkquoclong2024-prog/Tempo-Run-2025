@@ -1,0 +1,41 @@
+{
+  "url": "https://thanhnien.vn/google-vua-nang-tam-cho-find-my-device-tren-android-185241130100809832.htm",
+  "title": "Google vừa nâng tầm cho 'Find My Device' trên Android",
+  "content": "Find My Device trên Android không còn kém cạnh so với hệ thống Find My của Apple.\nTheo Wired, Google đã chính thức nâng cấp dịch vụ định vị thiết bị Find My Device trên Android, mang đến hàng loạt tính năng mới vượt trội, thu hẹp khoảng cách với hệ thống Find My đình đám của Apple.\nGoogle mang đến nhiều tính năng mới cho Find My Device\nẢNH: CHỤP MÀN HÌNH WIRED\nKhông chỉ định vị thiết bị đang kết nối internet, Find My Device mới có thể tìm kiếm cả thiết bị ngoại tuyến, thậm chí là đã tắt nguồn hoặc hết pin (trong vài giờ) nhờ công nghệ Bluetooth năng lượng thấp trên một số dòng điện thoại như Pixel 8 và 9.\nThậm chí, Find My Device giờ đây cũng đã hỗ trợ định vị nhiều loại thiết bị hơn, bao gồm cả thiết bị theo dõi từ các hãng thứ ba như Chipolo và Pebblebee. Tính năng cảnh báo theo dõi trái phép cũng được bổ sung, giúp người dùng phát hiện thiết bị theo dõi Bluetooth lạ đang cố gắng theo dõi vị trí của họ.\nTương tự Find My của Apple, Find My Device mới tận dụng sức mạnh của mạng lưới định vị thiết bị toàn cầu, ẩn danh, được xây dựng từ chính cộng đồng người dùng Android. Mỗi thiết bị đều có thể tham gia vào việc tìm kiếm các thiết bị bị mất khác, với bảo mật được đảm bảo bằng mã hóa đầu cuối.\nNgười dùng có thể kích hoạt Find My Device trong phần cài đặt hệ thống và sử dụng ứng dụng hoặc trang web Find My Device (www.google.com/android/find) để định vị, phát âm thanh, khóa hoặc xóa dữ liệu thiết bị từ xa.\nVới những cải tiến đáng kể này, Find My Device đã trở thành công cụ đắc lực giúp người dùng Android bảo vệ thiết bị và an tâm hơn khi thiết bị bị thất lạc.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/11/30/01-web-1732936207467-1732936208803198478425.jpg",
+      "Google mang đến nhiều tính năng mới cho Find My Device"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Tính năng nổi bật nhất của dịch vụ Find My Device được Google nâng cấp là gì?",
+      "choices": {
+        "A": "Khả năng định vị thiết bị ngay cả khi chúng ngoại tuyến, đã tắt nguồn hoặc hết pin trong vài giờ.",
+        "B": "Tích hợp khả năng điều khiển thiết bị thông minh trong nhà từ xa.",
+        "C": "Cho phép người dùng tìm kiếm thiết bị của mình trên mọi hệ điều hành khác nhau.",
+        "D": "Định vị thiết bị một cách chính xác tuyệt đối mà không cần bất kỳ kết nối nào."
+      }
+    },
+    {
+      "question": "Mạng lưới định vị của Find My Device mới hoạt động dựa trên nguyên tắc nào?",
+      "choices": {
+        "A": "Sử dụng mạng lưới toàn cầu, ẩn danh được xây dựng từ cộng đồng người dùng Android, với bảo mật mã hóa đầu cuối.",
+        "B": "Dựa vào các vệ tinh độc quyền của Google để theo dõi vị trí của mọi thiết bị.",
+        "C": "Yêu cầu người dùng báo cáo vị trí thiết bị bị mất thủ công để Google xử lý.",
+        "D": "Một mạng lưới công khai, cho phép bất kỳ ai cũng có thể truy cập thông tin định vị thiết bị."
+      }
+    },
+    {
+      "question": "Ngoài việc định vị thiết bị, Find My Device mới còn bổ sung tính năng bảo mật nào giúp người dùng an tâm hơn?",
+      "choices": {
+        "A": "Tự động xóa dữ liệu thiết bị khi phát hiện có người lạ truy cập.",
+        "B": "Cảnh báo theo dõi trái phép, giúp phát hiện thiết bị theo dõi Bluetooth lạ.",
+        "C": "Khóa ứng dụng cá nhân trên thiết bị từ xa.",
+        "D": "Tự động thay đổi mật khẩu thiết bị khi bị mất."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:51:24"
+}

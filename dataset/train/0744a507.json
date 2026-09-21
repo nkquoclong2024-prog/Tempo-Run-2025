@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/cuu-ky-su-apple-noi-ly-do-siri-mai-khong-lon-185230320101405334.htm",
+  "title": "Cựu kỹ sư Apple nói lý do Siri 'mãi không lớn'",
+  "content": "Anh Quân 20/03/2023 10:59 GMT+7\nSiri từng \"gây sốt\", dẫn đầu xu hướng trợ lý ảo thông minh từ khi ra mắt nhưng nhiều năm gần đây, chương trình không có bước tiến đáng kể nào.\nCó rất nhiều thứ Siri không thể hiểu khi người dùng ra lệnh. Với sự bùng nổ của trí tuệ nhân tạo (AI) như ChatGPT hay các loại chatbot thông minh gần đây, rõ ràng trợ lý ảo của Apple \"không có cửa\" đứng chung hàng ngũ về khả năng xử lý yêu cầu cũng như mức độ linh hoạt.\nKhi người dùng nói \"Hey Siri\" để đánh thức trợ lý ảo trên loa HomePod hay iPhone rồi đặt câu hỏi, hệ thống sẽ tạo ra câu trả lời dưới dạng giọng nói. Nhưng trong một số tình huống, Siri không hiểu được nội dung câu hỏi và đáp lại bằng lời xin lỗi. Ngược lại, công nghệ chatbot tích hợp AI lại thăng hoa và thay đổi linh hoạt liên tục.\nTheo John Burkey, cựu kỹ sư từng làm việc trong mảng trợ lý giọng nói tại Apple, Siri được dựng trên một cơ sở dữ liệu khổng lồ về ngôn từ. Trợ lý ảo này \"hiểu\" các từ ngữ có trong hệ thống dựng sẵn. Nếu một từ trong khẩu lệnh của người dùng không tồn tại trong cơ sở dữ liệu, Siri sẽ không biết phải trả lời ra sao. Và chính khối dữ liệu đó khiến hệ thống trở nên khó xử lý, theo Burkey.\n\"Một bản cập nhật đơn giản, ví dụ như bổ sung cụm từ vào gói dữ liệu cũng yêu cầu phải xây dựng lại toàn bộ cơ sở dữ liệu. Việc này có thể mất tới 6 tuần để hoàn thiện. Còn các tính năng phức tạp như công cụ tìm kiếm thì tốn cỡ gần 1 năm\", Burkey giải thích thêm.\nTrong khi đó, ChatGPT hay những hệ thống AI tương tự được phát triển từ hành vi sử dụng ngôn ngữ của con người. Trí tuệ nhân tạo sử dụng công nghệ máy học để tiếp thu, hiểu cách phản hồi. Hệ thống đó chưa hoàn hảo, nhưng kết quả tổng quan vẫn mang lại sự hiểu biết hơn nhiều so với mô hình câu lệnh và kiểm soát như Siri.\nSau nhiều năm \"trên đỉnh\" thị trường trợ lý ảo, Apple không hoàn toàn ngủ quên. Mới đây đã có những báo cáo cho thấy công ty trụ sở tại Cupertino (Mỹ) đang phát triển một hệ thống xử lý giọng nói phức tạp hơn. \"Nhiều kỹ sư, bao gồm cả đội nghiên cứu Siri đang thử nghiệm nguyên mẫu mô hình sinh ngôn ngữ mỗi tuần\", trang NYT đưa tin.\nCòn theo 9to5Mac , Apple đang chạy thử tính năng sinh ngôn ngữ tự nhiên mới cho Siri. Dự kiến hãng sẽ cho thử nghiệm thay đổi mới trên bản tvOS 16.4 Beta và sẽ sớm mở rộng sang các dòng thiết bị khác thuộc hệ sinh thái Apple.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/3/20/siri-apple-iphone-16792834249161353080525.jpeg",
+      "Siri đang tụt lại phía sau trong cuộc đua mô hình ngôn ngữ thông minh"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo cựu kỹ sư John Burkey, nguyên nhân chính khiến Siri khó có những bước tiến đáng kể là gì?",
+      "choices": {
+        "A": "Siri được xây dựng dựa trên một cơ sở dữ liệu khổng lồ về ngôn từ, khiến việc cập nhật và xử lý trở nên phức tạp.",
+        "B": "Apple thiếu đầu tư vào công nghệ trí tuệ nhân tạo cho Siri trong nhiều năm.",
+        "C": "Khó khăn trong việc tích hợp Siri với các thiết bị khác trong hệ sinh thái Apple.",
+        "D": "Siri không thể truy cập thông tin trực tuyến theo thời gian thực như các chatbot hiện đại."
+      },
+      "correct_answer": "A",
+      "explanation": "Theo John Burkey, cựu kỹ sư của Apple, Siri được dựng trên một cơ sở dữ liệu khổng lồ về ngôn từ. Nếu một từ trong khẩu lệnh của người dùng không tồn tại trong cơ sở dữ liệu, Siri sẽ không biết phải trả lời ra sao. Khối dữ liệu này cũng khiến hệ thống trở nên khó xử lý, ví dụ như một bản cập nhật đơn giản có thể mất tới 6 tuần."
+    },
+    {
+      "question": "Điểm khác biệt cơ bản trong cách thức hoạt động giữa Siri và các hệ thống AI chatbot hiện đại (như ChatGPT) được mô tả trong bài viết là gì?",
+      "choices": {
+        "A": "Siri xử lý yêu cầu trên thiết bị, trong khi chatbot AI yêu cầu kết nối đám mây.",
+        "B": "Siri dựa vào cơ sở dữ liệu từ ngữ dựng sẵn, còn AI chatbot học hỏi từ hành vi sử dụng ngôn ngữ của con người bằng công nghệ máy học.",
+        "C": "Siri chỉ có thể trả lời các câu hỏi thực tế, trong khi chatbot AI có khả năng sáng tạo nội dung.",
+        "D": "Siri sử dụng mã nguồn đóng, trong khi chatbot AI thường là mã nguồn mở."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Siri được dựng trên một cơ sở dữ liệu khổng lồ về ngôn từ. Trợ lý ảo này 'hiểu' các từ ngữ có trong hệ thống dựng sẵn.' Ngược lại, 'ChatGPT hay những hệ thống AI tương tự được phát triển từ hành vi sử dụng ngôn ngữ của con người. Trí tuệ nhân tạo sử dụng công nghệ máy học để tiếp thu, hiểu cách phản hồi.'"
+    },
+    {
+      "question": "Theo các báo cáo gần đây, Apple đang thực hiện những động thái nào để cải thiện Siri?",
+      "choices": {
+        "A": "Tái thiết kế hoàn toàn Siri và đổi tên thành một trợ lý ảo mới.",
+        "B": "Mua lại một công ty chatbot AI hàng đầu để tích hợp công nghệ của họ.",
+        "C": "Phát triển một hệ thống xử lý giọng nói phức tạp hơn và thử nghiệm các tính năng sinh ngôn ngữ tự nhiên mới.",
+        "D": "Tập trung vào việc mở rộng khả năng tương thích của Siri với các thiết bị nhà thông minh của bên thứ ba."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập: 'Mới đây đã có những báo cáo cho thấy công ty trụ sở tại Cupertino (Mỹ) đang phát triển một hệ thống xử lý giọng nói phức tạp hơn.' và 'Nhiều kỹ sư, bao gồm cả đội nghiên cứu Siri đang thử nghiệm nguyên mẫu mô hình sinh ngôn ngữ mỗi tuần', cũng như 'Apple đang chạy thử tính năng sinh ngôn ngữ tự nhiên mới cho Siri'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:23:41"
+}

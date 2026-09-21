@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/bai-toan-tinh-goc-tu-7-que-diem-4300603.html",
+  "title": "\nBài toán tính góc từ 7 que diêm ",
+  "content": "Đề bài: Hình bên mô tả 7 que diêm xếp trên một mặt phẳng. Tính góc A?\nTrần Phương",
+  "megadata": [
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/06/27/bai-toan-2018-1624772755.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=J_JL6-86gioUBrn723TRrw",
+      "Bài toán tính góc từ 7 que diêm"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo đề bài được mô tả, mục tiêu chính của bài toán là gì?",
+      "choices": {
+        "A": "Tính giá trị của một góc.",
+        "B": "Xác định số lượng que diêm.",
+        "C": "Mô tả cách xếp que diêm.",
+        "D": "Tìm diện tích của hình."
+      },
+      "correct_answer": "A",
+      "explanation": "Đề bài nêu rõ câu hỏi \"Tính góc A?\", cho thấy mục tiêu chính của bài toán là tính toán giá trị của một góc cụ thể."
+    },
+    {
+      "question": "Bài toán được mô tả sử dụng bao nhiêu que diêm?",
+      "choices": {
+        "A": "7 que diêm.",
+        "B": "5 que diêm.",
+        "C": "6 que diêm.",
+        "D": "Số lượng không được đề cập rõ ràng."
+      },
+      "correct_answer": "A",
+      "explanation": "Nội dung bài viết ghi rõ \"Hình bên mô tả 7 que diêm xếp trên một mặt phẳng\", chỉ ra số lượng que diêm được sử dụng là 7."
+    },
+    {
+      "question": "Ai là người đã đưa ra đề bài \"Bài toán tính góc từ 7 que diêm\"?",
+      "choices": {
+        "A": "Trần Phương.",
+        "B": "Một chuyên gia toán học ẩn danh.",
+        "C": "Tác giả của bài báo tin tức.",
+        "D": "Thông tin này không có trong bài viết."
+      },
+      "correct_answer": "A",
+      "explanation": "Cuối nội dung đề bài có ghi rõ tên \"Trần Phương\", cho biết đây là người đã đưa ra đề bài này."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:36:41"
+}

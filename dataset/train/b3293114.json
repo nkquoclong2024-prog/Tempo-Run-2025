@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/doanh-nghiep-trung-quoc-lo-ngai-truoc-sora-cua-openai-185240220133928981.htm",
+  "title": "Doanh nghiệp Trung Quốc lo ngại trước Sora của OpenAI",
+  "content": "Trong bối cảnh cạnh tranh khốc liệt trong lĩnh vực trí tuệ nhân tạo (AI), mô hình chuyển văn bản thành video Sora của OpenAI đang khiến cộng đồng công nghệ Trung Quốc \"đứng ngồi không yên\".\nTheo SCMP, nhiều lãnh đạo trong ngành công nghệ Trung Quốc tỏ ra phấn khích lẫn lo ngại về thành tựu mới nhất của OpenAI. Yin Ye - CEO tập đoàn nghiên cứu gen BGI đã ví von Sora chính là \"khoảnh khắc Newton\" của lĩnh vực AI. Khi OpenAI ra mắt ChatGPT vào năm 2022, các doanh nghiệp Trung Quốc vẫn tự tin rằng họ sẽ bắt kịp vì chatbot này chỉ tập trung vào ngôn ngữ và văn bản. Nhưng Sora đã chứng minh rằng thế giới số thực sự có thể kết hợp với các định luật vật lý trong thế giới thực, ông Ye nhấn mạnh.\nHình ảnh voi ma mút trong đoạn video mà Sora tạo ra\nChụp màn hình\nTrong khi đó, Zhou Hongyi - CEO công ty 360 Security Technology nhận định khoảng cách giữa Trung Quốc và Mỹ trong lĩnh vực AI sẽ nới rộng hơn nữa nếu OpenAI đang nghiên cứu các \"vũ khí bí mật\" khác. Ông Zhou cho biết các mô hình ngôn ngữ lớn (LLM) hàng đầu của Trung Quốc chỉ mới tiệm cận với GPT-3.5 của OpenAI và vẫn còn cách biệt khoảng 1,5 năm so với GPT-4.\nMặt khác, một số doanh nhân Trung Quốc cho rằng khả năng của Sora đang được phóng đại. Trong buổi phỏng vấn với Shang Securities News, Fang Han - CEO hãng game Kunlun Tech cho biết những video demo mà Sora cung cấp vẫn chưa đạt được những bước đột phá lớn trong việc hiểu biết thế giới. Theo ông Han, khoảng cách giữa Sora và các công cụ chuyển văn bản thành video do Trung Quốc phát triển không lớn như trong lĩnh vực LLM.\nOpenAI được định giá ở mức 80 tỉ USD\nNhững nhà đầu tư Trung Quốc đang xem sự xuất hiện của Sora là một tín hiệu tích cực cho thị trường. Công ty chứng khoán Ping An nhận định sự phát triển nhanh chóng của LLM cùng với AI tạo sinh sẽ thúc đẩy cho sự phát triển sức mạnh tính toán (computing power) ở Trung Quốc và thế giới, đồng thời lợi ích sẽ lan tỏa sang các ngành công nghiệp khác như thuật toán và an ninh mạng. Tuy nhiên, Ping An cũng cảnh báo về rủi ro chuỗi cung ứng nếu Mỹ tiếp tục hạn chế xuất khẩu chip sang Trung Quốc. Các biện pháp trừng phạt có thể thúc đẩy tham vọng tự chủ trong sản xuất chip của Trung Quốc nhưng những mẫu chip nội địa hiện có vẫn chưa đáp ứng được kỳ vọng.\nVào năm 2022, Mỹ ra lệnh Nvidia ngừng bán chip A100 và H100 sang Trung Quốc. Tiếp đó, Nvidia đã ra mắt loại chip có hiệu năng thấp hơn như A800 và H800 để lách luật. Đến tháng 10.2023, hai loại chip này bị Mỹ đưa vào danh sách cấm xuất khẩu. Vào tháng 11.2023, Nvidia tiếp tục ra mắt 3 mẫu GPU mới - H20, L20 và L2 dành riêng cho khách hàng Trung Quốc.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/2/20/2-17084512479341992668521.jpg",
+      "Hình ảnh voi ma mút trong đoạn video mà Sora tạo ra"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, điều gì đã khiến Sora của OpenAI được coi là một bước đột phá lớn hơn so với ChatGPT trong mắt các doanh nghiệp Trung Quốc?",
+      "choices": {
+        "A": "Sora chứng minh thế giới số có thể kết hợp với các định luật vật lý trong thế giới thực.",
+        "B": "Sora đã vượt qua tất cả các mô hình ngôn ngữ lớn (LLM) hàng đầu của Trung Quốc.",
+        "C": "Sora được định giá ở mức 80 tỉ USD, cao hơn nhiều so với ChatGPT.",
+        "D": "Sora tập trung vào ngôn ngữ và văn bản, lĩnh vực mà Trung Quốc còn yếu."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Khi OpenAI ra mắt ChatGPT vào năm 2022, các doanh nghiệp Trung Quốc vẫn tự tin rằng họ sẽ bắt kịp vì chatbot này chỉ tập trung vào ngôn ngữ và văn bản. Nhưng Sora đã chứng minh rằng thế giới số thực sự có thể kết hợp với các định luật vật lý trong thế giới thực, ông Ye nhấn mạnh.' Điều này cho thấy khả năng kết hợp thế giới số với định luật vật lý là điểm đột phá lớn của Sora so với ChatGPT."
+    },
+    {
+      "question": "Theo bài viết, doanh nhân Trung Quốc nào cho rằng khoảng cách giữa Sora và các công cụ chuyển văn bản thành video do Trung Quốc phát triển không lớn như trong lĩnh vực mô hình ngôn ngữ lớn (LLM)?",
+      "choices": {
+        "A": "Yin Ye, CEO tập đoàn nghiên cứu gen BGI.",
+        "B": "Zhou Hongyi, CEO công ty 360 Security Technology.",
+        "C": "Fang Han, CEO hãng game Kunlun Tech.",
+        "D": "Đại diện công ty chứng khoán Ping An."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết trích lời: 'Trong buổi phỏng vấn với Shang Securities News, Fang Han - CEO hãng game Kunlun Tech cho biết... Theo ông Han, khoảng cách giữa Sora và các công cụ chuyển văn bản thành video do Trung Quốc phát triển không lớn như trong lĩnh vực LLM.'"
+    },
+    {
+      "question": "Sau khi Mỹ đưa chip A800 và H800 của Nvidia vào danh sách cấm xuất khẩu vào tháng 10.2023, Nvidia đã có động thái nào tiếp theo để phục vụ khách hàng Trung Quốc?",
+      "choices": {
+        "A": "Ngừng hoàn toàn việc bán tất cả các loại chip AI cho Trung Quốc.",
+        "B": "Tiếp tục bán các loại chip A100 và H100 đã bị cấm trước đó.",
+        "C": "Ra mắt 3 mẫu GPU mới (H20, L20 và L2) dành riêng cho thị trường Trung Quốc.",
+        "D": "Chuyển giao công nghệ sản xuất chip cho các công ty Trung Quốc để tự chủ."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Đến tháng 10.2023, hai loại chip này [A800 và H800] bị Mỹ đưa vào danh sách cấm xuất khẩu. Vào tháng 11.2023, Nvidia tiếp tục ra mắt 3 mẫu GPU mới - H20, L20 và L2 dành riêng cho khách hàng Trung Quốc.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:29:29"
+}

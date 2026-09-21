@@ -1,0 +1,75 @@
+{
+  "url": "https://znews.vn/dao-bitcoin-bang-may-tinh-40-nam-tuoi-post1203749.html",
+  "title": "‘Đào’ Bitcoin bằng máy tính 40 năm tuổi - Công nghệ - ZNEWS.VN",
+  "content": "Lập trình viên Maciej Witkowiak đã viết chương trình khai thác Bitcoin trên Commodore 64, một trong những hệ thống máy tính nổi tiếng nhất lịch sử.\nTheo Witkowiak, chiếc máy này có tỷ lệ băm (hash rate) đạt 0,2 H/s. Đây là đơn vị đo lường khả năng giải thuật toán của thiết bị \"đào\" tiền mã hóa, trong đó có Bitcoin.\nMáy tính Commodore 64 được dùng để khai thác Bitcoin. Ảnh: Decrypt.\nĐể so sánh, những hệ thống khai thác ASIC (application-specific integrated circuit) chuyên dụng hiện nay như Antminer T19 có tỷ lệ băm là 84 TH/s (84 nghìn tỷ H). Do đó, khả năng để chiếc máy tính gần 40 năm tuổi khai thác được một khối Bitcoin gần như là không thể.\nRa mắt vào năm 1982, Commodore 64 là mẫu máy tính gia đình 8-bit, được dùng phổ biến để chơi game và soạn nhạc nhờ chip âm thanh, đồ họa mạnh mẽ. Theo Decrypt, thiết bị nhắm đến phân khúc giá rẻ với RAM 64 KB.\nTỷ lệ băm (hash rate) của Commodore 64 là 0,2 H/s. Ảnh: Decrypt.\nTheo Witkowiak, lý do khiến Commodore 64 “đào” Bitcoin chậm đến từ việc mẫu máy chỉ trang bị chip 8-bit, không xử lý tốt những phép tính 32-bit. Dự án vui vẻ được Witkowiak chia sẻ mã nguồn lên GitHub để người dùng trải nghiệm, nếu vẫn còn giữ Commodore 64.\nĐể khai thác Bitcoin, máy tính cần thực hiện các phép tính giải thuật toán để xác nhận giao dịch trước đó trong chuỗi khối (blockchain). Về cơ bản, cỗ máy sẽ liên tục đưa ra các giá trị băm (hash) để tìm giá trị đúng với giao dịch cần xác thực.\nDo các giá trị băm là hoàn toàn ngẫu nhiên, máy tính có thể phải đưa ra hàng triệu giá trị mới tìm được kết quả đúng. Khi hoàn thành một khối, chủ sở hữu máy tính được thưởng lượng Bitcoin nhất định.\nĐa số máy tính có thể giải thuật toán để khai thác Bitcoin, tuy nhiên các “thợ đào” hiện nay thường sử dụng loại máy ASIC chuyên giải mã thuật toán SHA 256. Năng lực tính toán vượt trội của máy ASIC khiến chủ sở hữu máy tính cá nhân gần như không thể khai thác nổi Bitcoin nữa.\nVào tháng 3, tài khoản YouTube stacksmashing đã viết phần mềm “đào” Bitcoin cho máy Nintendo Game Boy ra mắt từ năm 1989. Với tỷ lệ băm 0,8 H/s, người này nói rằng phải mất “vài triệu năm” để khai thác Bitcoin từ thiết bị.\n\nMột lập trình viên từng mở website tặng Bitcoin vào năm 2010, khi loại tiền này có giá chưa đến 1 USD/đồng.\n14:11 12/4/2021\n\nSau khi tìm cách thuê sát thủ và thanh toán bằng Bitcoin trên dark web, một người đàn ông ở Italy đã bị bắt.\n16:50 9/4/2021",
+  "metadata": [
+    [
+      "https://photo.znews.vn/Uploaded/yqdlcqrwq/2021_04_13/16913042021.jpg",
+      "Dao Bitcoin bang may tinh co anh 1"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/yqdlcqrwq/2021_04_13/17013042021.png",
+      "Dao Bitcoin bang may tinh co anh 2"
+    ],
+    [
+      "https://static.znews.vn/static/topic/company/bitcoin.png",
+      "Bitcoin"
+    ],
+    [
+      "https://static.znews.vn/static/topic/banner/you.png",
+      "YouTube"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/wqjccdxwp/2025_02_19/Pokemon_Go.jpg",
+      "Cai ket cua cha de game 'Pokemon Go' hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/spluaaa/2025_02_18/b13a32ad98b4fbe140ad14137f2c1e70.jpg",
+      "CEO 9x duy nhat ngoi ‘ghe danh du’ truoc mat ong Tap Can Binh hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/ivpbciv2/2025_02_18/Screenshot_2025_02_18_170036.png",
+      "Thiet ke sieu mong cua iPhone 17 Air lo dien hinh anh"
+    ],
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      ""
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Tỷ lệ băm (hash rate) của chiếc máy tính Commodore 64 mà lập trình viên Maciej Witkowiak sử dụng để khai thác Bitcoin là bao nhiêu?",
+      "choices": {
+        "A": "0,2 H/s",
+        "B": "0,8 H/s",
+        "C": "84 TH/s",
+        "D": "64 KB/s"
+      },
+      "correct_answer": "A",
+      "explanation": "Theo bài viết, 'Theo Witkowiak, chiếc máy này có tỷ lệ băm (hash rate) đạt 0,2 H/s.' Phương án B là tỷ lệ băm của Nintendo Game Boy, phương án C là của hệ thống ASIC chuyên dụng, và phương án D là dung lượng RAM của Commodore 64."
+    },
+    {
+      "question": "Theo lập trình viên Witkowiak, lý do chính khiến Commodore 64 'đào' Bitcoin chậm là gì?",
+      "choices": {
+        "A": "Mẫu máy chỉ trang bị chip 8-bit, không xử lý tốt những phép tính 32-bit.",
+        "B": "RAM của máy chỉ có 64 KB, không đủ dung lượng để chạy chương trình khai thác.",
+        "C": "Thiết bị được ra mắt từ năm 1982, công nghệ quá lỗi thời để giải thuật toán hiện đại.",
+        "D": "Chip âm thanh và đồ họa mạnh mẽ của máy tiêu tốn quá nhiều tài nguyên xử lý."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Theo Witkowiak, lý do khiến Commodore 64 “đào” Bitcoin chậm đến từ việc mẫu máy chỉ trang bị chip 8-bit, không xử lý tốt những phép tính 32-bit.'"
+    },
+    {
+      "question": "Theo bài viết, loại máy tính nào hiện được các 'thợ đào' Bitcoin chuyên nghiệp sử dụng phổ biến để giải mã thuật toán SHA 256?",
+      "choices": {
+        "A": "Máy tính cá nhân có cấu hình mạnh.",
+        "B": "Các hệ thống máy tính gia đình 8-bit như Commodore 64.",
+        "C": "Hệ thống khai thác ASIC chuyên dụng.",
+        "D": "Các thiết bị chơi game cầm tay như Nintendo Game Boy."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết cho biết: 'Đa số máy tính có thể giải thuật toán để khai thác Bitcoin, tuy nhiên các “thợ đào” hiện nay thường sử dụng loại máy ASIC chuyên giải mã thuật toán SHA 256.' Các phương án khác đều được đề cập là không hiệu quả hoặc chỉ mang tính thử nghiệm/vui vẻ."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:33:16"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/sergey-brin-tro-lai-google-de-doi-pho-voi-chatgpt-185230203084618693.htm",
+  "title": "Sergey Brin trở lại Google để đối phó với ChatGPT",
+  "content": "Anh Quân 03/02/2023 09:56 GMT+7\nSau gần 4 năm vắng bóng, kỹ sư sáng lập Google - Sergey Brin trở lại công ty và bắt tay vào làm việc với dự án trí tuệ nhân tạo tại đây nhằm đưa ra đáp án cho trường hợp của ChatGPT.\nTrong bối cảnh cuộc chạy đua công nghệ trí tuệ nhân tạo (AI) đang \"làm nóng\" Thung lũng Silicon, nhà đồng sáng lập Google - kỹ sư Sergey Brin đã trở về công ty cũ và bắt tay vào dự án lập trình sau nhiều năm vắng bóng.\nNgày 24.1 vừa qua, Brin đã xử lý những dòng mã lập trình đầu tiên kể từ khi ông rời công việc thường nhật tại Google vào năm 2019. Trang Forbes dẫn lời 2 nguồn tin khẳng định Sergey đã gửi truy vấn liên quan tới dự án LaMDA - phần mềm trò chuyện (chatbot) bằng ngôn ngữ tự nhiên của Google. LaMDA công bố lần đầu năm 2021 nhưng mãi tới gần đây mới được chú ý nhiều hơn khi Google phải tìm cách đối chọi ChatGPT - trí tuệ nhân tạo ra mắt tháng 11.2022 của OpenAI đã nhanh chóng có được 100 triệu người dùng.\nBrin đã gửi truy vấn \"CL\" (viết tắt của \"changelist\") để có quyền truy cập vào dữ liệu huấn luyện LaMDA. Nguồn tin của Forbes khẳng định đã có 2 dòng mã thay đổi trong tập cấu hình để thêm tài khoản của Brin vào. Ngoài ra có vài chục kỹ sư đã đưa yêu cầu phê duyệt LGTM (\"look good to me\" - tôi chấp thuận). Một số đồng thuận khác cũng đến từ nhân sự ngoài dự án LaMDA, cho thấy một nhóm đang háo hức với sự trở lại của nhà đồng sáng lập công ty.\nTuy vậy, truy vấn của Brin cũng gặp phải sự phản ứng không mấy tích cực từ một bộ phận nhân viên Google. Đã có những phản hồi yêu cầu Brin \"khắc phục Google trước\", hoặc muốn ông trực tiếp nói chuyện với họ sau quãng thời gian xa cách nhiều năm.\nHiện Google không đưa ra bình luận nào về sự kiện trên.\nĐộng thái của Sergey Brin là thay đổi nhỏ về mặt kỹ thuật nhưng đủ cho thấy Google đang xem OpenAI cùng các đối thủ trong lĩnh vực trí tuệ nhân tạo là mối đe dọa nghiêm trọng tới đâu. Cả hai đồng sáng lập Sergey Brin và Larry Page đã gần như vắng mặt tại công ty từ năm 2019 sau khi Page từ chức và chuyển giao cho Sundar Pichai trở thành CEO Alphabet - công ty mẹ của Google.\nNhà phát triển ChatGPT ra công cụ phát hiện văn bản do AI viết, hiệu quả ra sao?\nThời gian gần đây, ông Pichai đã tham vấn các nhà sáng lập Google về chiến lược phát triển công nghệ AI, cũng như trợ giúp để có câu trả lời đáp lại ChatGPT, theo New York Times . Và việc Brin \"động tay\" vào LaMDA cho thấy cách những nhà sáng lập phản hồi với yêu cầu của CEO đương nhiệm.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/2/3/sergey-brin-google-16753912210921899067609.jpeg",
+      "Sergey Brin là một trong những kỹ sư lập trình hàng đầu trên thế giới hiện nay"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Mục đích chính của việc Sergey Brin trở lại Google và tham gia vào dự án AI là gì?",
+      "choices": {
+        "A": "Để phát triển một công cụ phát hiện văn bản do AI viết.",
+        "B": "Để giải quyết các phản hồi tiêu cực từ nhân viên Google.",
+        "C": "Để đối phó với sự cạnh tranh từ ChatGPT của OpenAI.",
+        "D": "Để thay thế Sundar Pichai trong vai trò CEO của Alphabet."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Sergey Brin trở lại công ty và bắt tay vào làm việc với dự án trí tuệ nhân tạo tại đây nhằm đưa ra đáp án cho trường hợp của ChatGPT.' và 'Google phải tìm cách đối chọi ChatGPT'."
+    },
+    {
+      "question": "Dự án trí tuệ nhân tạo cụ thể mà Sergey Brin đang tham gia tại Google có tên là gì và được mô tả như thế nào?",
+      "choices": {
+        "A": "ChatGPT, một phần mềm trò chuyện bằng ngôn ngữ tự nhiên.",
+        "B": "CL, một hệ thống truy vấn dữ liệu huấn luyện AI.",
+        "C": "LaMDA, một phần mềm trò chuyện (chatbot) bằng ngôn ngữ tự nhiên.",
+        "D": "LGTM, một công cụ phê duyệt mã lập trình."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập: 'Sergey đã gửi truy vấn liên quan tới dự án LaMDA - phần mềm trò chuyện (chatbot) bằng ngôn ngữ tự nhiên của Google.'"
+    },
+    {
+      "question": "Theo bài viết, hành động kỹ thuật đầu tiên mà Sergey Brin thực hiện sau khi trở lại làm việc thường nhật tại Google vào ngày 24.1 là gì?",
+      "choices": {
+        "A": "Gửi yêu cầu phê duyệt LGTM cho một số kỹ sư.",
+        "B": "Xử lý những dòng mã lập trình đầu tiên kể từ năm 2019.",
+        "C": "Tham vấn Sundar Pichai về chiến lược phát triển công nghệ AI.",
+        "D": "Công bố phiên bản mới của phần mềm trò chuyện LaMDA."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết khẳng định: 'Ngày 24.1 vừa qua, Brin đã xử lý những dòng mã lập trình đầu tiên kể từ khi ông rời công việc thường nhật tại Google vào năm 2019.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:10:23"
+}

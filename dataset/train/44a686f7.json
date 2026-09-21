@@ -1,0 +1,47 @@
+{
+  "url": "https://lifestyle.znews.vn/kiem-tra-karaoke-pho-dem-lo-dien-nhieu-doi-phe-ma-tuy-post1519429.html",
+  "title": "Kiểm tra karaoke Phố Đêm, lộ diện nhiều đôi phê ma túy",
+  "content": "Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an Quảng Nam phát hiện 7 đối tượng sử dụng trái phép chất ma túy tại cơ sở kinh doanh karaoke Phố Đêm (thị trấn Núi Thành, huyện Núi Thành).\nKhoảng 1h45 rạng sáng cùng ngày, tổ công tác Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an tỉnh Quảng Nam kiểm tra đột xuất cơ sở kinh doanh dịch vụ karaoke Phố Đêm, phát hiện nhóm đối tượng có biểu hiện sử dụng trái phép chất ma túy, sau đó phối hợp lực lượng Công an huyện Núi Thành điều tra làm rõ.\nTại thời điểm kiểm tra, trong quán karaoke Phố Đêm có 28 khách (16 nam, 12 nữ) đang thuê hát tại 3 phòng. Tiến hành test nhanh, phát hiện có 7 khách (6 nam, 1 nữ) dương tính với chất ma túy; tang vật thu giữ gồm 0,45 g nghi ma túy dạng Ketamin và một số tang vật khác có liên quan.\nVụ việc sau đó được bàn giao cho Công an huyện Núi Thành tiếp tục xác minh, điều tra, xử lý theo thẩm quyền.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/oplukaa/2024_12_20/anh1_3.jpg, ",
+      "Các đối tượng tại cơ sở kinh doanh karaoke Phố Đêm."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Đơn vị công an nào đã tiến hành kiểm tra đột xuất cơ sở kinh doanh karaoke Phố Đêm?",
+      "choices": {
+        "A": "Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an Quảng Nam",
+        "B": "Công an huyện Núi Thành",
+        "C": "Phòng Cảnh sát điều tra tội phạm về ma túy Công an Quảng Nam",
+        "D": "Công an tỉnh Quảng Nam"
+      },
+      "correct_answer": "A",
+      "explanation": "Theo nội dung bài viết: 'Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an tỉnh Quảng Nam kiểm tra đột xuất cơ sở kinh doanh dịch vụ karaoke Phố Đêm'."
+    },
+    {
+      "question": "Có bao nhiêu khách hàng tại karaoke Phố Đêm được phát hiện dương tính với chất ma túy qua test nhanh?",
+      "choices": {
+        "A": "28 khách",
+        "B": "16 khách",
+        "C": "7 khách",
+        "D": "12 khách"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Tiến hành test nhanh, phát hiện có 7 khách (6 nam, 1 nữ) dương tính với chất ma túy'."
+    },
+    {
+      "question": "Tang vật nghi là ma túy thu giữ tại hiện trường được mô tả là loại nào?",
+      "choices": {
+        "A": "Heroin",
+        "B": "Ketamin",
+        "C": "Ecstasy",
+        "D": "Ma túy đá"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết thông tin: 'tang vật thu giữ gồm 0,45 g nghi ma túy dạng Ketamin'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:21:19"
+}

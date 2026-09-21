@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/7-nguoi-chet-duoi-vi-buc-anh-selfie-4279559.html",
+  "title": "\n7 người chết đuối vì bức ảnh selfie ",
+  "content": "Tai nạn xảy ra khi chiếc thuyền chở quá số lượng quy định khách du lịch tham quan trên hồ chứa tại huyện Boyolali hôm 16/5. Theo cảnh sát trưởng Trung Java Ahmad Lutfi, 20 hành khách đột ngột di chuyển sang một bên thuyền để chụp ảnh selfie, khiến thuyền bị lật.\n\"Nguyên nhân của vụ tai nạn là do quá tải. Quá đông người dồn về bên phải của thuyền, khiến nó mất thăng bằng và lật\", cảnh sát trưởng Lutfi nói.\nLực lượng cứu hộ giải cứu các nạn nhân trong vụ lật thuyền ở Boyolali, Trung Java, Indonesia, hôm 15/5. Ảnh: AFP.\nCác sĩ quan cảnh sát cho biết vụ tai nạn thương tâm đã khiến 7 người chết, hai người mất tích, trong khi 11 người được lực lượng này giải cứu an toàn. Giới chức Indonesia tuyên bố sẽ điều tra về khả năng xảy ra sơ suất của bên quản lý các con thuyền phục vụ du khách. Con thuyền gặp nạn được xác nhận do một thiếu niên mới 13 tuổi cầm lái.\nTai nạn tàu thuyền thường xảy ra ở Indonesia do các tiêu chuẩn an toàn không được chấp hành nghiêm ngặt. Hồi tháng 4, hai chiếc thuyền đâm nhau ở Tây Java, khiến ba người chết và 13 người mất tích. Vào tháng một năm ngoái, 10 người cũng mất tích sau khi một chiếc thuyền chở 20 công nhân nhập cư đến nước láng giềng Malaysia bị lật ngoài khơi đảo Sumatra.\nNgọc Ánh (Theo AFP)",
+  "megadata": [
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/05/17/fb-cap-doia000-9A37YT-2222-1621244115.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=_ly_ofRp-ezLIiAG53CG5Q",
+      "Lực lượng cứu hộ giải cứu các nạn nhân trong vụ lật thuyền ở Boyolali, Trung Java, Indonesia, hôm 15/5. Ảnh: AFP."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Nguyên nhân trực tiếp khiến chiếc thuyền bị lật tại hồ chứa Boyolali là gì?",
+      "choices": {
+        "A": "Chiếc thuyền chở quá số lượng quy định và hành khách đột ngột di chuyển sang một bên để chụp ảnh selfie.",
+        "B": "Chiếc thuyền va chạm với một vật thể lạ dưới nước do tầm nhìn kém.",
+        "C": "Người lái thuyền là một thiếu niên 13 tuổi thiếu kinh nghiệm, không kiểm soát được phương tiện.",
+        "D": "Thời tiết xấu và sóng lớn trên hồ khiến thuyền mất thăng bằng."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Tai nạn xảy ra khi chiếc thuyền chở quá số lượng quy định khách du lịch... 20 hành khách đột ngột di chuyển sang một bên thuyền để chụp ảnh selfie, khiến thuyền bị lật.' Cảnh sát trưởng Lutfi cũng khẳng định: 'Nguyên nhân của vụ tai nạn là do quá tải. Quá đông người dồn về bên phải của thuyền, khiến nó mất thăng bằng và lật'."
+    },
+    {
+      "question": "Theo thông tin trong bài viết, vụ tai nạn lật thuyền ở Boyolali đã gây ra những hậu quả cụ thể nào về người?",
+      "choices": {
+        "A": "7 người chết, 2 người mất tích và 11 người được giải cứu an toàn.",
+        "B": "3 người chết và 13 người mất tích trong một vụ va chạm khác.",
+        "C": "10 người mất tích sau khi một chiếc thuyền chở công nhân nhập cư bị lật.",
+        "D": "20 hành khách bị thương nặng và phải nhập viện."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết tường thuật: 'Các sĩ quan cảnh sát cho biết vụ tai nạn thương tâm đã khiến 7 người chết, hai người mất tích, trong khi 11 người được lực lượng này giải cứu an toàn.' Các phương án B và C đề cập đến các vụ tai nạn khác được nhắc đến trong bài viết."
+    },
+    {
+      "question": "Giới chức Indonesia tuyên bố sẽ điều tra về khả năng xảy ra sơ suất của bên nào liên quan đến vụ tai nạn lật thuyền ở Boyolali?",
+      "choices": {
+        "A": "Các hành khách trên thuyền vì đã di chuyển đột ngột.",
+        "B": "Lực lượng cứu hộ vì đã chậm trễ trong việc giải cứu.",
+        "C": "Bên quản lý các con thuyền phục vụ du khách.",
+        "D": "Cảnh sát trưởng Trung Java Ahmad Lutfi."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết cho biết: 'Giới chức Indonesia tuyên bố sẽ điều tra về khả năng xảy ra sơ suất của bên quản lý các con thuyền phục vụ du khách.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:30:02"
+}

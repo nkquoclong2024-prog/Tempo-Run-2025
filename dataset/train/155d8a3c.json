@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/nhieu-thong-tin-ve-vu-khi-mini-taurus-ukraine-sap-nhan-tu-duc-185241119234929506.htm",
+  "title": "Nhiễu thông tin về vũ khí ‘Mini-Taurus’ Ukraine sắp nhận từ Đức",
+  "content": "Trong khi chờ đợi tên lửa hành trình Taurus, quân đội Ukraine sẽ nhận được một loại vũ khí khác từ Đức.\nĐức có thể chưa cung cấp thứ vũ khí mà Ukraine mong đợi là tên lửa hành trình Taurus. Nhưng Berlin vừa tuyên bố sẽ chuyển giao cho Kyiv 4.000 chiếc “Mini-Taurus” - một loại máy bay không người lái tự sát có trí tuệ nhân tạo.\nViệc viện trợ đã được Bộ trưởng Quốc phòng Đức Boris Pistorius xác nhận. Là sản phẩm của công ty Đức Helsing, các “Mini-Taurus” được trang bị các hệ thống điện tử hiện đại, hầu như không bị ảnh hưởng trước các hệ thống tác chiến điện tử và gây nhiễu GPS của Nga.\nHình ảnh hiếm hoi về máy bay không người lái “Mini-Taurus” của Đức\nẢNH: BILD\nTheo báo Bild dẫn lời những người trong cuộc, hàng trăm máy bay không người lái (UAV) này sẽ được đưa tới Ukraine mỗi tháng, bắt đầu từ tháng 12.2024. Một số mẫu hiện đang được thử nghiệm ở miền đông Ukraine trong điều kiện chiến đấu thực tế.\nCác “Mini-Taurus” được tích hợp AI giúp đơn giản hóa quá trình tìm kiếm, dẫn đường và phá hủy mục tiêu mặt đất, và thậm chí có thể đánh cả mục tiêu trên không.\nNó có tầm bay xa gấp bốn lần so với máy bay không người lái tiêu chuẩn của Ukraine nhưng có giá thành thấp hơn so với các đối thủ nước ngoài.\nTuy nhiên, cũng trong ngày 18.11, báo Đức Der Spiegel nói loại UAV tự sát mà chính phủ Đức sẽ chuyển giao cho Ukraine là AQ100 Bayonet. Phương tiện này có thể mang khoảng 4,6kg chất nổ tới mục tiêu, và có trang bị AI để chống các biện pháp gây nhiễu của Nga.\nĐể cung cấp UAV này, hãng Helsing hợp tác với một nhà cung cấp của Mỹ, và việc sản xuất được tiến hành tại Ukraine. Theo trang web của nhà sản xuất, AQ100 có tốc độ 144km/giờ và tầm hoạt động tối đa 150km. Spiegel cho biết phiên bản cơ bản của loại UAV này có giá khoảng 2.000 USD/chiếc.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/528068263637045248/2024/11/19/duc-se-cung-cap-may-bay-khong-nguoi-lai-ai-cho-ukraine-1-17320348434901070548751.jpg",
+      "Hình ảnh hiếm hoi về máy bay không người lái “Mini-Taurus” của Đức"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo Bộ trưởng Quốc phòng Đức Boris Pistorius, loại vũ khí nào mà Đức sẽ chuyển giao cho Kyiv, thay vì tên lửa hành trình Taurus như Ukraine mong đợi?",
+      "choices": {
+        "A": "Tên lửa hành trình Taurus",
+        "B": "4.000 chiếc “Mini-Taurus” - máy bay không người lái tự sát có trí tuệ nhân tạo",
+        "C": "Xe tăng chiến đấu chủ lực Leopard",
+        "D": "Hệ thống phòng không IRIS-T"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Berlin vừa tuyên bố sẽ chuyển giao cho Kyiv 4.000 chiếc “Mini-Taurus” - một loại máy bay không người lái tự sát có trí tuệ nhân tạo. Việc viện trợ đã được Bộ trưởng Quốc phòng Đức Boris Pistorius xác nhận.'"
+    },
+    {
+      "question": "Đặc điểm nào sau đây được nêu bật về “Mini-Taurus” (sản phẩm của công ty Helsing) trong bài viết?",
+      "choices": {
+        "A": "Có tầm bay xa gấp đôi so với máy bay không người lái tiêu chuẩn của Ukraine.",
+        "B": "Hầu như không bị ảnh hưởng bởi các hệ thống tác chiến điện tử và gây nhiễu GPS của Nga.",
+        "C": "Có giá thành cao hơn so với các đối thủ nước ngoài do công nghệ tiên tiến.",
+        "D": "Chỉ có khả năng phá hủy mục tiêu mặt đất."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết cho biết: 'Là sản phẩm của công ty Đức Helsing, các “Mini-Taurus” được trang bị các hệ thống điện tử hiện đại, hầu như không bị ảnh hưởng trước các hệ thống tác chiến điện tử và gây nhiễu GPS của Nga.'"
+    },
+    {
+      "question": "Theo báo Der Spiegel, loại UAV tự sát mà chính phủ Đức sẽ chuyển giao cho Ukraine là AQ100 Bayonet. Thông tin nào sau đây về AQ100 Bayonet là *không đúng* dựa trên bài viết?",
+      "choices": {
+        "A": "Có thể mang khoảng 4,6kg chất nổ tới mục tiêu.",
+        "B": "Được sản xuất tại Ukraine thông qua hợp tác với một nhà cung cấp của Mỹ.",
+        "C": "Có tốc độ 144km/giờ và tầm hoạt động tối đa 150km.",
+        "D": "Phiên bản cơ bản có giá khoảng 20.000 USD/chiếc."
+      },
+      "correct_answer": "D",
+      "explanation": "Bài viết nêu rõ: 'Spiegel cho biết phiên bản cơ bản của loại UAV này có giá khoảng 2.000 USD/chiếc.', không phải 20.000 USD."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:22:58"
+}

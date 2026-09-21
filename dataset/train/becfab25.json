@@ -1,0 +1,47 @@
+{
+  "url": "https://lifestyle.znews.vn/truong-dau-tien-thuoc-dh-quoc-gia-tphcm-cong-bo-phuong-an-tuyen-sinh-post1509954.html",
+  "title": "Trường đầu tiên thuộc ĐH Quốc gia TP.HCM công bố phương án tuyển sinh",
+  "content": "Đại học Kinh tế - Luật (Đại học Quốc gia TP.HCM) vừa công bố phương án tuyển sinh đại học chính quy năm 2025.\nĐây là trường đầu tiên thuộc Đại học Quốc gia TP.HCM công bố phương án tuyển sinh đại học chính quy năm 2025. Trường sẽ tuyển sinh theo 3 phương thức, giảm 2 phương thức so với năm 2024.\nCác phương thức tuyển sinh năm tới gồm:\nBốn tổ hợp môn xét tuyển gồm A01 (Toán, Lý, Tiếng Anh), D01 (Toán, Tiếng Anh, Ngữ văn) và hai tổ hợp mới gồm Toán, Tiếng Anh, Tin học và Toán, Tiếng Anh, Giáo dục kinh tế và pháp luật.\nNhư vậy, so với năm 2024, trường bỏ xét tuyển bằng tổ hợp A00 (Toán, Lý, Hóa) và D07 (Toán, Hóa, Tiếng Anh).\nNăm vừa qua, Đại học Kinh tế - Luật tuyển 2.600 chỉ tiêu vào 15 ngành học, 23 ngành/chuyên ngành giảng dạy bằng tiếng Việt, 8 ngành/chuyên ngành giảng dạy bằng tiếng Anh.\nNăm 2025 là năm đầu tiên học sinh thi tốt nghiệp THPT theo chương trình giáo dục phổ thông 2018. Kỳ thi gồm hai môn bắt buộc là Toán và Ngữ văn. Ngoài ra, thí sinh được chọn hai trong các môn của chương trình giáo dục phổ thông, gồm: Hóa học, Vật lý, Sinh học, Ngữ văn, Địa lý, Lịch sử, Giáo dục kinh tế và pháp luật, Tin học, Công nghệ và Ngoại ngữ (Anh, Đức, Nga, Nhật, Pháp, Trung, Hàn).",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/hointt/2024_11_09/IMG_8475.jpg, ",
+      "Đại học Kinh tế - Luật bỏ hai tổ hợp xét tuyển đại học 2025. Ảnh: FBNT."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông tin trong bài viết, Đại học Kinh tế - Luật sẽ áp dụng bao nhiêu phương thức tuyển sinh cho năm 2025 và sự thay đổi so với năm 2024 là gì?",
+      "choices": {
+        "A": "3 phương thức, giảm 2 phương thức so với năm 2024.",
+        "B": "5 phương thức, giảm 2 phương thức so với năm 2024.",
+        "C": "3 phương thức, tăng 2 phương thức so với năm 2024.",
+        "D": "2 phương thức, giảm 3 phương thức so với năm 2024."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Trường sẽ tuyển sinh theo 3 phương thức, giảm 2 phương thức so với năm 2024'."
+    },
+    {
+      "question": "So với năm 2024, tổ hợp môn xét tuyển nào sau đây đã bị Đại học Kinh tế - Luật loại bỏ trong phương án tuyển sinh năm 2025?",
+      "choices": {
+        "A": "Toán, Lý, Hóa (A00)",
+        "B": "Toán, Lý, Tiếng Anh (A01)",
+        "C": "Toán, Tiếng Anh, Ngữ văn (D01)",
+        "D": "Toán, Tiếng Anh, Tin học"
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết chỉ ra: 'Như vậy, so với năm 2024, trường bỏ xét tuyển bằng tổ hợp A00 (Toán, Lý, Hóa) và D07 (Toán, Hóa, Tiếng Anh)'. Phương án A chính là tổ hợp A00."
+    },
+    {
+      "question": "Theo phương án tuyển sinh năm 2025 của Đại học Kinh tế - Luật, môn học nào sau đây là một phần của tổ hợp môn xét tuyển MỚI được công bố?",
+      "choices": {
+        "A": "Tin học",
+        "B": "Ngữ văn",
+        "C": "Vật lý",
+        "D": "Hóa học"
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết đề cập đến 'hai tổ hợp mới gồm Toán, Tiếng Anh, Tin học và Toán, Tiếng Anh, Giáo dục kinh tế và pháp luật'. Do đó, Tin học là một môn trong các tổ hợp mới."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:09:00"
+}

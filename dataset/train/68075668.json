@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/khoi-to-3-vu-an-lam-lay-covid-19-o-bac-ninh-4348233.html",
+  "title": "\nKhởi tố 3 vụ án làm lây Covid-19 ở Bắc Ninh ",
+  "content": "3 vụ án cùng được khởi tố ngày 29/8 về tội Làm lây lan dịch bệnh truyền nhiễm gây nguy hiểm cho người khác theo điều 240, Bộ luật Hình sự. Hiện, chưa ai bị khởi tố.\nVụ thứ nhất xảy ra ngày 14/8 tại chi nhánh Viettel post ở thị trấn Thứa, huyện Lương Tài. Theo nhà chức trách, nhân viên 28 tuổi phải cách ly sau khi về từ Hà Nội nhưng từ ngày 7/8 đến 13/8, anh vẫn tiếp tục giao hàng tại một số xã thuộc huyện Lương Tài, Tiên Du. Ngày 14/8, anh đi xét nghiệm, kết quả dương tính. 8 đồng nghiệp của anh ở thị trấn Thứa đã mắc Covid-19.\nCông an huyện Thuận Thành khởi tố vụ án xảy ra tại xã Mão Điền. Sau khi ổ dịch tại Viettel Post được phát hiện, CDC Bắc Ninh yêu cầu các trường hợp từng đi, đến, ở, trở về từ thị trấn Thứa hoặc những địa điểm có ca dương tính Covid-19 phải khai báo y tế.\nCông an cho rằng một đôi vợ chồng cao tuổi ở xã Mão Điền không khai báo đúng lịch trình di chuyển. Ngày 21/8, ông bà có kết quả dương tính. Hai người con sau đó cũng mắc Covid-19.\nChi nhánh Viettel Post ở huyện Lương Tài, nơi có 8 nhân viên dương tính. Ảnh: Công an Bắc Ninh.\nTại huyện Gia Bình, công an khởi tố vụ án để điều tra hành vi làm lây bệnh của người đàn ông 38 tuổi, hành nghề lái xe dịch vụ. Anh có kết quả xét nghiệm dương tính ngày 25/8. Từ ngày 11 đến 22/8, anh liên tục lái xe đón khách từ TP HCM về nhiều tỉnh, thành.\nĐến chiều 29/8, Bắc Ninh ghi nhận 1.810 ca mắc Covid-19. Trong đó, huyện Lương Tài có 85 ca, Thuận Thành 600 ca và Gia Bình có 12 ca.\nSong Minh",
+  "megadata": [
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/08/29/240163273-937741370140643-9046-5169-7532-1630244510.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=-dlDuN9A5kTPYvwYoLNAig",
+      "Chi nhánh Viettel Post ở huyện Lương Tài, nơi có 8 nhân viên dương tính. Ảnh: Công an Bắc Ninh."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Ba vụ án làm lây lan dịch Covid-19 ở Bắc Ninh được khởi tố vào ngày nào và theo tội danh nào?",
+      "choices": {
+        "A": "Ngày 29/8, tội Làm lây lan dịch bệnh truyền nhiễm gây nguy hiểm cho người khác.",
+        "B": "Ngày 14/8, tội Vi phạm quy định về phòng, chống dịch bệnh truyền nhiễm.",
+        "C": "Ngày 21/8, tội Không khai báo y tế trung thực.",
+        "D": "Ngày 25/8, tội Gây nguy hiểm cho sức khỏe cộng đồng."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: '3 vụ án cùng được khởi tố ngày 29/8 về tội Làm lây lan dịch bệnh truyền nhiễm gây nguy hiểm cho người khác theo điều 240, Bộ luật Hình sự'."
+    },
+    {
+      "question": "Trong vụ án tại chi nhánh Viettel Post ở thị trấn Thứa, huyện Lương Tài, hành vi vi phạm của nhân viên 28 tuổi là gì?",
+      "choices": {
+        "A": "Không khai báo y tế sau khi trở về từ vùng dịch.",
+        "B": "Tiếp tục giao hàng khi đang trong thời gian cách ly sau khi về từ Hà Nội.",
+        "C": "Từ chối xét nghiệm Covid-19 khi có triệu chứng.",
+        "D": "Cố tình tiếp xúc với 8 đồng nghiệp sau khi biết mình dương tính."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết cho biết: 'nhân viên 28 tuổi phải cách ly sau khi về từ Hà Nội nhưng từ ngày 7/8 đến 13/8, anh vẫn tiếp tục giao hàng tại một số xã thuộc huyện Lương Tài, Tiên Du'."
+    },
+    {
+      "question": "Theo bài viết, huyện nào trong số các huyện có vụ án được khởi tố ghi nhận số ca mắc Covid-19 cao nhất tính đến chiều 29/8?",
+      "choices": {
+        "A": "Huyện Lương Tài",
+        "B": "Huyện Gia Bình",
+        "C": "Huyện Thuận Thành",
+        "D": "TP Bắc Ninh"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết cung cấp số liệu: 'Trong đó, huyện Lương Tài có 85 ca, Thuận Thành 600 ca và Gia Bình có 12 ca'. Huyện Thuận Thành có số ca cao nhất (600 ca) trong số các huyện có vụ án được khởi tố."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 15:18:53"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://lifestyle.znews.vn/ung-dung-vneid-duoc-tich-hop-thong-tin-ve-cu-tru-post1320563.html",
+  "title": "Ứng dụng VNeID được tích hợp thông tin về cư trú",
+  "content": "Ứng dụng VNeID được tích hợp thông tin về cư trú\nHoàng Lam\nThứ bảy, 4/3/2023 18:33 (GMT+7)\nTài khoản định danh mức 2 sẽ hiển thị thông tin cư trú gồm các dữ liệu về chủ hộ, thành viên khác có quan hệ với chủ hộ, họ và tên, số định danh, dân tộc, quốc tịch.\nTrung tâm Dữ liệu quốc gia về dân cư thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06 - Bộ Công an) cho biết ứng dụng VNeID vừa được cập nhật phiên bản mới 2.0.7. Trong đó, tiện ích này đã được trang bị thêm dữ liệu thông tin cư trú của công dân.\nĐể được hiển thị thông tin trên, chủ tài khoản cần có tài khoản định danh mức độ 2. Sau khi kích hoạt mức 2, công dân đăng nhập rồi vào mục \"Ví giấy tờ\" để truy cập dữ liệu \"Thông tin cư trú\" của mình và người thân.\nThông tin cư trú sẽ hiển thị các nội dung gồm: Chủ hộ, các thành viên khác có quan hệ với chủ hộ, họ và tên, số định danh, dân tộc, quốc tịch, nơi thường trú, nơi tạm trú, nơi ở hiện tại của tất cả thành viên trong gia đình (nếu chủ hộ đã kê khai với cơ quan công an).\n\nTrung tâm Dữ liệu quốc gia về dân cư cho biết cơ quan này đang phối hợp với các đơn vị chức năng liên quan xem xét tính pháp lý của dữ liệu thông tin cư trú vừa được cập nhật, theo hướng có thể thay thế được Giấy xác nhận cư trú khi thực hiện các thủ tục hành chính.\nTheo Nghị định số 59/2022, tài khoản định danh điện tử có 2 mức độ. Trong đó, mức độ 1 gồm những thông tin cá nhân và ảnh chân dung. Ở mức 1, người dân được sử dụng một số tính năng cơ bản như: Giải quyết dịch vụ công trực tuyến về thông báo lưu trú, đăng ký thường trú, tạm trú, khai báo tạm vắng.\nĐối với mức 2, tài khoản này có thêm thông tin về sinh trắc học của công dân (vân tay). Với tài khoản này, người dân được sử dụng tất cả tiện ích đã tích hợp các loại giấy tờ gồm: Giấy phép lái xe, đăng ký xe, bảo hiểm y tế, thanh toán nhiều loại hóa đơn điện tử (điện, nước, chuyển tiền...).\nMới đây Bộ Công an ghi nhận nhiều ý kiến phản ánh người dân gặp khó khăn khi làm thủ tục hành chính, có trường hợp phải xin xác nhận cư trú dù đã có CCCD gắn chip. Để khắc phục, Bộ Công an đề nghị tăng cường kiểm tra việc cán bộ sử dụng thông tin cư trú của công dân trong Cơ sở dữ liệu quốc gia; kiên quyết xử lý, kỷ luật những người làm trái quy định, cố tình gây khó khăn, phiền hà, sách nhiễu công dân.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/pwivovlb/2022_05_25/cu_tru.jpg",
+      "Thông tin cư trú hiển thị trên VNeID."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Để có thể xem thông tin cư trú của mình và người thân trên ứng dụng VNeID, công dân cần đáp ứng điều kiện nào sau đây?",
+      "choices": {
+        "A": "Có tài khoản định danh điện tử mức độ 1.",
+        "B": "Có tài khoản định danh điện tử mức độ 2.",
+        "C": "Đã đăng ký căn cước công dân gắn chip.",
+        "D": "Đã kích hoạt VNeID và đăng nhập thành công."
+      }
+    },
+    {
+      "question": "Theo thông tin trong bài viết, tiện ích 'Thông tin cư trú' trên VNeID phiên bản 2.0.7 sẽ hiển thị các nội dung nào sau đây, ngoại trừ?",
+      "choices": {
+        "A": "Họ và tên, số định danh, dân tộc, quốc tịch của các thành viên.",
+        "B": "Nơi thường trú, nơi tạm trú, nơi ở hiện tại của tất cả thành viên trong gia đình.",
+        "C": "Chủ hộ và mối quan hệ của các thành viên khác với chủ hộ.",
+        "D": "Ngày sinh và giới tính của từng thành viên trong gia đình."
+      }
+    },
+    {
+      "question": "Theo Nghị định số 59/2022 được đề cập trong bài viết, điểm khác biệt chính về tính năng sử dụng giữa tài khoản định danh điện tử mức độ 1 và mức độ 2 là gì?",
+      "choices": {
+        "A": "Mức độ 1 cho phép giải quyết dịch vụ công trực tuyến về thông báo lưu trú, còn mức độ 2 không có tính năng này.",
+        "B": "Mức độ 2 có thêm thông tin về sinh trắc học (vân tay), trong khi mức độ 1 chỉ có thông tin cá nhân và ảnh chân dung.",
+        "C": "Mức độ 2 cho phép sử dụng tất cả tiện ích đã tích hợp các loại giấy tờ như Giấy phép lái xe, đăng ký xe, bảo hiểm y tế, thanh toán hóa đơn điện tử.",
+        "D": "Mức độ 1 yêu cầu xác nhận cư trú, còn mức độ 2 không yêu cầu."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:01:27"
+}

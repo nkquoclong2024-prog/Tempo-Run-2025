@@ -1,0 +1,59 @@
+{
+  "url": "https://vnexpress.net/cau-do-ket-noi-cac-diem-bang-duong-ke-4262047.html",
+  "title": "\nCâu đố kết nối các điểm bằng đường kẻ ",
+  "content": "Câu 1: Hãy dùng ba đường kẻ để kết nối các điểm và trở lại điểm bắt đầu.\n>>Đáp án\nCâu 2: Hãy kết nối 9 điểm này bằng 4 đường kẻ.\n>>Đáp án\nCâu 3: Chỉ với ba đường kẻ, bạn hãy nối 9 điểm sau:\n>>Đáp án\nCâu 4: Bạn hãy dùng 6 đường kẻ để nối 16 điểm dưới đây:\n>>Đáp án\nTheo Brightside",
+  "megadata": [
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/04/13/2-8645-1618282081.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=GGKK6eeLdX-0UKDM-Q4IYg",
+      "Đố"
+    ],
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/04/13/5-1502-1618282082.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=jGp48QU2YuL2meiDeL2W1Q",
+      "Đố - 2"
+    ],
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/04/13/7-1153-1618282082.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=eowZrIP7YlegICPbrKY7Ug",
+      "Đố - 4"
+    ],
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/04/13/9-1554-1618282082.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=KIPoveyDgijt1KVoXspUXA",
+      "Đố - 6"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo nội dung tin tức, để nối 9 điểm, bài viết đề cập đến việc sử dụng bao nhiêu đường kẻ?",
+      "choices": {
+        "A": "3 đường kẻ",
+        "B": "4 đường kẻ",
+        "C": "Cả 3 và 4 đường kẻ",
+        "D": "6 đường kẻ"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập đến hai trường hợp nối 9 điểm: 'Câu 2: Hãy kết nối 9 điểm này bằng 4 đường kẻ.' và 'Câu 3: Chỉ với ba đường kẻ, bạn hãy nối 9 điểm sau:'. Do đó, cả 3 và 4 đường kẻ đều được nhắc đến cho việc nối 9 điểm."
+    },
+    {
+      "question": "Nguồn tin tức đã cung cấp các câu đố về kết nối điểm bằng đường kẻ trong bài viết là từ đâu?",
+      "choices": {
+        "A": "Brightside",
+        "B": "Wikipedia",
+        "C": "BBC News",
+        "D": "The New York Times"
+      },
+      "correct_answer": "A",
+      "explanation": "Cuối bài viết có ghi rõ nguồn tin của các câu đố là 'Theo Brightside'."
+    },
+    {
+      "question": "Bài viết đã giới thiệu tổng cộng bao nhiêu câu đố khác nhau về việc kết nối các điểm bằng đường kẻ?",
+      "choices": {
+        "A": "3 câu đố",
+        "B": "4 câu đố",
+        "C": "5 câu đố",
+        "D": "6 câu đố"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết liệt kê rõ ràng 'Câu 1', 'Câu 2', 'Câu 3', 'Câu 4', tổng cộng là 4 câu đố khác nhau."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:15:03"
+}

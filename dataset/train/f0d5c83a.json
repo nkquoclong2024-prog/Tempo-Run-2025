@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/san-pham-apple-tiep-theo-duoc-dai-tu-thiet-ke-post1517227.html",
+  "title": "Sản phẩm Apple tiếp theo được đại tu thiết kế",
+  "content": "Apple đặt mục tiêu thay đổi MacBook Pro từ màn hình mini-LED sang tấm nền OLED. Bên cạnh đó, phần khuyết \"tai thỏ\" sẽ bị loại bỏ để thay thế bằng thiết kế đục lỗ.\nCông ty nghiên cứu Omdia mới đây đã tiết lộ Apple chuẩn bị \"đại tu\" lớn về thiết kế cho MacBook Pro, sớm nhất là vào năm 2026. Cụ thể, lộ trình cho thấy Táo khuyết có kế hoạch phát hành các mẫu MacBook Pro 14 và 16 inch với màn hình OLED vào năm 2026-2027.\nĐáng chú ý, nguồn tin này cũng tiết lộ MacBook Pro thế hệ mới sẽ chuyển từ thiết kế \"góc bo tròn và cắt khuyết một phần\" sang \"góc bo tròn và đục lỗ\" để chứa webcam thiết bị.\nNếu thông tin này là đúng, Apple sẽ chuyển từ thiết kế \"tai thỏ\" sang dạng camera tron màn hình với MacBook Pro phiên bản 2026-2027.\nĐiều này sẽ làm tăng phần diện tích có thể sử dụng của màn hình MacBook Pro. Theo MacRumors, nó cũng hạn chế phần khuyết \"tai thỏ\" cắt mất thanh menu trong macOS như hiện nay.\nVới thiết kế đục lỗ mới cùng công nghệ màn hình OLED, MacBook Pro phiên bản 2026-2027 nhiều khả năng sẽ áp dụng thiết kế Dynamic Island tương tự như iPhone.\nTáo khuyết sẽ sử dụng công nghệ màn hình OLED kép tương tự những gì đã được giới thiệu trên iPad Pro trong năm 2024. Giải pháp này giúp màn hình thiết bị sáng hơn, tăng tỷ lệ tương phản, cải thiện thời lượng pin.\nTrước đó, vào đầu tháng 9, nhà phân tích Ming-Chi Kuo và Ross Young đều dự đoán MacBook Pro sẽ chuyển sang màn hình OLED sớm nhất vào năm 2026, áp dụng cả 2 phiên bản 14 và 16 inch. Điều đó đồng nghĩa MacBook Pro 2025 vẫn dùng màn hình Mini LED như hiện nay.\nTheo MacRumors, màn hình OLED còn có thể giúp MacBook Pro 2026 mỏng hơn. Trước đây, MacBook Pro thường thay đổi thiết kế theo chu kỳ 4 năm. Lần gần nhất dòng máy được cập nhật thiết kế vào năm 2021 với chip M1.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/ivpbciv2/2024_12_10/tai_xuong_2024_12_10T234534.622.jpeg, ",
+      "Phần khuyết \"tai thỏ\" trên MacBook Pro. Ảnh: MacRumors."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Thay đổi thiết kế chính nào được dự đoán sẽ xuất hiện trên MacBook Pro vào năm 2026-2027?",
+      "choices": {
+        "A": "Chuyển từ màn hình mini-LED sang OLED và loại bỏ phần khuyết 'tai thỏ' bằng thiết kế đục lỗ.",
+        "B": "Giữ nguyên màn hình mini-LED nhưng thay thế 'tai thỏ' bằng công nghệ Dynamic Island.",
+        "C": "Chuyển sang màn hình OLED kép và tích hợp cảm biến vân tay dưới màn hình.",
+        "D": "Giảm kích thước màn hình tổng thể và loại bỏ hoàn toàn webcam."
+      },
+      "correct_answer": "A",
+      "explanation": "Theo bài viết, Apple đặt mục tiêu thay đổi MacBook Pro từ màn hình mini-LED sang tấm nền OLED và phần khuyết 'tai thỏ' sẽ bị loại bỏ để thay thế bằng thiết kế đục lỗ, sớm nhất là vào năm 2026-2027."
+    },
+    {
+      "question": "Công nghệ màn hình OLED mới dự kiến áp dụng cho MacBook Pro 2026-2027 có đặc điểm gì nổi bật và mang lại lợi ích gì?",
+      "choices": {
+        "A": "Sử dụng công nghệ OLED kép tương tự iPad Pro 2024, giúp màn hình sáng hơn, tăng tỷ lệ tương phản và cải thiện thời lượng pin.",
+        "B": "Là màn hình OLED đơn với khả năng tự động điều chỉnh độ sáng theo môi trường và hỗ trợ tần số quét 240Hz.",
+        "C": "Tích hợp cảm biến ánh sáng thế hệ mới và khả năng hiển thị màu sắc rộng hơn 30% so với thế hệ trước.",
+        "D": "Giúp giảm độ dày của thiết bị và tăng cường khả năng chống nước, chống bụi theo tiêu chuẩn IP68."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ 'Táo khuyết sẽ sử dụng công nghệ màn hình OLED kép tương tự những gì đã được giới thiệu trên iPad Pro trong năm 2024. Giải pháp này giúp màn hình thiết bị sáng hơn, tăng tỷ lệ tương phản, cải thiện thời lượng pin.'"
+    },
+    {
+      "question": "Theo thông tin trong bài viết, điều gì đúng về MacBook Pro phiên bản 2025?",
+      "choices": {
+        "A": "Vẫn sẽ sử dụng màn hình Mini LED như hiện nay.",
+        "B": "Đã chuyển sang màn hình OLED nhưng vẫn giữ thiết kế 'tai thỏ'.",
+        "C": "Sẽ có thiết kế đục lỗ nhưng vẫn dùng màn hình Mini LED.",
+        "D": "Là phiên bản đầu tiên áp dụng công nghệ Dynamic Island."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết khẳng định 'Điều đó đồng nghĩa MacBook Pro 2025 vẫn dùng màn hình Mini LED như hiện nay', ngụ ý rằng các thay đổi thiết kế lớn sẽ chưa diễn ra trong phiên bản này."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:26:22"
+}

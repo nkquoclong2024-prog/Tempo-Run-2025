@@ -1,0 +1,41 @@
+{
+  "url": "https://vnexpress.net/de-xuat-goi-30-000-ty-dong-cho-nha-xa-hoi-4376283.html",
+  "title": "\n\n\n\n",
+  "content": "This is a modal window.\nBeginning of dialog window. Escape will cancel and close the window.\nEnd of dialog window.\nHoàng Khánh - Thuý Hằng",
+  "megadata": [
+    [
+      "https://iv1.vnecdn.net/kinhdoanh/images/web/2021/10/24/ban-tin-vhome-so-8-1635083744.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=2zLSMNj4FvgA_JceDx6ycg",
+      "Bản tin Vhome số 8"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo nội dung được cung cấp, những cái tên nào được nhắc đến?",
+      "choices": {
+        "A": "Hoàng Khánh và Thuý Hằng",
+        "B": "Hoàng Anh và Thuý Linh",
+        "C": "Khánh Ly và Hằng Nga",
+        "D": "Hoàng Minh và Thuý Lan"
+      }
+    },
+    {
+      "question": "Cặp tên nào được trình bày theo định dạng 'Tên thứ nhất - Tên thứ hai' trong nội dung?",
+      "choices": {
+        "A": "Hoàng Khánh - Thuý Hằng",
+        "B": "Thuý Hằng - Hoàng Khánh",
+        "C": "Hoàng Hằng - Thuý Khánh",
+        "D": "Khánh Hoàng - Hằng Thuý"
+      }
+    },
+    {
+      "question": "Dựa trên nội dung, thông tin về cá nhân nào được cung cấp?",
+      "choices": {
+        "A": "Hoàng Khánh và Thuý Hằng",
+        "B": "Chỉ Hoàng Khánh",
+        "C": "Chỉ Thuý Hằng",
+        "D": "Không có cá nhân nào được nhắc đến"
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:44:32"
+}

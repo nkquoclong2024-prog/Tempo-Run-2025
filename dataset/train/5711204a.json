@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/usd-giam-manh-post1396207.html",
+  "title": "USD giảm mạnh",
+  "content": "USD giảm mạnh\nHằng Nga\nThứ ba, 24/1/2023 18:00 (GMT+7)\nGiới đầu tư tin rằng Fed sẽ giảm tốc độ tăng lãi suất trong cuộc họp sắp tới. Và điều này tạo sức ép lớn lên đồng USD.\nTheo dữ liệu của Trading Economics, ngày 24/1, chỉ số USD - đo lường sức mạnh của đồng bạc xanh với các tiền tệ lớn khác - rơi xuống sát mức thấp nhất gần 8 tháng. Chỉ số này hiện ở quanh mức 101,8 điểm.\nĐà suy yếu của USD giúp các tiền tệ khác hưởng lợi. Ngày 23/1, euro tăng lên 1,0919 USD đổi 1 euro, mức cao nhất kể từ đầu tháng 4 năm ngoái. Còn tỷ giá GBP/USD tăng lên 1,24 USD mỗi bảng Anh.\nUSD chịu sức ép khi giới đầu tư đánh giá các bước đi tiếp theo của Cục Dự trữ Liên bang Mỹ (Fed). Theo định giá của các thị trường tiền tệ, khả năng ngân hàng trung ương Mỹ tăng lãi suất 0,25 điểm phần trăm trong cuộc họp chính sách sắp tới lên đến 95%.\nMới đây, Phó chủ tịch Fed Lael Brainard cho rằng tác động từ các động thái của ngân hàng trung ương Mỹ có thể vẫn chưa được phơi bày đầy đủ. Năm ngoái, Fed đã tăng lãi suất 7 lần từ 0-0,25% lên 4,25-4,5%. Những đợt tăng lãi suất liên tiếp đẩy USD lên mức cao nhất 20 năm.\n\nThống đốc Fed Christopher Waller và Chủ tịch Fed Chi nhánh Boston Susan Collins cũng nghiêng về việc giảm tốc độ tăng lãi suất. Bà Collins cho rằng nguy cơ tăng lãi suất quá mạnh tay và áp lực lên nền kinh tế đang tăng lên.\nGiới đầu tư cũng nhận thấy nguy cơ suy thoái của nền kinh tế hàng đầu thế giới. Các dữ liệu mới nhất cho thấy tăng trưởng kinh tế của Mỹ đang giảm tốc nhanh chóng.\nCác nhà đầu tư cũng đang chờ đợi một loạt dữ liệu tiếp theo của Mỹ, trong đó có tăng trưởng GDP quý IV/2022, số lượng đơn đặt hàng đối với những hàng hóa có độ bền cao, chỉ số giá tiêu dùng cá nhân - thước đo lạm phát yêu thích của Fed.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/tmgtvn/2023_01_24/dxy_cur_29_.png",
+      "Biến động của chỉ số USD trong vòng một năm qua. Ảnh: Trading Economics."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, nguyên nhân chính dẫn đến sự sụt giảm mạnh của đồng USD vào ngày 24/1/2023 là gì?",
+      "choices": {
+        "A": "Nền kinh tế Mỹ có nguy cơ suy thoái.",
+        "B": "Giới đầu tư tin rằng Fed sẽ giảm tốc độ tăng lãi suất trong cuộc họp sắp tới.",
+        "C": "Đồng Euro và Bảng Anh tăng giá mạnh.",
+        "D": "Tác động từ các động thái của ngân hàng trung ương Mỹ vẫn chưa được phơi bày đầy đủ."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Giới đầu tư tin rằng Fed sẽ giảm tốc độ tăng lãi suất trong cuộc họp sắp tới. Và điều này tạo sức ép lớn lên đồng USD.'"
+    },
+    {
+      "question": "Chỉ số USD, thước đo sức mạnh của đồng bạc xanh, được ghi nhận ở mức khoảng bao nhiêu điểm vào ngày 24/1/2023 theo dữ liệu của Trading Economics?",
+      "choices": {
+        "A": "1,0919 điểm.",
+        "B": "101,8 điểm.",
+        "C": "1,24 điểm.",
+        "D": "95 điểm."
+      },
+      "correct_answer": "B",
+      "explanation": "Theo bài viết: 'Ngày 24/1, chỉ số USD... rơi xuống sát mức thấp nhất gần 8 tháng. Chỉ số này hiện ở quanh mức 101,8 điểm.'"
+    },
+    {
+      "question": "Quan chức Cục Dự trữ Liên bang Mỹ (Fed) nào đã bày tỏ lo ngại về nguy cơ tăng lãi suất quá mạnh tay và áp lực lên nền kinh tế?",
+      "choices": {
+        "A": "Phó chủ tịch Fed Lael Brainard.",
+        "B": "Thống đốc Fed Christopher Waller.",
+        "C": "Chủ tịch Fed Chi nhánh Boston Susan Collins.",
+        "D": "Chủ tịch Fed Jerome Powell."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập: 'Bà Collins cho rằng nguy cơ tăng lãi suất quá mạnh tay và áp lực lên nền kinh tế đang tăng lên.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:58:59"
+}

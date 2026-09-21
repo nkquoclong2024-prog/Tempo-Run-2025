@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/mo-phong-canh-bao-nuoc-bien-dang-do-bao-milton-o-florida-4802146.html",
+  "title": "Mô phỏng cảnh báo nước biển dâng do bão Milton ở Florida",
+  "content": "Video: X/The Weather Channel",
+  "metadata": [
+    [
+      "https://iv1cdn.vnecdn.net/vnexpress/images/web/2024/10/09/mo-phong-nuoc-dang-do-bao-milton-1728467458.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=sDurU81t4MjUEvp2AxQMYQ",
+      "Mô phỏng nước dâng do bão Milton"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo tiêu đề, hiện tượng tự nhiên nào được mô phỏng cảnh báo?",
+      "choices": {
+        "A": "Nước biển dâng do bão",
+        "B": "Sóng thần",
+        "C": "Lũ lụt do mưa lớn",
+        "D": "Động đất"
+      },
+      "correct_answer": "A",
+      "explanation": "Tiêu đề bài viết nêu rõ 'Mô phỏng cảnh báo nước biển dâng do bão Milton ở Florida', trực tiếp chỉ ra hiện tượng được mô phỏng là nước biển dâng do bão."
+    },
+    {
+      "question": "Cơn bão nào được nhắc đến trong tiêu đề liên quan đến việc mô phỏng cảnh báo?",
+      "choices": {
+        "A": "Bão Milton",
+        "B": "Bão Ian",
+        "C": "Bão Katrina",
+        "D": "Bão Andrew"
+      },
+      "correct_answer": "A",
+      "explanation": "Tiêu đề bài viết đề cập cụ thể đến 'bão Milton' là nguyên nhân của hiện tượng nước biển dâng được mô phỏng."
+    },
+    {
+      "question": "Việc mô phỏng cảnh báo nước biển dâng do bão Milton diễn ra ở bang nào của Hoa Kỳ?",
+      "choices": {
+        "A": "Florida",
+        "B": "Texas",
+        "C": "Louisiana",
+        "D": "California"
+      },
+      "correct_answer": "A",
+      "explanation": "Tiêu đề bài viết chỉ rõ địa điểm diễn ra mô phỏng là 'ở Florida'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:19:15"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/mang-6g-co-the-tai-20-bo-phim-chi-trong-1-giay-185241018092556734.htm",
+  "title": "Mạng 6G có thể tải 20 bộ phim chỉ trong 1 giây",
+  "content": "Mạng 6G thế hệ tiếp theo dự kiến sẽ có tốc độ nhanh gấp 9.000 lần mạng 5G hiện tại.\nTheo BGR, tương lai của internet di động đang tiệm cận với tốc độ 'chóng mặt', theo đúng nghĩa đen. Các báo cáo mới nhất cho thấy mạng 6G thế hệ tiếp theo có thể đạt tốc độ 'khủng' lên tới 938 gigabit/giây, gấp 9.000 lần tốc độ 5G hiện nay.\nVới tốc độ này, việc tải về 20 bộ phim dài chỉ mất vỏn vẹn 1 giây. Đây là một bước nhảy vọt đáng kinh ngạc, hứa hẹn sẽ cách mạng hóa cách chúng ta sử dụng internet di động.\nMạng 6G sẽ có tốc độ nhanh gấp 9.000 lần mạng 5G\nẢNH: CHỤP MÀN HÌNH BGR\nMột trong những ưu điểm vượt trội của 6G chính là khả năng giải quyết tình trạng nghẽn mạng, vốn là bài toán nan giải đối với mạng 5G. Tại các sự kiện đông người như concert hay trận đấu thể thao, mạng 5G thường bị quá tải do lượng kết nối đồng thời quá lớn. 6G với băng thông rộng hơn sẽ giải quyết triệt để vấn đề này.\nĐể đạt được tốc độ 'siêu khủng' này, các nhà nghiên cứu đã kết hợp sóng vô tuyến và ánh sáng, sử dụng dải tần số rộng từ 5 - 150 GHz. Họ cũng phát triển một phương pháp mới để truyền tín hiệu ở tần số cao, nơi sóng vô tuyến thường gặp khó khăn.\nMặc dù 6G vẫn còn trong giai đoạn nghiên cứu và thử nghiệm, những kết quả ban đầu này đã vẽ ra một tương lai đầy hứa hẹn cho internet di động. Tốc độ 'ánh sáng' của 6G sẽ mở ra cánh cửa cho những ứng dụng không tưởng như giao tiếp với hình ba chiều, thực tế ảo tăng cường và vạn vật kết nối (IoT) trên quy mô lớn.\nTuy nhiên, việc triển khai 6G trên diện rộng vẫn còn nhiều thách thức về mặt kỹ thuật và chi phí. Dự kiến phải đến cuối thập kỷ này, chúng ta mới có thể được trải nghiệm sức mạnh thực sự của mạng 6G..",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/10/18/mang-17292183831661639777976.jpg",
+      "Mạng 6G sẽ có tốc độ nhanh gấp 9.000 lần mạng 5G"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Mạng 6G dự kiến sẽ có tốc độ nhanh gấp bao nhiêu lần so với mạng 5G hiện tại?",
+      "choices": {
+        "A": "900 lần",
+        "B": "9.000 lần",
+        "C": "90.000 lần",
+        "D": "90 lần"
+      },
+      "correct_answer": "B",
+      "explanation": "Theo bài viết, 'Mạng 6G thế hệ tiếp theo dự kiến sẽ có tốc độ nhanh gấp 9.000 lần mạng 5G hiện tại'."
+    },
+    {
+      "question": "Một trong những ưu điểm vượt trội của mạng 6G so với 5G là khả năng giải quyết vấn đề gì?",
+      "choices": {
+        "A": "Chi phí triển khai quá cao",
+        "B": "Khó khăn trong việc truyền tín hiệu ở tần số thấp",
+        "C": "Tình trạng nghẽn mạng tại các sự kiện đông người",
+        "D": "Giới hạn về ứng dụng thực tế ảo tăng cường"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Một trong những ưu điểm vượt trội của 6G chính là khả năng giải quyết tình trạng nghẽn mạng, vốn là bài toán nan giải đối với mạng 5G. Tại các sự kiện đông người như concert hay trận đấu thể thao, mạng 5G thường bị quá tải... 6G với băng thông rộng hơn sẽ giải quyết triệt để vấn đề này'."
+    },
+    {
+      "question": "Để đạt được tốc độ 'siêu khủng', các nhà nghiên cứu đã sử dụng dải tần số rộng nào cho mạng 6G?",
+      "choices": {
+        "A": "Từ 5 - 150 MHz",
+        "B": "Từ 5 - 150 GHz",
+        "C": "Từ 50 - 150 GHz",
+        "D": "Từ 50 - 150 MHz"
+      },
+      "correct_answer": "B",
+      "explanation": "Theo nội dung bài viết: 'Để đạt được tốc độ 'siêu khủng' này, các nhà nghiên cứu đã kết hợp sóng vô tuyến và ánh sáng, sử dụng dải tần số rộng từ 5 - 150 GHz'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:40:40"
+}

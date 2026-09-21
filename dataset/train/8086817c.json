@@ -1,0 +1,51 @@
+{
+  "url": "https://thanhnien.vn/tsmc-huong-toi-chip-nghin-ti-bong-ban-dan-quy-trinh-san-xuat-1nm-185231231014954083.htm",
+  "title": "TSMC hướng tới chip nghìn tỉ bóng bán dẫn, quy trình sản xuất 1nm",
+  "content": "TSMC đang lên kế hoạch tiếp tục tăng mật độ bóng bán dẫn trong vài năm qua tới. Hãng cũng tin rằng ngành công nghiệp bán dẫn sẽ chuyển sang các thiết kế dựa trên chiplet.\nTheo Techspot, tại hội nghị IEDM gần đây, TSMC đã công bố lộ trình sản phẩm cho các quy trình sản xuất chất bán dẫn và thế hệ tiếp theo của mình mà đỉnh cao là cuối cùng sẽ cung cấp nhiều bộ sưu tập thiết kế chiplet xếp chồng 3D với 1.000 tỉ bóng bán dẫn trên gói chip duy nhất. Những tiến bộ trong công nghệ đóng gói, chẳng hạn như CoWoS, InFO và SoIC, sẽ cho phép hãng đạt được mục tiêu đó và đến năm 2030, TSMC tin rằng các thiết kế nguyên khối của hãng có thể đạt tới 200 tỉ bóng bán dẫn.\nTSMC tin rằng có thể tạo ra chip 1nm vào năm 2030\nREUTERS\nGH100 có 80 tỉ bóng bán dẫn của Nvidia là một trong những chip nguyên khối phức tạp nhất hiện có trên thị trường. Tuy nhiên, khi kích thước của những chip này tiếp tục tăng và trở nên đắt tiền hơn, TSMC tin rằng các nhà sản xuất sẽ áp dụng kiến trúc nhiều chiplet, chẳng hạn như Instinct MI300X ra mắt gần đây của AMD và Ponte Vecchio của Intel có 100 tỉ bóng bán dẫn.\nHiện tại, TSMC sẽ tiếp tục phát triển các quy trình sản xuất N2 và N2P 2nm cũng như các chip A14 1,4nm và A10 1nm. Công ty dự kiến sẽ bắt đầu sản xuất 2nm vào cuối năm 2025. Năm 2028, họ sẽ chuyển sang quy trình A14 1,4nm và đến năm 2030, dự kiến sản xuất bóng bán dẫn 1nm.\nTrong khi đó, Intel đang nghiên cứu quy trình 2nm (20A) và 1,8nm (18A), dự kiến sẽ ra mắt trong cùng khung thời gian. Một lợi thế của công nghệ mới là cung cấp mật độ logic cao hơn, tốc độ xung nhịp tăng cao và rò rỉ điện thấp hơn, dẫn đến các thiết kế tiết kiệm năng lượng hơn.\nMục tiêu phát triển các chip tiên tiến tiếp theo của TSMC\nCHỤP MÀN HÌNH\nVới tư cách là xưởng đúc lớn nhất thế giới, TSMC tự tin các quy trình sản xuất của họ sẽ hoạt động tốt hơn bất kỳ sản phẩm nào của Intel. Trong một cuộc họp báo cáo tài chính, CEO TSMC C.C. Wei cho biết đánh giá nội bộ xác nhận những cải tiến của công nghệ N3P và quy trình sản xuất 3nm của công ty chứng tỏ \"PPA có thể so sánh\" với quy trình 18A của Intel. Ông hy vọng N3P thậm chí còn tốt hơn nữa, mang tính cạnh tranh hơn và có lợi thế đáng kể về chi phí.\nTrong khi đó, CEO Intel Pat Gelsinger tuyên bố quy trình sản xuất 18A của họ sẽ hoạt động tốt hơn chip 2nm của TSMC ra mắt trước đó một năm. Tất nhiên, chỉ có thời gian mới đưa ra câu trả lời.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/12/30/1-17039617096891841104370.jpg",
+      "TSMC tin rằng có thể tạo ra chip 1nm vào năm 2030"
+    ],
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/12/30/2-17039620300541337401235.jpg",
+      "Mục tiêu phát triển các chip tiên tiến tiếp theo của TSMC"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông tin từ bài viết, mục tiêu cuối cùng của TSMC là cung cấp bao nhiêu bóng bán dẫn trên một gói chip duy nhất, sử dụng thiết kế chiplet xếp chồng 3D?",
+      "choices": {
+        "A": "80 tỉ bóng bán dẫn",
+        "B": "100 tỉ bóng bán dẫn",
+        "C": "200 tỉ bóng bán dẫn",
+        "D": "1.000 tỉ bóng bán dẫn"
+      },
+      "correct_answer": "D",
+      "explanation": "Bài viết nêu rõ: 'TSMC đã công bố lộ trình sản phẩm cho các quy trình sản xuất chất bán dẫn và thế hệ tiếp theo của mình mà đỉnh cao là cuối cùng sẽ cung cấp nhiều bộ sưu tập thiết kế chiplet xếp chồng 3D với 1.000 tỉ bóng bán dẫn trên gói chip duy nhất.'"
+    },
+    {
+      "question": "Theo lộ trình sản phẩm của TSMC, hãng dự kiến sẽ bắt đầu sản xuất bóng bán dẫn 1nm vào năm nào?",
+      "choices": {
+        "A": "Cuối năm 2025",
+        "B": "Năm 2028",
+        "C": "Năm 2030",
+        "D": "Năm 2022"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết cho biết: 'Công ty dự kiến sẽ bắt đầu sản xuất 2nm vào cuối năm 2025. Năm 2028, họ sẽ chuyển sang quy trình A14 1,4nm và đến năm 2030, dự kiến sản xuất bóng bán dẫn 1nm.'"
+    },
+    {
+      "question": "Đâu KHÔNG phải là một lợi ích được đề cập trong bài viết khi phát triển các chip tiên tiến với công nghệ mới?",
+      "choices": {
+        "A": "Mật độ logic cao hơn",
+        "B": "Tốc độ xung nhịp tăng cao",
+        "C": "Rò rỉ điện thấp hơn",
+        "D": "Giảm chi phí sản xuất đáng kể cho tất cả các chip mới"
+      },
+      "correct_answer": "D",
+      "explanation": "Bài viết liệt kê các lợi ích của công nghệ mới là 'cung cấp mật độ logic cao hơn, tốc độ xung nhịp tăng cao và rò rỉ điện thấp hơn, dẫn đến các thiết kế tiết kiệm năng lượng hơn.' Mặc dù CEO TSMC có nhắc đến 'lợi thế đáng kể về chi phí' cho quy trình N3P cụ thể so với Intel 18A, nhưng không phải là một lợi ích chung được liệt kê cho 'công nghệ mới' nói chung như các phương án A, B, C."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:41:43"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://thanhnien.vn/apple-sap-phat-hanh-ios-1801-sua-cac-loi-va-su-co-tiem-an-185240928163752577.htm",
+  "title": "Apple sắp phát hành iOS 18.0.1 sửa các lỗi và sự cố tiềm ẩn",
+  "content": "Apple được cho là đang phát triển bản cập nhật iOS 18.0.1 nhằm khắc phục một số lỗi và sự cố tiềm ẩn trên iOS 18.\nThông tin về iOS 18.0.1 được MacRumors phát hiện dựa trên nhật ký phân tích mà họ thực hiện. Với lịch sử chính xác trong việc dự đoán thời điểm ra mắt các bản cập nhật phần mềm trước đó của MacRumors, có khả năng cao Apple sẽ sớm phát hành bản cập nhật iOS 18.0.1 cho tất cả các mẫu iPhone tương thích. Bản cập nhật sẽ có quy mô nhỏ hơn so với iOS 18.1 mà Apple dự kiến phát hành vào tháng 10 nhằm đưa Apple Intelligence lần đầu tiên đến công chúng.\niOS 18.0.1 được đồn đoán sẽ phát hành trong vài ngày nữa\nẢNH: CHỤP MÀN HÌNH ZDNET\niOS 18.0.1 sẽ không mang lại tính năng mới nào mà chủ yếu tập trung vào việc khắc phục các lỗi đã được người dùng báo cáo sau khi cập nhật lên iOS 18. Một số vấn đề đáng chú ý bao gồm lỗi màn hình cảm ứng khiến thiết bị không ghi nhận các lần chạm và vuốt, cũng như lỗi khiến ứng dụng Tin nhắn bị sập khi chia sẻ hoặc nhận mặt đồng hồ từ Apple Watch. Bên cạnh đó, Apple cũng có thể phát hành iPadOS 18.0.1 nhằm khắc phục sự cố iPadOS 18 gây ra với iPad Pro M4, khiến chúng trở nên vô dụng.\nMặc dù chưa có thông tin cụ thể về ngày phát hành iOS 18.0.1 nhưng nhiều dự đoán cho biết bản cập nhật này sẽ được phát hành trong tuần tới. Điều này diễn ra trước khi Apple phát hành iOS 18.1 vào nửa cuối tháng 10, cũng có thể là thời điểm công ty tổ chức các sự kiện ra mắt sản phẩm mới như Mac M4 và iPad mini 7.\niOS 18.1 hiện trong giai đoạn beta. Khi phiên bản này được phát hành, người dùng iPhone 15 Pro và dòng iPhone 16 sẽ nhận được các tính năng Apple Intelligence. Trong khi đó, iOS 18.0.1 được xem là rất quan trọng để người dùng tiếp tục sử dụng iPhone một cách tối ưu nhất có thể.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/9/28/ios-18-0-1-1727515976187811172803.jpg",
+      "iOS 18.0.1 được đồn đoán sẽ phát hành trong vài ngày nữa"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Mục đích chính của bản cập nhật iOS 18.0.1 là gì?",
+      "choices": {
+        "A": "Giới thiệu các tính năng mới của Apple Intelligence.",
+        "B": "Khắc phục các lỗi và sự cố đã được người dùng báo cáo sau khi cập nhật iOS 18.",
+        "C": "Hỗ trợ các mẫu iPhone 15 Pro và iPhone 16 mới ra mắt.",
+        "D": "Tổ chức sự kiện ra mắt sản phẩm mới như Mac M4 và iPad mini 7."
+      }
+    },
+    {
+      "question": "Theo bài viết, bản cập nhật iOS 18.0.1 dự kiến sẽ khắc phục những lỗi nào sau đây?",
+      "choices": {
+        "A": "Lỗi màn hình cảm ứng không ghi nhận các lần chạm và vuốt.",
+        "B": "Lỗi khiến ứng dụng Tin nhắn bị sập khi chia sẻ hoặc nhận mặt đồng hồ từ Apple Watch.",
+        "C": "Sự cố iPadOS 18 gây ra với iPad Pro M4.",
+        "D": "Cả A và B đều đúng."
+      }
+    },
+    {
+      "question": "Theo bài viết, tính năng Apple Intelligence sẽ được phát hành lần đầu tiên đến công chúng vào thời điểm nào?",
+      "choices": {
+        "A": "Cùng với bản cập nhật iOS 18.0.1 trong tuần tới.",
+        "B": "Khi phiên bản iOS 18.1 được phát hành vào tháng 10.",
+        "C": "Ngay sau khi các mẫu iPhone 16 series ra mắt.",
+        "D": "Khi Apple tổ chức các sự kiện ra mắt sản phẩm mới như Mac M4."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:03:31"
+}

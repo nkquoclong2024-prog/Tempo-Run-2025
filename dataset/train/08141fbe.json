@@ -1,0 +1,51 @@
+{
+  "url": "https://vnexpress.net/airtag-bi-hack-4275998.html",
+  "title": "\nAirTag bị hack ",
+  "content": "Trên trang Twitter của mình nhà nghiên cứu Thomas Roth chia sẻ video về kết quả cũng như quá trình làm việc của mình để thay đổi hoạt động của AirTag. Cụ thể, khi chủ nhân của AirTag bật chế độ thông báo mất thiết bị, nếu có iPhone lại gần, chiếc iPhone đó sẽ được gợi ý truy cập vào trang \"found.apple.com\". Tuy nhiên, với chiếc AirTag bị can thiệp, iPhone đã hiển thị trang web của nhà nghiên cứu này.\nThomas Roth cho biết anh đã xâm nhập và bộ vi điều khiển của AirTag, sau đó \"flash\" lại thành phần này để sửa đổi hoạt động của thiết bị. Thời gian thực hiện trong nhiều giờ và khiến hai chiếc AirTag bị hỏng, trước khi thành công.\nThis is a modal window.\nBeginning of dialog window. Escape will cancel and close the window.\nEnd of dialog window.\nTính năng tìm AirTag mất bị Thomas can thiệp, thay đổi URL. Video: stacksmashing\nVi điều khiển là một hệ thống gồm vi mạch tích hợp chứa bộ vi xử lý, bộ nhớ cũng như các thành phần ngoại vi khác. Theo trang the8-bit, việc giành quyền kiểm soát vi điều khiển cho phép hacker có thể biến thiết bị hoạt động theo ý của mình. Trong trường hợp của AirTag kể trên, thay đổi URL ở chế độ Lost Mode khiến việc tìm kiếm chủ nhân của AirTag sẽ không còn khả dụng.\nHành động này được ví như \"jailbreak\" thiết bị và là minh chứng đầu tiên cho việc AirTag có thể bị tấn công. Tuy nhiên, các chuyên gia cũng chưa có ý kiến về việc, liệu hacker có thể thay đổi AirTag ở mức độ nào và liệu Apple có triển khai biện pháp nào để ngăn chặn việc này.\nMột công đoạn trong việc xâm nhập vào vi điều khiển AirTag, được Thomas Roth công bố.\nCông bố của Thomas Roth xuất hiện chỉ 10 ngày sau khi AirTag có mặt trên thị trường. Chuyên gia bảo mật này cho biết đã làm hỏng hai chiếc AirTag trước khi thực hiện thành công.\nApple hiện chưa có bình luận về việc này. Trong buổi ra mắt, hãng khẳng định \"quyền riêng tư và bảo mật là các tính năng cốt lõi của AirTag\". Tuy nhiên, thiết bị này cũng bị lo ngại có thể bị dùng để theo dõi người khác.\nAirTag dự kiến bán chính hãng tại Việt Nam vào tháng 6 với giá 790 nghìn đồng mỗi chiếc. Mới đây, nhiều cửa hàng xách tay đã nhập AirTag về và bán với giá khoảng 900 nghìn đồng mỗi chiếc.\nLưu Quý",
+  "megadata": [
+    [
+      "https://iv1.vnecdn.net/sohoa/images/web/2021/05/11/airtag-bi-hack-1620675590.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=tTYw1hdRpQcOgw5PxApA_g",
+      "AirTag bị hack"
+    ],
+    [
+      "https://i1-sohoa.vnecdn.net/2021/05/11/e05zckaweaesljq-jfif-162067581-9408-1114-1620676128.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=nWNX4UVPYSRoGUJEwhaONg",
+      "Một công đoạn trong việc xâm nhập vào vi điều khiển AirTag, được Thomas Roth công bố."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, nhà nghiên cứu Thomas Roth đã can thiệp vào AirTag để thay đổi tính năng nào?",
+      "choices": {
+        "A": "Thay đổi URL hiển thị khi AirTag ở chế độ Lost Mode.",
+        "B": "Thay đổi âm thanh phát ra từ AirTag khi được tìm thấy.",
+        "C": "Thay đổi khả năng kết nối của AirTag với các thiết bị Apple khác.",
+        "D": "Thay đổi thời lượng pin của AirTag."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: \"Cụ thể, khi chủ nhân của AirTag bật chế độ thông báo mất thiết bị, nếu có iPhone lại gần, chiếc iPhone đó sẽ được gợi ý truy cập vào trang 'found.apple.com'. Tuy nhiên, với chiếc AirTag bị can thiệp, iPhone đã hiển thị trang web của nhà nghiên cứu này.\" và \"thay đổi URL ở chế độ Lost Mode khiến việc tìm kiếm chủ nhân của AirTag sẽ không còn khả dụng.\""
+    },
+    {
+      "question": "Quá trình Thomas Roth xâm nhập và sửa đổi hoạt động của AirTag được mô tả như thế nào trong bài viết?",
+      "choices": {
+        "A": "Anh ấy đã xâm nhập vào bộ vi điều khiển và 'flash' lại nó, mất nhiều giờ và làm hỏng hai chiếc AirTag trước khi thành công.",
+        "B": "Anh ấy sử dụng một phần mềm đặc biệt để thay đổi cài đặt từ xa mà không cần can thiệp vật lý.",
+        "C": "Anh ấy chỉ mất vài phút để hoàn thành và không làm hỏng bất kỳ thiết bị nào.",
+        "D": "Anh ấy đã thay thế toàn bộ bo mạch chủ của AirTag bằng một bo mạch tùy chỉnh."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết mô tả: \"Thomas Roth cho biết anh đã xâm nhập và bộ vi điều khiển của AirTag, sau đó 'flash' lại thành phần này để sửa đổi hoạt động của thiết bị. Thời gian thực hiện trong nhiều giờ và khiến hai chiếc AirTag bị hỏng, trước khi thành công.\""
+    },
+    {
+      "question": "Theo bài viết, việc Thomas Roth thay đổi URL ở chế độ Lost Mode của AirTag có ý nghĩa gì đối với người dùng?",
+      "choices": {
+        "A": "Nó khiến việc tìm kiếm chủ nhân của AirTag không còn khả dụng, được ví như 'jailbreak' thiết bị.",
+        "B": "Nó giúp người dùng dễ dàng tìm thấy AirTag bị mất hơn bằng cách hiển thị thông tin chi tiết hơn.",
+        "C": "Nó cho phép AirTag kết nối với các thiết bị Android, mở rộng khả năng tương thích.",
+        "D": "Nó chỉ là một thay đổi nhỏ về giao diện và không ảnh hưởng đến chức năng cốt lõi của AirTag."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết giải thích: \"Trong trường hợp của AirTag kể trên, thay đổi URL ở chế độ Lost Mode khiến việc tìm kiếm chủ nhân của AirTag sẽ không còn khả dụng. Hành động này được ví như 'jailbreak' thiết bị và là minh chứng đầu tiên cho việc AirTag có thể bị tấn công.\""
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:21:59"
+}

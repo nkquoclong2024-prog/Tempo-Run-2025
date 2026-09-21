@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/ai-powered-application-for-monitoring-15-social-order-violations-4814695.html",
+  "title": "AI-powered application for monitoring 15 social order violations",
+  "content": "This system automatically reports and supports the detection of 15 types of security violations occurring in public streets and neighborhoods.\nInterface of BookWorm's AI-powered application. Photo courtesy of Bookworm\nKey features of this solution include:\n- Behavior recognition management: The system can simultaneously monitor behavior across millions of surveillance cameras, with response times ranging from 0.2 to 5 seconds per violation.\n- Real-time tracking: It enables the tracing of violators across millions of cameras at once, providing instant data on movements.\n- Real-time alerts: The system automatically notifies relevant parties about security breaches as they occur.\n- Quick search and investigation: Administrators can quickly search for incidents and identify violators of public security in both street and neighborhood areas.\nThis solution enhances urban safety by leveraging AI to rapidly detect, trace, and report violations, ensuring quick responses to maintain public order.",
+  "metadata": [
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "Interface of BookWorms AI-powered application. Photo courtesy of Bookworm"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Ứng dụng AI được đề cập trong bài viết có khả năng giám sát bao nhiêu loại vi phạm trật tự xã hội?",
+      "choices": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "Hàng triệu"
+      },
+      "correct_answer": "B",
+      "explanation": "Theo tiêu đề và nội dung bài viết, ứng dụng này được thiết kế để 'monitoring 15 social order violations' và 'detection of 15 types of security violations'."
+    },
+    {
+      "question": "Theo bài viết, tính năng 'Quản lý nhận diện hành vi' của giải pháp AI này có thời gian phản hồi trung bình để phát hiện vi phạm là bao lâu?",
+      "choices": {
+        "A": "Dưới 0.1 giây",
+        "B": "Từ 0.2 đến 5 giây",
+        "C": "Khoảng 10 giây",
+        "D": "Hơn 1 phút"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ dưới mục 'Behavior recognition management': 'with response times ranging from 0.2 to 5 seconds per violation'."
+    },
+    {
+      "question": "Mục tiêu cuối cùng của giải pháp ứng dụng AI này là gì?",
+      "choices": {
+        "A": "Giảm chi phí vận hành cho các doanh nghiệp tư nhân.",
+        "B": "Nâng cao an toàn đô thị và duy trì trật tự công cộng.",
+        "C": "Thay thế hoàn toàn lực lượng an ninh con người.",
+        "D": "Cung cấp dữ liệu cá nhân cho mục đích thương mại."
+      },
+      "correct_answer": "B",
+      "explanation": "Đoạn cuối bài viết khẳng định: 'This solution enhances urban safety by leveraging AI to rapidly detect, trace, and report violations, ensuring quick responses to maintain public order.' (Giải pháp này nâng cao an toàn đô thị bằng cách tận dụng AI để nhanh chóng phát hiện, theo dõi và báo cáo vi phạm, đảm bảo phản ứng nhanh chóng để duy trì trật tự công cộng.)"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:04:59"
+}

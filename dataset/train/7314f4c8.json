@@ -1,0 +1,67 @@
+{
+  "url": "https://znews.vn/loi-tu-microsoft-khien-nguoi-dung-khong-the-cai-dat-windows-11-post1231659.html",
+  "title": "Lỗi từ Microsoft khiến người dùng không thể cài đặt Windows 11 - Công nghệ - ZNEWS.VN",
+  "content": "Sau khi Microsoft cập nhật công cụ kiểm tra yêu cầu phần cứng PC Health Check Tool, rất nhiều người cho biết cỗ máy khá mới của mình hiện thông báo \"máy tính của bạn không thể chạy Windows 11\", dù thiết bị của họ hoàn toàn đáp ứng về yếu tố phần cứng theo hướng dẫn ban đầu của hãng.\nNguyên nhân nằm ở một con chip bảo mật và bảng liệt kê cấu hình ban đầu sai.\nTheo phiên bản gốc của công cụ, yêu cầu tối thiểu để cài đặt lên Windows 11 là máy tính có chip TPM 1.2 và CPU lõi kép 64-bit 1 GHz trở lên. Tuy nhiên, Microsoft sau đó đã sửa lại và yêu cầu tối thiểu máy tính phải có TPM 2.0, được trang bị trên CPU Intel Core thế hệ thứ 8 hoặc AMD Ryzen 2000.\nCông cụ thông báo cho người dùng không thể cài đặt Windows 11.\nNhững vi xử lý này mới được ra mắt năm 2018. Đó là lý do nhiều máy tính với CPU cũ hơn, dù cấu hình cao đến đâu, cũng bị báo \"không thể chạy Windows 11\".\nMột đại diện của Microsoft sau đó cũng đã xác nhận với The Verge rằng yêu cầu TPM 2.0 mới là chuẩn. Phiên bản ban đầu, liệt kê TPM 1.2 chỉ là lỗi và đã được hãng sửa để tránh gây hiểu lầm cho khách hàng.\n\"Trusted Platform Module (TPM) thực chất là một con chip được tích hợp vào bo mạch chủ của PC hoặc được thêm riêng vào CPU, có khả năng bảo vệ thông tin đăng nhập của người dùng và các dữ liệu nhạy cảm khác đằng sau hàng rào phần cứng”, David Weston, giám đốc bảo mật doanh nghiệp và hệ điều hành tại Microsoft giải thích.\nMicrosoft đã cập nhật lại yêu cầu phần cứng tối thiểu sau lỗi.\n“Báo cáo về bảo mật của Microsoft cho thấy 83% doanh nghiệp gặp phải các cuộc tấn công phần mềm và chỉ 29% trong số đó đang phân bổ tài nguyên để bảo vệ lớp quan trọng này. Với thông tin này, việc Microsoft yêu cầu thiết bị phải có TPM 2.0 là hoàn toàn dễ hiểu khi hãng đang cố gắng nâng cấp bảo mật cho người dùng\", ông Weston cho biết thêm.\nTPM hoạt động bằng cách cung cấp yếu tố bảo mật cả phần cứng và phần mềm. Chip TPM cũng có thể cho khả năng lưu trữ an toàn các khóa mã hóa, chứng chỉ và mật khẩu được sử dụng để đăng nhập vào những dịch vụ trực tuyến.\nTrên thực tế, chip TPM 1.2 đã tồn tại từ năm 2011, nhưng chúng thường chỉ được sử dụng rộng rãi trong hệ thống máy tính của các doanh nghiệp.\nHiện nay, có tới hơn 1,3 tỷ máy tính đang sử dụng Windows 10 và phổ biến nhất trong số đó vẫn là các doanh nghiệp, nhóm đối tượng dễ bị ảnh hưởng nhất về tình trạng an toàn dữ liệu.\nĐiển hình trong số đó có thể kể đến vụ SolarWinds xảy ra cuối năm 2020 do Nga hậu thuẫn đã khiến nhiều dữ liệu nhạy cảm của chính phủ Mỹ bị rò rỉ hay vụ hack Hafnium trên Microsoft Exchange Server khiến gần 60.000 doanh nghiệp Mỹ bị ảnh hưởng.\n\nMicrosoft trình diễn khả năng chạy ứng dụng Android trực tiếp trên Windows 11 mà không cần trình giả lập. Tuy nhiên, tính năng này lại có nhiều hạn chế.\n06:44 26/6/2021\n\nKhoảng cách giữa hai phiên bản Windows 10 và 11 lên đến 6 năm. Dù vậy, sự kiện ra mắt Windows 11 của Microsoft còn không hấp dẫn bằng những sự kiện diễn ra mỗi 6 tháng của Apple.\n18:00 25/6/2021",
+  "metadata": [
+    [
+      "https://photo.znews.vn/Uploaded/ovhunst/2021_06_27/Anh_1.jpg",
+      "Loi cong cu,  Windows,  Microsoft anh 1"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/ovhunst/2021_06_27/Anh_2.png",
+      "Loi cong cu,  Windows,  Microsoft anh 2"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/spivovxi/2021_06_25/17541_cachquaytrolaiwindows10saukhinangcapwindows112_1366x768_800_resize.jpg",
+      "Ai co the cai dat Windows 11 mien phi? hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/pqmcbzwv/2021_06_16/Win_11_flare.jpg",
+      "Microsoft loai ung dung tung mua 8,5 ty USD khoi Windows 11 hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/lcgmvpvs/2021_06_25/93350ab0638097dece91_1.jpg",
+      "Su kien Windows 11 dung hinh vi mat ket noi Internet hinh anh"
+    ],
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      ""
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, nguyên nhân ban đầu khiến nhiều máy tính mới nhận được thông báo \"máy tính của bạn không thể chạy Windows 11\" dù đáp ứng cấu hình là gì?",
+      "choices": {
+        "A": "Công cụ PC Health Check Tool của Microsoft đã liệt kê sai yêu cầu tối thiểu là TPM 1.2 thay vì TPM 2.0.",
+        "B": "Các máy tính này sử dụng CPU cũ hơn thế hệ thứ 8 của Intel hoặc Ryzen 2000 của AMD.",
+        "C": "Máy tính không có CPU lõi kép 64-bit 1 GHz trở lên theo yêu cầu ban đầu.",
+        "D": "Microsoft yêu cầu tính năng chạy ứng dụng Android trực tiếp trên Windows 11 mà các máy tính đó không hỗ trợ."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: \"Nguyên nhân nằm ở một con chip bảo mật và bảng liệt kê cấu hình ban đầu sai. Theo phiên bản gốc của công cụ, yêu cầu tối thiểu để cài đặt lên Windows 11 là máy tính có chip TPM 1.2... Tuy nhiên, Microsoft sau đó đã sửa lại và yêu cầu tối thiểu máy tính phải có TPM 2.0\". Lỗi ban đầu là do công cụ liệt kê sai yêu cầu TPM."
+    },
+    {
+      "question": "Theo David Weston, giám đốc bảo mật doanh nghiệp và hệ điều hành tại Microsoft, chức năng chính của Trusted Platform Module (TPM) là gì?",
+      "choices": {
+        "A": "Cung cấp khả năng lưu trữ an toàn các khóa mã hóa, chứng chỉ và mật khẩu để đăng nhập dịch vụ trực tuyến.",
+        "B": "Tích hợp vào bo mạch chủ của PC hoặc CPU để bảo vệ thông tin đăng nhập và dữ liệu nhạy cảm bằng hàng rào phần cứng.",
+        "C": "Giúp máy tính có thể chạy các ứng dụng Android mà không cần trình giả lập.",
+        "D": "Kiểm tra và xác định liệu máy tính có đủ điều kiện để nâng cấp lên Windows 11 hay không."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết trích lời David Weston: \"Trusted Platform Module (TPM) thực chất là một con chip được tích hợp vào bo mạch chủ của PC hoặc được thêm riêng vào CPU, có khả năng bảo vệ thông tin đăng nhập của người dùng và các dữ liệu nhạy cảm khác đằng sau hàng rào phần cứng”."
+    },
+    {
+      "question": "Lý do chính mà Microsoft đưa ra để giải thích cho việc yêu cầu TPM 2.0 trên các thiết bị chạy Windows 11 là gì?",
+      "choices": {
+        "A": "Để đảm bảo tương thích với các vi xử lý Intel Core thế hệ thứ 8 hoặc AMD Ryzen 2000 trở lên.",
+        "B": "Nhằm nâng cấp bảo mật cho người dùng, dựa trên các báo cáo về tấn công phần mềm doanh nghiệp và thiếu nguồn lực bảo vệ.",
+        "C": "TPM 1.2 đã lỗi thời và không còn được sử dụng rộng rãi trong các hệ thống máy tính hiện đại.",
+        "D": "Để hỗ trợ tính năng chạy ứng dụng Android trực tiếp trên hệ điều hành mới."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: \"Báo cáo về bảo mật của Microsoft cho thấy 83% doanh nghiệp gặp phải các cuộc tấn công phần mềm và chỉ 29% trong số đó đang phân bổ tài nguyên để bảo vệ lớp quan trọng này. Với thông tin này, việc Microsoft yêu cầu thiết bị phải có TPM 2.0 là hoàn toàn dễ hiểu khi hãng đang cố gắng nâng cấp bảo mật cho người dùng\", ông Weston cho biết thêm."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:45:41"
+}

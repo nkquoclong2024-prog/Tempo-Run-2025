@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/amazon-web-services-ra-mat-ha-tang-region-tai-malaysia-185230313104747365.htm",
+  "title": "Amazon Web Services ra mắt hạ tầng Region tại Malaysia",
+  "content": "Thành Luân -  thanhluan34@gmail.com 13/03/2023 11:45 GMT+7\nAmazon Web Services (AWS) - công ty trực thuộc Amazon.com vừa công bố kế hoạch triển khai hạ tầng AWS Region tại Malaysia.\nAWS Region mới sẽ mang đến cho các nhà phát triển, công ty khởi nghiệp, doanh nhân và doanh nghiệp cũng như các cơ quan chính phủ, tổ chức giáo dục và phi lợi nhuận nhiều lựa chọn hơn để chạy ứng dụng của họ, phục vụ người dùng từ các trung tâm dữ liệu đặt tại Malaysia.\nÔng Prasad Kalyanaraman, Phó chủ tịch phụ trách Dịch vụ hạ tầng AWS, cho biết: \"Hạ tầng AWS Region mới phản ánh cam kết lâu dài và sâu sắc của chúng tôi với các khách hàng và tổ chức tại Malaysia, và cũng là cam kết của chúng tôi trong việc phục vụ nhu cầu ngày càng lớn mạnh và gia tăng nhanh chóng về dịch vụ đám mây trên khắp Đông Nam Á. Chúng tôi tự hào hỗ trợ quá trình chuyển đổi số của Malaysia với cấp độ bảo mật và tin cậy cao nhất hiện có trên hạ tầng điện toán đám mây AWS\".\nAWS Region mới sẽ bao gồm ba Availability Zone ( Vùng Khả dụng ) khi ra mắt, bổ sung vào 99 Vùng khả dụng hiện có tại 31 khu vự c địa lý trên toàn cầu. Cùng với công bố này, AWS hiện có kế hoạch ra mắt thêm 15 Vùng Khả dụn g và thêm 5 AWS Region tại Canada, Malaysia, New Zealand và Thái Lan. Các AWS Region bao gồm các Vùng Khả dụng với cơ sở hạ tầng ở các vị trí địa lý riêng biệt, cách xa nhau để giảm đáng kể rủi ro của các sự cố đơn lẻ ảnh hưởng đến tính liên tục trong hoạt động kinh doanh của khách hàng, nhưng cũng đủ gần để đảm bảo độ trễ thấp cho các ứng dụng có độ sẵn sàng cao sử dụng nhiều Vùng Khả dụng.\nMỗi Vùng Khả dụng sở hữu nguồn điện, hệ thống làm lạnh và bảo mật vật lý độc lập, được kết nối thông qua các mạng dự phòng có độ trễ siêu thấp. Những khách hàng của AWS đòi hỏi tính sẵn sàng cao có thể thiết kế ứng dụng của họ để chạy trong nhiều Vùng Khả d ụng và trên nhiều Region để có được khả năng chịu lỗi cao hơn nữa.\nAWS Region mới sẽ cung cấp cho khách hàng nhiều tùy chọn khu vực lưu trữ nhằm bảo vệ dữ liệu một cách an toàn tại Malaysia, cho phép họ có được độ trễ thấp hơn nữa, đồng thời đáp ứng nhu cầu về dịch vụ điện toán đám mây trên khắp Đông Nam Á. Khách hàng từ các công ty khởi nghiệp đến doanh nghiệp, các tổ chức chính phủ và tổ chức phi lợi nhuận cũng có thể sử dụng các công nghệ tiên tiến từ dịch vụ đám mây hàng đầu thế giới này để thúc đẩy đổi mới sáng tạo. AWS cung cấp danh mục dịch vụ sâu rộng nhất, bao gồm phân tích, tính toán, cơ sở dữ liệu, Internet vạn vật (IoT), máy học, dịch vụ di động, lưu trữ và các công nghệ đám mây khác.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2023/3/13/amz-1678679060459582939274.jpg",
+      "AWS vừa triển khai hạ tầng mới tại Malaysia"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Thông báo chính trong bài viết về Amazon Web Services (AWS) là gì?",
+      "choices": {
+        "A": "AWS đã hoàn thành việc xây dựng 99 Vùng Khả dụng mới trên toàn cầu.",
+        "B": "AWS đã ra mắt một dịch vụ di động mới dành riêng cho thị trường Đông Nam Á.",
+        "C": "AWS công bố kế hoạch triển khai hạ tầng AWS Region mới tại Malaysia.",
+        "D": "AWS đang tìm kiếm đối tác để phát triển công nghệ IoT tại Canada."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết có tiêu đề \"Amazon Web Services ra mắt hạ tầng Region tại Malaysia\" và đoạn mở đầu khẳng định \"Amazon Web Services (AWS) - công ty trực thuộc Amazon.com vừa công bố kế hoạch triển khai hạ tầng AWS Region tại Malaysia.\""
+    },
+    {
+      "question": "Khi hạ tầng AWS Region mới tại Malaysia ra mắt, nó sẽ bao gồm bao nhiêu Availability Zone (Vùng Khả dụng)?",
+      "choices": {
+        "A": "Một Vùng Khả dụng.",
+        "B": "Ba Vùng Khả dụng.",
+        "C": "Mười lăm Vùng Khả dụng.",
+        "D": "Chín mươi chín Vùng Khả dụng."
+      },
+      "correct_answer": "B",
+      "explanation": "Theo bài viết, \"AWS Region mới sẽ bao gồm ba Availability Zone ( Vùng Khả dụng ) khi ra mắt\"."
+    },
+    {
+      "question": "Theo lời ông Prasad Kalyanaraman, Phó chủ tịch phụ trách Dịch vụ hạ tầng AWS, việc ra mắt hạ tầng AWS Region mới tại Malaysia thể hiện điều gì?",
+      "choices": {
+        "A": "Cam kết của AWS trong việc chỉ phục vụ các cơ quan chính phủ và tổ chức giáo dục tại Malaysia.",
+        "B": "Nỗ lực của AWS nhằm chuyển đổi tất cả các trung tâm dữ liệu hiện có sang năng lượng tái tạo.",
+        "C": "Cam kết lâu dài và sâu sắc của AWS với khách hàng, tổ chức tại Malaysia, cùng với việc phục vụ nhu cầu dịch vụ đám mây đang tăng trưởng tại Đông Nam Á.",
+        "D": "Mục tiêu của AWS là trở thành nhà cung cấp dịch vụ Internet vạn vật (IoT) độc quyền tại Malaysia."
+      },
+      "correct_answer": "C",
+      "explanation": "Ông Prasad Kalyanaraman đã phát biểu: \"Hạ tầng AWS Region mới phản ánh cam kết lâu dài và sâu sắc của chúng tôi với các khách hàng và tổ chức tại Malaysia, và cũng là cam kết của chúng tôi trong việc phục vụ nhu cầu ngày càng lớn mạnh và gia tăng nhanh chóng về dịch vụ đám mây trên khắp Đông Nam Á.\""
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:22:02"
+}

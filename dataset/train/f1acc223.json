@@ -1,0 +1,42 @@
+{
+  "url": "https://vnexpress.net/ngoai-dai-hoc-y-ha-noi-hoc-y-o-dau-tot-4803635.html",
+  "title": "Ngoài Đại học Y Hà Nội, học Y ở đâu tốt?",
+  "content": "Em là học sinh lớp 11, có nguyện vọng học Y. Em cũng đang xem xét các lựa chọn, trong trường hợp không vào được Đại học Y Hà Nội.\nEm được biết có trường Đại học Y Dược - Đại học Quốc gia Hà Nội, còn mới, không biết chất lượng giảng dạy ra sao. Mong mọi người cho em xin ý kiến để tham khảo. Em cảm ơn.\nTruong Lam",
+  "metadata": [],
+  "questions": [
+    {
+      "question": "Theo nội dung bài viết, Truong Lam hiện đang ở cấp học nào?",
+      "choices": {
+        "A": "Học sinh lớp 10",
+        "B": "Học sinh lớp 11",
+        "C": "Học sinh lớp 12",
+        "D": "Sinh viên năm nhất đại học"
+      },
+      "correct_answer": "B",
+      "explanation": "Trong bài viết, Truong Lam tự giới thiệu: 'Em là học sinh lớp 11'."
+    },
+    {
+      "question": "Nguyện vọng chính của Truong Lam được đề cập trong bài viết là gì?",
+      "choices": {
+        "A": "Tìm kiếm trường đại học có học phí thấp.",
+        "B": "Tìm kiếm trường đại học đào tạo ngành Dược.",
+        "C": "Có nguyện vọng học ngành Y.",
+        "D": "Tìm kiếm học bổng du học."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ nguyện vọng của Truong Lam là 'có nguyện vọng học Y'."
+    },
+    {
+      "question": "Mối bận tâm chính của Truong Lam khi xem xét Đại học Y Dược - Đại học Quốc gia Hà Nội là gì?",
+      "choices": {
+        "A": "Trường có cơ sở vật chất cũ kỹ.",
+        "B": "Trường có vị trí địa lý không thuận lợi.",
+        "C": "Trường còn mới và chưa rõ chất lượng giảng dạy.",
+        "D": "Trường có điểm chuẩn quá cao."
+      },
+      "correct_answer": "C",
+      "explanation": "Truong Lam bày tỏ sự băn khoăn: 'Em được biết có trường Đại học Y Dược - Đại học Quốc gia Hà Nội, còn mới, không biết chất lượng giảng dạy ra sao.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:56:34"
+}

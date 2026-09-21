@@ -1,0 +1,55 @@
+{
+  "url": "https://znews.vn/chatgpt-lai-sap-post1520974.html",
+  "title": "ChatGPT lại sập",
+  "content": "Trong thời gian gặp lỗi, cụm từ “ChatGPT sập rồi à?” được tìm kiếm nhiều nhất trong lịch sử từ khi ChatGPT ra mắt vào năm 2022.\nNgày 27/12, ChatGPT gặp sự cố lớn, khiến hàng nghìn người dùng trên toàn thế giới không thể truy cập. Sự cố kéo dài trong nhiều giờ, sau đó được khắc phục hoàn toàn vào cuối ngày. Vấn đề ít tác động đến khách hàng Việt Nam khi diễn ra vào giữa đêm muộn.\nTheo thông tin từ trang theo dõi trạng thái dịch vụ của OpenAI, sự cố bắt đầu từ khoảng 13h30 ngày 26/12 theo giờ ET (1h30 ngày 27/12 theo giờ Việt Nam). Trong thời gian xảy ra sự cố, hơn 15.000 báo cáo về việc không thể sử dụng ChatGPT đã được ghi nhận trên Downdetector. Con số này giảm dần xuống dưới 50 khi sự cố được giải quyết vào cuối buổi tối.\nNgười dùng báo cáo không thể sử dụng ChatGPT do lỗi hệ thống nội bộ hoặc không nhận được phản hồi từ nền tảng. Nhiều người cũng lên tiếng trên mạng xã hội, hỏi liệu dịch vụ có bị ngừng hoạt động. Theo Google Trends, cụm từ tìm kiếm “Is ChatGPT down?” (tạm dịch: ChatGPT sập rồi à?) đạt mức cao nhất trong lịch sử từ khi ChatGPT ra mắt vào năm 2022.\nĐến 23h, OpenAI xác nhận rằng ChatGPT đã phục hồi hoàn toàn.\nSự cố này còn ảnh hưởng đến API - giao diện lập trình ứng dụng của OpenAI - và Sora - công cụ tạo video bằng trí tuệ nhân tạo mới được phát hành. Ban đầu, OpenAI thông báo rằng cả 3 dịch vụ đều \"đang gặp tỷ lệ lỗi cao”. Sau đó, Sora được khôi phục lúc 18h15. Sau đó, ChatGPT hoàn toàn hoạt động trở lại vài giờ sau.\nOpenAI cho biết sự cố là do một vấn đề từ nhà cung cấp dịch vụ. Hãng không chỉ rõ tên của nhà cung cấp này. Nhưng theo The Verge, có nhiều dấu hiệu cho thấy sự cố liên quan đến đối tác đám mây độc quyền của công ty, Microsoft.\nCùng thời điểm ChatGPT xảy ra sự cố, Microsoft đã báo cáo một sự cố mất điện tại trung tâm dữ liệu ở miền Nam nước Mỹ. Sự cố này khiến một số dịch vụ của Microsoft, bao gồm cả Xbox Cloud Gaming, gặp tình trạng trễ lưu trữ, lỗi timeout, hoặc lỗi HTTP 500.\nMicrosoft cho biết sự cố bắt đầu lúc 13h44 và đã áp dụng các biện pháp khắc phục ngay sau đó. Đến 17h, nguồn điện tại trung tâm dữ liệu bị ảnh hưởng đã được khôi phục hoàn toàn.\nĐây cũng không phải là lần đầu tiên ChatGPT gặp vấn đề kỹ thuật trên diện rộng. Tháng 6/2024, một sự cố lớn đã ảnh hưởng đến các công cụ trí tuệ nhân tạo của OpenAI, bao gồm ChatGPT. Đầu tháng 12/2024, chỉ vài ngày sau khi Sora được giới thiệu cho người dùng ChatGPT Plus, cả công cụ tạo video này lẫn chatbot ChatGPT đều ngừng hoạt động trong nhiều giờ.\nTheo CBS News, các sự cố ngừng hoạt động ảnh hưởng đến nhiều người dùng hơn do lượng người sử dụng ChatGPT ngày càng tăng. Tính đến cuối năm 2024, ChatGPT có hơn 200 triệu người dùng hoạt động hàng tháng. Nhiều công ty trong danh sách Fortune 500 sử dụng các sản phẩm và API của OpenAI.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/spluaaa/2024_12_28/Canada_ChatGPT_Lawsuit_43924_jpg.jpg, ",
+      "OpenAI cho biết sự cố là do một vấn đề từ nhà cung cấp dịch vụ. Ảnh: Independent."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/spluaaa/2024_12_28/largest_outage_ever_854_png.jpg, ",
+      "So sánh lượt tìm kiếm trong các lần ngừng hoạt động. Ảnh: Search Engine Journal."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/spluaaa/2024_12_28/openai_services_down_812_png.jpg, ",
+      "Mức độ nghiêm trọng của sự cố ChatGPT ngừng hoạt động. Ảnh: Search Engine Journal."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông báo của OpenAI, nguyên nhân chính của sự cố ngừng hoạt động vào ngày 27/12 là gì?",
+      "choices": {
+        "A": "Lỗi hệ thống nội bộ của OpenAI.",
+        "B": "Vấn đề từ nhà cung cấp dịch vụ.",
+        "C": "Sự cố mất điện tại trung tâm dữ liệu của Microsoft.",
+        "D": "Lượng người dùng tăng đột biến dẫn đến quá tải hệ thống."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'OpenAI cho biết sự cố là do một vấn đề từ nhà cung cấp dịch vụ. Hãng không chỉ rõ tên của nhà cung cấp này.' Các phương án khác là suy đoán hoặc thông tin liên quan nhưng không phải là nguyên nhân chính thức được OpenAI công bố."
+    },
+    {
+      "question": "Ngoài ChatGPT, những dịch vụ nào khác của OpenAI cũng được xác nhận là 'đang gặp tỷ lệ lỗi cao' trong thời gian sự cố ngày 27/12?",
+      "choices": {
+        "A": "Chỉ có API của OpenAI.",
+        "B": "API của OpenAI và công cụ tạo video Sora.",
+        "C": "ChatGPT, API của OpenAI và công cụ tạo video Sora.",
+        "D": "Xbox Cloud Gaming và các dịch vụ khác của Microsoft."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết cho biết: 'Sự cố này còn ảnh hưởng đến API - giao diện lập trình ứng dụng của OpenAI - và Sora - công cụ tạo video bằng trí tuệ nhân tạo mới được phát hành. Ban đầu, OpenAI thông báo rằng cả 3 dịch vụ đều 'đang gặp tỷ lệ lỗi cao'.' Phương án D là các dịch vụ của Microsoft, không phải của OpenAI."
+    },
+    {
+      "question": "Trong thời gian ChatGPT gặp sự cố vào ngày 27/12, cụm từ tìm kiếm nào đã đạt mức cao nhất trong lịch sử từ khi ChatGPT ra mắt vào năm 2022?",
+      "choices": {
+        "A": "ChatGPT bị lỗi",
+        "B": "ChatGPT sập rồi à?",
+        "C": "OpenAI không hoạt động",
+        "D": "Cách khắc phục lỗi ChatGPT"
+      },
+      "correct_answer": "B",
+      "explanation": "Theo bài viết: 'Theo Google Trends, cụm từ tìm kiếm “Is ChatGPT down?” (tạm dịch: ChatGPT sập rồi à?) đạt mức cao nhất trong lịch sử từ khi ChatGPT ra mắt vào năm 2022.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 17:21:34"
+}

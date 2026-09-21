@@ -1,0 +1,47 @@
+{
+  "url": "https://lifestyle.znews.vn/dap-an-bai-toan-tuyen-dung-lam-kho-ung-vien-cua-apple-post1515128.html",
+  "title": "Đáp án bài toán tuyển dụng làm khó ứng viên của Apple",
+  "content": "Ứng viên được yêu cầu xếp đồng xu thành hai chồng có cùng số mặt ngửa, nhưng không được nhìn hay cảm nhận các đồng xu.\nTrong bài toán trước, Tri Thức - Znews giới thiệu đến bạn bài toán tuyển dụng của Apple khiến ứng viên bối rối. Đáp án của bài toán như sau:\nTưởng tượng, bạn có thể nhìn thấy những đồng xu. Khi đó, bạn chỉ cần lấy 5 đồng xu hiện mặt ngửa và chuyển sang một chồng khác, và bạn sẽ có hai chồng gồm: Chồng A (5 đồng mặt ngửa, 90 đồng mặt sấp) và chồng B (5 đồng mặt ngửa, 0 đồng mặt sấp).\nTuy nhiên, trong bài toán này, người chơi không thể nhìn hay cảm nhận được mặt nào đang hướng lên trên. Vì thế, nếu bị bịt mắt, bạn chỉ có thể lấy 5 đồng xu mặt ngửa theo cách ngẫu nhiên.\nNhưng cơ hội lấy được 5 đồng xu có mặt ngửa trong số 100 đồng xu là quá mong manh. Nên thay vì lấy đồng xu mặt ngửa, chúng ta có thể thử làm theo cách sau.\nĐầu tiên, bạn chọn 10 đồng xu bất kỳ trong số 100 đồng xu có sẵn, không cần quan tâm đó là mặt ngửa hay mặt sấp, rồi tạo thành hai chồng xu (chồng A có 10 xu bạn đã chọn và chồng B gồm 90 đồng xu còn lại).\nTiếp đó, bạn hãy lật tất cả đồng xu có trong chồng A. Khi đó, chồng A gồm 10 đồng xu bạn chọn sẽ có x mặt ngửa và 10 - x mặt sấp. Còn chồng B (gồm 90 đồng xu còn lại) sẽ có 10 - x mặt ngửa (vì ban đầu có tổng cộng 10 mặt ngửa).\nSau khi lật các đồng xu trong chồng A, x mặt ngửa trong chồng này trở thành mặt sấp và 10 - x mặt sấp lại trở thành mặt ngửa. Kéo theo đó, chồng A sẽ có 10 - x mặt ngửa.\nNhư vậy, bây giờ chồng A và chồng B đã có cùng số mặt ngửa theo đề bài yêu cầu là 10 - x.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/neg_esfjaex/2024_12_01/100_coins_image.jpg, ",
+      "Bài toán lật đồng xu gây khó cho ứng viên Apple. Ảnh: Shutterstock."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Bước đầu tiên trong lời giải của bài toán tuyển dụng Apple để xếp đồng xu thành hai chồng có cùng số mặt ngửa là gì?",
+      "choices": {
+        "A": "Lấy 5 đồng xu mặt ngửa từ tổng số 100 đồng xu.",
+        "B": "Chia 100 đồng xu thành hai chồng ngẫu nhiên gồm 50 đồng xu mỗi chồng.",
+        "C": "Chọn 10 đồng xu bất kỳ từ 100 đồng xu có sẵn.",
+        "D": "Cảm nhận các đồng xu để phân biệt mặt ngửa và mặt sấp."
+      },
+      "correct_answer": "C",
+      "explanation": "Theo bài viết, 'Đầu tiên, bạn chọn 10 đồng xu bất kỳ trong số 100 đồng xu có sẵn, không cần quan tâm đó là mặt ngửa hay mặt sấp, rồi tạo thành hai chồng xu'."
+    },
+    {
+      "question": "Để đảm bảo hai chồng xu có cùng số mặt ngửa, người chơi cần thực hiện hành động nào sau khi đã chọn 10 đồng xu thành chồng A và 90 đồng xu còn lại thành chồng B?",
+      "choices": {
+        "A": "Lật tất cả đồng xu trong chồng B.",
+        "B": "Lật tất cả đồng xu trong chồng A.",
+        "C": "Hoán đổi một số đồng xu giữa chồng A và chồng B.",
+        "D": "Chỉ lật các đồng xu mặt sấp trong chồng A."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ hành động cần thực hiện: 'Tiếp đó, bạn hãy lật tất cả đồng xu có trong chồng A'."
+    },
+    {
+      "question": "Giả sử tổng số mặt ngửa ban đầu trong 100 đồng xu là 10. Nếu chồng A (10 đồng xu) ban đầu có 'x' mặt ngửa, sau khi lật tất cả đồng xu trong chồng A, số mặt ngửa trong chồng A và chồng B sẽ là bao nhiêu?",
+      "choices": {
+        "A": "Chồng A có x mặt ngửa, chồng B có 10 - x mặt ngửa.",
+        "B": "Cả hai chồng A và B đều có 10 mặt ngửa.",
+        "C": "Cả hai chồng A và B đều có 10 - x mặt ngửa.",
+        "D": "Chồng A có 10 mặt ngửa, chồng B có x mặt ngửa."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết giải thích: 'Sau khi lật các đồng xu trong chồng A, x mặt ngửa trong chồng này trở thành mặt sấp và 10 - x mặt sấp lại trở thành mặt ngửa. Kéo theo đó, chồng A sẽ có 10 - x mặt ngửa. Còn chồng B (gồm 90 đồng xu còn lại) sẽ có 10 - x mặt ngửa (vì ban đầu có tổng cộng 10 mặt ngửa). Như vậy, bây giờ chồng A và chồng B đã có cùng số mặt ngửa theo đề bài yêu cầu là 10 - x'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:38:36"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://lifestyle.znews.vn/gan-200-truong-dai-hoc-cong-bo-diem-chuan-post1263519.html",
+  "title": "Gần 200 trường đại học công bố điểm chuẩn - Tuyển sinh 2024 - ZNEWS.VN",
+  "content": "\nBan Tuyển sinh quân sự, Bộ Quốc phòng, vừa công bố điểm chuẩn tuyển sinh vào các học viện, trường quân đội năm 2021.\n13:04 16/9/2021",
+  "metadata": [
+    [
+      "https://photo.znews.vn/Uploaded/pirr/2021_09_15/z2598796581574_d7ea654d88f03de596a149c657908ea4_1__1.jpg",
+      "DH Quoc te, DH Khoa hoc Tu nhien cong bo diem chuan hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/zbvunua/2021_09_15/hoc_vien_an_ninh_1.jpg",
+      "8 truong cong an cong bo diem chuan dai hoc 2021 hinh anh"
+    ],
+    [
+      "https://photo.znews.vn/Uploaded/neg_esfjaex/2021_08_27/0044fb6b5ae4aebaf7f5.jpg",
+      "Tra cuu diem chuan cua hon 70 truong dai hoc hinh anh"
+    ],
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      ""
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo nội dung tin tức, đơn vị nào đã công bố điểm chuẩn tuyển sinh?",
+      "choices": {
+        "A": "ZNEWS.VN",
+        "B": "Ban Tuyển sinh quân sự, Bộ Quốc phòng",
+        "C": "Gần 200 trường đại học",
+        "D": "Bộ Giáo dục và Đào tạo"
+      },
+      "correct_answer": "B",
+      "explanation": "Nội dung tin tức nêu rõ: 'Ban Tuyển sinh quân sự, Bộ Quốc phòng, vừa công bố điểm chuẩn tuyển sinh...'"
+    },
+    {
+      "question": "Điểm chuẩn tuyển sinh được công bố trong nội dung tin tức là dành cho năm nào?",
+      "choices": {
+        "A": "Năm 2024",
+        "B": "Năm 2021",
+        "C": "Năm 2020",
+        "D": "Năm 2022"
+      },
+      "correct_answer": "B",
+      "explanation": "Nội dung tin tức ghi rõ: '...công bố điểm chuẩn tuyển sinh vào các học viện, trường quân đội năm 2021.' Mặc dù tiêu đề có 'Tuyển sinh 2024', thông tin chi tiết trong bài viết là về năm 2021."
+    },
+    {
+      "question": "Nội dung tin tức đề cập đến việc công bố điểm chuẩn cho loại hình trường nào?",
+      "choices": {
+        "A": "Gần 200 trường đại học",
+        "B": "Các trường dân sự",
+        "C": "Các học viện, trường quân đội",
+        "D": "Các trường cao đẳng"
+      },
+      "correct_answer": "C",
+      "explanation": "Nội dung tin tức nêu cụ thể: '...công bố điểm chuẩn tuyển sinh vào các học viện, trường quân đội năm 2021.' Phương án A là thông tin chung từ tiêu đề, không phải chi tiết trong nội dung."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:41:33"
+}

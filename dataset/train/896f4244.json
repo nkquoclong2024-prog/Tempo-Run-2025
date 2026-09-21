@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/pisafe-a-comprehensive-security-and-safety-alert-platform-4814732.html",
+  "title": "PiSafe: A comprehensive security and safety alert platform",
+  "content": "It goes beyond simply issuing alerts, playing an active role in educating the public and fostering intelligent interaction with citizens, while effectively utilizing national databases to enhance management and response capabilities in emergency situations.\nKey Features of PiSafe\nIntegration with national databases\nNational population database: PiSafe uses population data to verify user identities on the platform, ensuring the accuracy and security of all transactions and communications.\nForest Database: The platform connects with forest resource data to provide real-time fire alerts and predict high-risk areas, allowing authorities to proactively manage forest fire prevention.\nSecurity and Safety Statistics Database: PiSafe integrates statistical data related to fire prevention, security, accidents, and local incidents. It analyzes this data to predict risks and suggest appropriate response measures.\nNatural Disaster Database: The system uses disaster-related information to issue early warnings and send emergency notifications to residents in areas affected by storms, floods, earthquakes, and other natural disasters.\nReal-time security and safety alerts\nContinuous monitoring: PiSafe collects data from IoT sensors to monitor homes, industrial facilities, and urban areas.\nEarly warning: The system automatically detects fires, break-ins, floods, or traffic accidents and sends alerts to the public and relevant authorities.\nEdge computing: The system uses AI-powered edge devices to process incidents locally, speeding up response times and reducing the load on central systems.\nPublic awareness and emergency notifications\nGenAI Virtual Assistant: Provides information and safety tips on fire prevention, emergency evacuation, and other safety guidelines through chatbots and mobile apps.\nMultichannel Communication: Public notifications are broadcasted through loudspeakers, digital billboards, SMS, and mobile apps.\nSupport for Authorities: PiSafe automatically aggregates report data and offers action suggestions for businesses and regulatory bodies.\nBig data analysis and risk forecasting\nDisaster forecasting: Using historical data on storms and floods, PiSafe predicts high-risk areas and sends early warnings.\nEnvironmental monitoring: It tracks pollution levels and detects gas leaks or water contamination.\nSecurity trend forecasting: PiSafe analyzes data from incidents to detect abnormal behaviors and recommend effective preventive measures.\nSmart network connectivity and centralized management\nCentralized management: PiSafe integrates surveillance from multiple areas into a single management platform.\nInteroperability: It connects with other management systems such as Building Management Systems (BMS) and public security systems.\nDigital signatures: PiSafe ensures security and transparency in transactions and reports between stakeholders.\nThe security and safety alert platform is developed by PiSafe team. Photo courtesy of PiSafe\nBenefits of PiSafe\nEnhanced security and safety: Minimizes risks through early alerts and quick response times.\nImproved public awareness: Delivers accurate, fast emergency information and safety guidelines.\nOptimized management: Helps authorities monitor and coordinate effectively, improving inter-agency cooperation.\nVersatile applications: Suitable for various models, from households and businesses to smart cities and national defense.\nTechnological independence: \"Make in Vietnam\" solutions reduce costs while boosting international competitiveness.\nPractical applications of PiSafe\nSmart homes: Detects fires, gas leaks, and break-ins.\nSmart factories: Monitors production, issues fire and explosion alerts, and handles industrial incidents.\nSmart cities: Manages traffic and maintains public security.\nNational defense and border security: Detects illegal intrusions and supports national security protection.\nDisasters: Provides early warnings and evacuation guidance during storms, floods, and earthquakes.\nPiSafe is not just a comprehensive security and safety platform; it also enhances interaction and information management between authorities and the public. \"The combination of advanced technologies such as IoT, AI, Big Data, GenAI, and digital signatures makes PiSafe a reliable smart security platform, contributing to the sustainable development of Vietnamese society,\" said a representative from the PiSafe development team.",
+  "metadata": [
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "The security and safety alert platform by PiSafe team. Photo courtesy of PiSafe"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, cơ sở dữ liệu quốc gia nào được PiSafe sử dụng để xác minh danh tính người dùng và đảm bảo an toàn giao dịch?",
+      "choices": {
+        "A": "Cơ sở dữ liệu dân cư quốc gia",
+        "B": "Cơ sở dữ liệu rừng",
+        "C": "Cơ sở dữ liệu thống kê an ninh và an toàn",
+        "D": "Cơ sở dữ liệu thiên tai"
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ trong phần 'Integration with national databases': 'National population database: PiSafe uses population data to verify user identities on the platform, ensuring the accuracy and security of all transactions and communications.'"
+    },
+    {
+      "question": "PiSafe sử dụng những kênh truyền thông nào để phát sóng thông báo khẩn cấp tới công chúng?",
+      "choices": {
+        "A": "Chỉ qua ứng dụng di động và tin nhắn SMS.",
+        "B": "Qua loa phát thanh, bảng quảng cáo kỹ thuật số, tin nhắn SMS và ứng dụng di động.",
+        "C": "Chủ yếu qua trợ lý ảo GenAI và email.",
+        "D": "Chỉ qua các thiết bị IoT và hệ thống quản lý tòa nhà (BMS)."
+      },
+      "correct_answer": "B",
+      "explanation": "Mục 'Public awareness and emergency notifications' trong bài viết có đoạn: 'Multichannel Communication: Public notifications are broadcasted through loudspeakers, digital billboards, SMS, and mobile apps.'"
+    },
+    {
+      "question": "Theo bài viết, công nghệ nào KHÔNG được liệt kê là thành phần chính tạo nên nền tảng bảo mật thông minh PiSafe?",
+      "choices": {
+        "A": "IoT (Internet of Things)",
+        "B": "AI (Trí tuệ nhân tạo)",
+        "C": "Blockchain",
+        "D": "GenAI (Trí tuệ nhân tạo tạo sinh)"
+      },
+      "correct_answer": "C",
+      "explanation": "Cuối bài viết có đoạn: 'The combination of advanced technologies such as IoT, AI, Big Data, GenAI, and digital signatures makes PiSafe a reliable smart security platform...'. Công nghệ Blockchain không được nhắc đến trong danh sách các công nghệ chính này."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:53:43"
+}

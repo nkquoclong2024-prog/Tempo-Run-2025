@@ -1,0 +1,47 @@
+{
+  "url": "https://thanhnien.vn/google-canh-bao-cac-moi-de-doa-an-ninh-mang-dang-so-nhat-nam-2025-185241116220958506.htm",
+  "title": "Google cảnh báo các mối đe dọa an ninh mạng đáng sợ nhất năm 2025",
+  "content": "Google vừa đưa ra dự báo về những mối đe dọa an ninh mạng dự kiến sẽ nổi lên như vũ bão vào năm sau.\nTheo TechRadar, trong báo cáo Dự báo An ninh mạng 2025 (Cybersecurity Forecast 2025) mới nhất, Google đã đưa ra những lời cảnh báo về 3 mối đe dọa an ninh mạng lớn nhất mà các doanh nghiệp cần đặc biệt lưu ý trong năm tới.\nGoogle đưa ra cảnh báo về an ninh mạng cho năm 2025\nẢNH: CHỤP MÀN HÌNH LINKEDIN\nĐứng đầu danh sách là trí tuệ nhân tạo (AI). Mặc dù AI có tiềm năng trở thành công cụ đắc lực trong việc phòng thủ không gian mạng, nhưng công nghệ này cũng là 'chiêu bài' hàng đầu bị các thế lực xấu lợi dụng để tấn công. Google dự báo các cuộc tấn công mạng sử dụng AI trong năm 2025 sẽ gia tăng về tần suất và mức độ tinh vi, đặc biệt là deepfake, vishing và phishing.\nMối đe dọa thứ hai đến từ các cuộc tấn công mạng do các tổ chức chính phủ hậu thuẫn. Trong bối cảnh căng thẳng địa chính trị leo thang, các quốc gia như Nga, Trung Quốc, Iran và Triều Tiên được Google dự báo sẽ tiếp tục nhắm mục tiêu vào các cơ sở hạ tầng quan trọng trên toàn cầu.\nCuối cùng, ransomware vẫn là mối đe dọa dai dẳng nhất, với tần suất và mức độ nghiêm trọng ngày càng gia tăng. Các cuộc tấn công bằng ransomware đa dạng và tinh vi hơn, nhắm vào nhiều đối tượng người dùng khác nhau trên khắp thế giới.\nNgoài ra, Google cũng cảnh báo về sự gia tăng của các chiến dịch đánh cắp thông tin, do các công cụ tấn công ngày càng dễ tiếp cận, ngay cả với những kẻ tấn công có kỹ năng thấp.\nTrước những thách thức này, Google kêu gọi các doanh nghiệp cần nâng cao cảnh giác, đầu tư vào các giải pháp bảo mật tiên tiến và hợp tác chặt chẽ với các chuyên gia an ninh mạng để bảo vệ dữ liệu và hệ thống của mình.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/11/16/1691400801602-17317700253461963338937.jpg",
+      "Google đưa ra cảnh báo về an ninh mạng cho năm 2025"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo báo cáo của Google, ba mối đe dọa an ninh mạng lớn nhất mà các doanh nghiệp cần đặc biệt lưu ý trong năm 2025 là gì?",
+      "choices": {
+        "A": "Trí tuệ nhân tạo (AI), các cuộc tấn công do chính phủ hậu thuẫn và ransomware.",
+        "B": "Deepfake, vishing và phishing.",
+        "C": "Đánh cắp thông tin, tấn công DDoS và mã độc.",
+        "D": "Các cuộc tấn công từ Nga, Trung Quốc và Iran."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: \"Google đã đưa ra những lời cảnh báo về 3 mối đe dọa an ninh mạng lớn nhất... Đứng đầu danh sách là trí tuệ nhân tạo (AI). Mối đe dọa thứ hai đến từ các cuộc tấn công mạng do các tổ chức chính phủ hậu thuẫn. Cuối cùng, ransomware vẫn là mối đe dọa dai dẳng nhất.\""
+    },
+    {
+      "question": "Google dự báo các cuộc tấn công mạng sử dụng AI trong năm 2025 sẽ gia tăng về tần suất và mức độ tinh vi, đặc biệt là những loại hình nào?",
+      "choices": {
+        "A": "Deepfake, vishing và phishing.",
+        "B": "Ransomware, tấn công lừa đảo qua email và tấn công từ chối dịch vụ (DDoS).",
+        "C": "Đánh cắp thông tin cá nhân và tấn công vào cơ sở hạ tầng quan trọng.",
+        "D": "Mã độc tống tiền (ransomware) và phần mềm gián điệp (spyware)."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu: \"Google dự báo các cuộc tấn công mạng sử dụng AI trong năm 2025 sẽ gia tăng về tần suất và mức độ tinh vi, đặc biệt là deepfake, vishing và phishing.\""
+    },
+    {
+      "question": "Mối đe dọa an ninh mạng nào được Google mô tả là \"dai dẳng nhất\" và có tần suất, mức độ nghiêm trọng ngày càng gia tăng trong năm 2025?",
+      "choices": {
+        "A": "Các cuộc tấn công mạng do các tổ chức chính phủ hậu thuẫn.",
+        "B": "Trí tuệ nhân tạo (AI) bị lợi dụng để tấn công.",
+        "C": "Ransomware.",
+        "D": "Các chiến dịch đánh cắp thông tin do công cụ tấn công dễ tiếp cận."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết khẳng định: \"Cuối cùng, ransomware vẫn là mối đe dọa dai dẳng nhất, với tần suất và mức độ nghiêm trọng ngày càng gia tăng.\""
+    }
+  ],
+  "questions_generated_at": "2025-09-01 15:55:43"
+}

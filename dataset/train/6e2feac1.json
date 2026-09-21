@@ -1,0 +1,51 @@
+{
+  "url": "https://znews.vn/tuyen-cap-bien-dung-luong-khung-nhat-viet-nam-post1519030.html",
+  "title": "Cáp quang biển nhanh nhất Việt Nam đi vào hoạt động",
+  "content": "Tuyến cáp ADC dài gần 10.000 km, tổng dung lượng ban đầu trên 160 Tbps tăng cường kết nối Việt Nam đến các quốc gia Đông Á và Đông Nam Á.\nTuyến cáp ADC (Asia Direct Cable) vừa hoàn thiện giai đoạn thử nghiệm và chính thức được đưa vào vận hành từ ngày 19/12. Đây sẽ là tuyến cáp biển dung lượng lớn nhất tại Việt Nam, gấp đôi tuyến cáp AAE-1, đồng thời san sẻ tải với một số tuyến cáp biển đang khai thác như TGN-IA, AAG hay APG.\nADC cũng là hệ thống cáp quang biển quốc tế có dung lượng truyền tải lớn, mới nhất được đưa vào khai thác tại Việt Nam sau 8 năm, kết nối khu vực Đông Á – Đông Nam Á với tổng chiều dài cáp ngầm gần 10.000 km.\nADC kết nối 7 trạm cập bờ tại các quốc gia dọc theo tuyến cáp gồm Nhật Bản, Hong Kong SAR, Trung Quốc, Philippines, Thái Lan, Singapore và Việt Nam (tại Quy Nhơn, Bình Định).\nVề thiết kế, tuyến cáp có cấu hình 8 cặp sợi (8FP) trên trục chính Singapore – Hong Kong – Nhật Bản. Đặc biệt, ADC được thiết kế kết nối trực tiếp đến các trung tâm dữ liệu lớn nhất châu Á gồm Singapore, Nhật Bản và Hong Kong.\nADC sử dụng công nghệ ghép bước sóng mật độ cao, dung lượng thiết kế ban đầu trên 160 Tbps. Viettel sở hữu một cặp sợi trên trục chính với dung lượng tối thiểu 20 Tbps, toàn bộ nhánh cáp biển và trạm cập bờ tại Việt Nam.\nTuyến cáp có 9 nhà đầu tư gồm Viettel, Softbank, China Telecom Global, China Telecom Corporation, China Unicom, Singtel, TATA Communications, National Telecom và PLDT, bên cạnh nhà thầu NEC. Dự án được nghiệm thu ngày 8/11 và chính thức vận hành từ 19/12.\nĐại diện Viettel cho biết ADC bổ sung dung lượng lớn tốc độ cao kết nối từ Việt Nam đi quốc tế. Điều này nhằm đáp ứng các dịch vụ yêu cầu băng thông lớn, tốc độ cao như 5G, trí tuệ nhân tạo (AI), Internet vạn vật (IoT), AR/VR, đồng thời tăng tính dự phòng, an toàn, bền vững cho hạ tầng Internet của Viettel nói riêng và Việt Nam nói chung.\nBên cạnh ADC, Viettel cũng cho biết đang phối hợp các nhà mạng lớn trong khu vực đầu tư dự án cáp quang biển ALC (Asia Link Cable), kết nối các hub lớn trong khu vực châu Á.\nHồi tháng 4, Viettel cũng công bố dự án cáp biển VTS (Vietnam - Singapore Cable System) kết nối trực tiếp Việt Nam và Singapore với băng thông, công nghệ tiên tiến nhất.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/yqdlcqrwq/2024_12_19/sea_cable_nec.jpg, ",
+      "Đây là tuyến cáp quang biển có dung lượng lớn nhất Việt Nam. Ảnh: NEC."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/yqdlcqrwq/2024_12_19/Asia_Direct_Cable_ADC.jpg, ",
+      "Sơ đồ các điểm cập bờ của tuyến cáp ADC. Ảnh: NEC."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Tuyến cáp quang biển ADC có đặc điểm nổi bật nào so với các tuyến cáp biển khác tại Việt Nam?",
+      "choices": {
+        "A": "Là tuyến cáp biển duy nhất kết nối Việt Nam với Đông Á.",
+        "B": "Có dung lượng lớn nhất tại Việt Nam, gấp đôi tuyến cáp AAE-1.",
+        "C": "Sử dụng công nghệ cáp đồng trục truyền thống.",
+        "D": "Được đưa vào vận hành sớm nhất trong lịch sử hạ tầng Internet Việt Nam."
+      },
+      "correct_answer": "B",
+      "explanation": "Theo bài viết, \"Đây sẽ là tuyến cáp biển dung lượng lớn nhất tại Việt Nam, gấp đôi tuyến cáp AAE-1\"."
+    },
+    {
+      "question": "Theo bài viết, Viettel đóng vai trò như thế nào trong dự án cáp quang biển ADC?",
+      "choices": {
+        "A": "Là nhà thầu chính chịu trách nhiệm thi công toàn bộ tuyến cáp.",
+        "B": "Sở hữu một cặp sợi trên trục chính, nhánh cáp biển và trạm cập bờ tại Việt Nam.",
+        "C": "Chỉ là một trong các nhà đầu tư mà không có quyền sở hữu hạ tầng cụ thể.",
+        "D": "Chịu trách nhiệm vận hành và bảo trì toàn bộ tuyến cáp sau khi đi vào hoạt động."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: \"Viettel sở hữu một cặp sợi trên trục chính với dung lượng tối thiểu 20 Tbps, toàn bộ nhánh cáp biển và trạm cập bờ tại Việt Nam.\""
+    },
+    {
+      "question": "Tuyến cáp quang biển ADC chính thức được đưa vào vận hành vào ngày nào?",
+      "choices": {
+        "A": "Ngày 8/11.",
+        "B": "Ngày 19/12.",
+        "C": "Ngày 16/01.",
+        "D": "Ngày 25/10."
+      },
+      "correct_answer": "B",
+      "explanation": "Thông tin trong bài viết cho biết: \"Dự án được nghiệm thu ngày 8/11 và chính thức vận hành từ 19/12.\""
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:16:48"
+}

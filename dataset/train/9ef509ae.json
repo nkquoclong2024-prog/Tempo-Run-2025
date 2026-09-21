@@ -1,0 +1,55 @@
+{
+  "url": "https://znews.vn/openai-o3-suy-nghi-gan-bang-con-nguoi-roi-sao-post1520499.html",
+  "title": "OpenAI o3 suy nghĩ gần bằng con người, rồi sao?",
+  "content": "Mô hình trí tuệ nhân tạo mới của OpenAI có tên o3 đã đạt được kết quả ngang bằng con người trong một bài kiểm tra được thiết kế để đo \"trí thông minh tổng quát\".\nĐược giới thiệu vào tuần trước, mô hình trí tuệ nhân tạo mới của OpenAI có tên o3 đã tạo nên cột mốc mới trong ngành khi đạt 85% điểm chuẩn trong bài thi ARC-AGI.\nĐể so sánh, con số này cao hơn nhiều so với điểm tốt nhất trước đó của AI là 55%. Đặc biệt hơn, mô hình AI này đã đạt hiệu suất ngang bằng với điểm trung bình của con người.\nTạo ra trí tuệ nhân tạo tổng quát, hay AGI là mục tiêu được nêu ra của tất cả các phòng nghiên cứu AI lớn. Thoạt nhìn, OpenAI dường như đã thực hiện ít nhất một bước tiến đáng kể hướng tới mục tiêu này.\nĐể hiểu kết quả của o3 có ý nghĩa như thế nào, chúng ta cần hiểu bài kiểm tra ARC-AGI là gì. Về mặt kỹ thuật, đây là bài kiểm tra \"hiệu quả mẫu\" của hệ thống AI trong việc thích ứng với điều gì đó mới. Cụ thể, hệ thống cần xem bao nhiêu ví dụ về tình huống mới lạ để tìm ra cách thức hoạt động.\nMột hệ thống AI như ChatGPT, được xây dựng trên mô hình ngôn ngữ lớn (LLM) GPT-4 vốn không hiệu quả lắm về khả năng này.\nĐiều này xuất phát từ việc LLM được \"đào tạo\" trên hàng triệu ví dụ về văn bản của con người, từ đó xây dựng \"quy tắc\" xác suất về những tổ hợp từ nào có khả năng xảy ra nhất.\nĐiều này giúp chatbot làm khá tốt ở các tác vụ phổ biến. Tuy nhiên, nó lại cho kết quả tệ ở các tác vụ không phổ biến vì có ít dữ liệu về các tác vụ đó.\nCho đến khi các hệ thống AI có thể học hỏi từ số lượng nhỏ ví dụ và thích ứng với hiệu quả mẫu cao hơn, chúng sẽ chỉ được sử dụng cho các công việc lặp đi lặp lại hay những công việc mà thỉnh thoảng việc xảy ra lỗi có thể chấp nhận được.\nKhả năng giải quyết chính xác các vấn đề mới lạ hoặc chưa từng biết trước đó từ các mẫu dữ liệu hạn chế được gọi là khả năng khái quát hóa. Nó được coi rộng rãi là một yếu tố cần thiết, thậm chí là cơ bản, của trí thông minh.\nTiêu chuẩn của bài ARC-AGI là kiểm tra khả năng thích ứng hiệu quả của mẫu bằng cách sử dụng các bài toán ô lưới nhỏ. AI sẽ cần tìm ra mẫu biến ô lưới bên trái thành ô lưới bên phải.\nMỗi câu hỏi sẽ đưa ra 3 ví dụ để AI học hỏi. Sau đó, hệ thống AI cần tìm ra các quy tắc \"tổng quát hóa\" từ 3 ví dụ đã cho để giải được câu đố. Theo The Conversation, bài kiểm tra này tương tự với việc trắc nghiệm IQ của con người.\nHiện vẫn không biết chính xác OpenAI đã làm điều đó như thế nào, nhưng kết quả cho thấy mô hình o3 có khả năng thích ứng cao. Chỉ từ một vài ví dụ, nó tìm ra các quy tắc có thể khái quát hóa.\nNhà nghiên cứu AI người Pháp Francois Chollet tin rằng o3 tìm kiếm thông qua các \"chuỗi suy nghĩ\" khác nhau để mô tả các bước giải quyết nhiệm vụ. Sau đó, nó sẽ chọn cách \"tốt nhất\" theo một số quy tắc được định nghĩa lỏng lẻo hoặc \"phương pháp tìm kiếm\".\nĐiều này không khác so với cách mà AlphaGo - một chương trình máy tính do DeepMind của Google phát triển tìm kiếm qua nhiều trình tự nước đi có thể để đánh bại nhà vô địch cờ vây thế giới.\nTuy nhiên, câu hỏi đặt ra là liệu điều này có thực sự đưa con người gần hơn với AGI không? Nếu đó là cách o3 hoạt động, mô hình này về cơ bản có thể không tốt hơn nhiều so với các mô hình trước đó.\nCác chuyên gia về AI tin rằng việc dạy các mô hình AI biết cách lý luận và lập kế hoạch là một bước tiến quan trọng hướng tới trí tuệ nhân tạo tổng quát (AGI). Thuật ngữ này nói về việc máy móc thể hiện khả năng nhận thức tương tự như con người.\nNếu các hệ thống AI có thể tự lý luận, nó sẽ cải thiện tính nhất quán trong các truy vấn cũng như nâng cao khả năng giải quyết nhiều vấn đề thực tiễn.\nĐể làm được điều này, kể từ mô hình o1, OpenAI đã sử dụng công nghệ máy học tăng cường, một phương pháp cho phép nó khám phá các chiến lược khác nhau khi trả lời truy vấn.\nMặc dù quá trình này mất nhiều thời gian và tốn kém hơn so với các mô hình GPT trước đây, AI mới lại có tính nhất quán và khả năng xử lý nhiều tác vụ phức tạp hơn.\nĐể thực sự hiểu được tiềm năng của o3 sẽ cần rất nhiều công sức, bao gồm cả những đánh giá, hiểu biết về sự phân bổ năng lực, tần suất thất bại và thành công.\nĐiều này đồng nghĩa với việc phải đến khi o3 được phát hành chính thức, chúng ta mới thật sự có thể đánh giá liệu nó có khả năng thích nghi như một con người trung bình hay không.\nNăm 2016, nhờ việc đánh bại Lee Sedol - kỳ thủ cờ vây giỏi nhất trong thế hệ của mình, AlphaGo đã giải quyết được một trong những thách thức lớn nhất của khoa học máy tính: Tự dạy mình chiến lược trừu tượng cần thiết để giành chiến thắng trong cờ vây, bàn cờ được coi phức tạp nhất của thế giới trò chơi.\nChỉ sau chưa đầy 10 năm, nếu o3 có thể làm điều tương tự, đây có thể sẽ là một bước tiến vĩ đại của AI với tác động kinh tế to lớn, mang tính cách mạng, mở ra kỷ nguyên mới của trí thông minh tự cải thiện được tăng tốc.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/ivpbciv2/2024_12_25/tai_xuong_2024_12_26T085523.389.jpeg, ",
+      "Một ví dụ về bài kiểm tra ARC-AGI. Mỗi câu hỏi sẽ đưa ra 3 ví dụ để AI học hỏi. Sau đó, hệ thống AI cần tìm ra các quy tắc \"tổng quát hóa\" từ 3 ví dụ đã cho để giải được câu đố. Ảnh: ARC Prize."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/ivpbciv2/2024_12_25/tai_xuong_2024_12_26T085956.010.jpeg, ",
+      "Mô hình O3 đã đạt điểm số lý luận và giải quyết vấn đề tương đương một người trung bình. Ảnh: 123RF."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/ivpbciv2/2024_12_25/tai_xuong_2024_12_26T090120.871.jpeg, ",
+      "Việc dạy các mô hình AI biết cách lý luận và lập kế hoạch là một bước tiến quan trọng hướng tới trí tuệ nhân tạo tổng quát (AGI). Thuật ngữ này nói về việc máy móc thể hiện khả năng nhận thức tương tự như con người. Ảnh: The Conversation."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, thành tựu chính mà mô hình o3 của OpenAI đạt được trong bài kiểm tra ARC-AGI là gì?",
+      "choices": {
+        "A": "Đạt 95% điểm chuẩn, vượt xa khả năng của con người.",
+        "B": "Đạt 85% điểm chuẩn, ngang bằng với điểm trung bình của con người.",
+        "C": "Vượt qua điểm số tốt nhất trước đó của AI với tỷ lệ 55%.",
+        "D": "Chứng minh khả năng học hỏi từ hàng triệu ví dụ văn bản của con người hiệu quả hơn."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'mô hình trí tuệ nhân tạo mới của OpenAI có tên o3 đã tạo nên cột mốc mới trong ngành khi đạt 85% điểm chuẩn trong bài thi ARC-AGI. ... Đặc biệt hơn, mô hình AI này đã đạt hiệu suất ngang bằng với điểm trung bình của con người.'"
+    },
+    {
+      "question": "Khả năng 'khái quát hóa' mà bài kiểm tra ARC-AGI đánh giá được định nghĩa như thế nào trong bài viết?",
+      "choices": {
+        "A": "Khả năng xử lý hàng triệu ví dụ văn bản để xây dựng quy tắc xác suất.",
+        "B": "Khả năng giải quyết chính xác các vấn đề mới lạ hoặc chưa từng biết trước đó từ các mẫu dữ liệu hạn chế.",
+        "C": "Khả năng tìm kiếm thông qua các 'chuỗi suy nghĩ' khác nhau để mô tả các bước giải quyết nhiệm vụ.",
+        "D": "Khả năng thích ứng với các công việc lặp đi lặp lại mà việc xảy ra lỗi có thể chấp nhận được."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết định nghĩa: 'Khả năng giải quyết chính xác các vấn đề mới lạ hoặc chưa từng biết trước đó từ các mẫu dữ liệu hạn chế được gọi là khả năng khái quát hóa.'"
+    },
+    {
+      "question": "Theo các chuyên gia AI được đề cập trong bài viết, yếu tố nào được coi là bước tiến quan trọng hướng tới Trí tuệ nhân tạo tổng quát (AGI)?",
+      "choices": {
+        "A": "Khả năng học hỏi từ hàng triệu ví dụ để thực hiện các tác vụ phổ biến.",
+        "B": "Việc dạy các mô hình AI biết cách lý luận và lập kế hoạch.",
+        "C": "Phát triển các mô hình có khả năng tìm kiếm qua nhiều trình tự nước đi có thể.",
+        "D": "Giảm thiểu chi phí và thời gian đào tạo mô hình AI."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Các chuyên gia về AI tin rằng việc dạy các mô hình AI biết cách lý luận và lập kế hoạch là một bước tiến quan trọng hướng tới trí tuệ nhân tạo tổng quát (AGI).'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:53:27"
+}

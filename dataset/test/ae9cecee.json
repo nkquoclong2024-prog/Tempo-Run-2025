@@ -1,0 +1,41 @@
+{
+  "url": "https://znews.vn/nvidia-trung-quoc-pha-san-post1520667.html",
+  "title": "'Nvidia Trung Quốc' phá sản",
+  "content": "Các nguồn tin địa phương khẳng định \"kỳ lân\" mảng GPU của Trung Quốc phải sa thải gần hết nhân viên khi cạn vốn.\nCác công ty bán dẫn Trung Quốc hiện rơi vào hai thái cực: IPO thành công, được định giá tỷ USD hoặc phải “vào phòng cấp cứu”. Trong khi hàng loạt kỳ lân thành hình, hãng GPU Xiangdixian được báo cáo đã phá sản.\nXangdixian được thành lập vào tháng 9/2020 bởi Tang Zhimin, chuyên gia khoa học máy tính của Viện Khoa học Trung Quốc. Truyền thông phương tây đặt cho công ty này biệt danh “Nvidia của Trung Quốc”. Doanh nghiệp nhận được khoản đầu tư lớn, trở thành kỳ lân công nghệ với định giá 15 tỷ nhân dân tệ, tương đương hơn 2 tỷ USD.\nTrước các tin đồn phá sản, Xiangdixian thông báo rằng chỉ “cắt giảm chi phí để tối ưu đội ngũ”. Họ cũng đang tích cực liên hệ với nhà đầu tư để tìm kiếm nhà tài trợ. Tuy nhiên theo SCMP, công ty này gần như phá sản khi tổ chức cuộc họp, quyết định chấm dứt hợp đồng của 400 nhân viên, gần hết số lao động đang làm việc. Vấn đề xuất phát từ việc cạn tiền mặt.\nKỳ lân này không thực hiện được các điều khoản đã thỏa thuận trước đó trong vòng gọi vốn. Do vậy, cổ đông đệ đơn kiện lên tòa dẫn đến đóng băng tài khoản ngân hàng, TMTPost đưa tin.\nTheo Asia Vision Technology, thất bại của Xiandixian là hậu quả của loạt đánh giá sai lầm. Từ 2014, Trung Quốc lập quỹ đầu tư hơn 130 tỷ tệ để thúc đẩy bán dẫn trong nước. Mục tiêu của nhà chức trách là phát triển công nghiệp sản xuất nội địa, tiến gần các tiến trình cao cấp. Trong làn sóng đó, hàng loạt hãng card đồ họa của nước này được thành lập.\nĐến 2020, những mục tiêu ban đầu được thực hiện khá tốt. SMIC đã sản xuất hàng loạt thành công chip 14 nm, hiệu suất 95%. Tuy nhiên, năng lực này vẫn dựa trên các loại máy quang khắc nhập khẩu, chưa thể tự chủ hoàn toàn.\nNhững công ty như Xiandixian được thành lập sau khi những lệnh cấm vận Mỹ dành cho Huawei, ZTE được đưa ra. Thành tựu của doanh nghiệp này là các nguyên mẫu GPU Tianjun, vốn có hiệu suất kém xa các đối thủ từ Nvidia, AMD hay Intel.\nChúng chỉ có tác dụng giúp nhà sáng lập gọi vốn thành công số tiền khổng lồ, được mệnh danh là “Nvidia Trung Quốc”.\nNhững khó khăn của Xiangdixian minh chứng cho mối nguy trong ngành bán dẫn của Trung Quốc. Lĩnh vực đã phát triển nhanh chóng trong những năm gần đây khi chính quyền nước này nỗ lực làm chủ công nghệ trong bối cảnh căng thẳng thương mại với Mỹ gia tăng.\nNgoài Xiandixian, Beijing Zuojiang Technology cũng bị Ủy ban Chứng khoán Thâm Quyến hủy giao dịch khi bị điều tra gian lận tài chính. Woodson, start-up bán dẫn có trụ sở tại Thượng Hải từng được đăng ký với số vốn 10 tỷ tệ cũng nộp đơn phá sản hồi tháng 6.\nTuy nhiên, nhà chức trách Trung Quốc vẫn chưa ngừng tham vọng làm chip khi tiếp tục đổ tiền vào các quỹ đầu tư bán dẫn.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/ygtmvd/2024_12_26/87faba22_fafe_40e9_b2bd_dd27874d.jpg, ",
+      "Tham vọng tự chủ ngành bán dẫn của Trung Quốc vấp phải nhiều trở ngại. Ảnh: SCMP."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, nguyên nhân trực tiếp nào đã dẫn đến việc Xiangdixian gần như phá sản và tài khoản ngân hàng bị đóng băng?",
+      "choices": {
+        "A": "Chất lượng sản phẩm GPU Tianjun kém xa các đối thủ lớn trên thị trường.",
+        "B": "Chính phủ Trung Quốc cắt giảm quỹ đầu tư vào ngành bán dẫn, khiến công ty thiếu vốn.",
+        "C": "Cạn kiệt tiền mặt và không thực hiện được các điều khoản gọi vốn đã thỏa thuận.",
+        "D": "Bị các đối thủ cạnh tranh lớn từ Mỹ đệ đơn kiện vi phạm bản quyền công nghệ."
+      }
+    },
+    {
+      "question": "Theo bài viết, mục tiêu chính của chính quyền Trung Quốc khi lập quỹ đầu tư hơn 130 tỷ tệ từ năm 2014 để thúc đẩy ngành bán dẫn trong nước là gì?",
+      "choices": {
+        "A": "Giúp các công ty khởi nghiệp như Xiangdixian đạt định giá tỷ USD và IPO thành công.",
+        "B": "Đạt được sự tự chủ hoàn toàn về công nghệ sản xuất chip, đặc biệt là máy quang khắc.",
+        "C": "Phát triển công nghiệp sản xuất nội địa và tiến gần các tiến trình công nghệ cao cấp.",
+        "D": "Tạo ra các sản phẩm GPU có hiệu suất vượt trội so với Nvidia, AMD hay Intel."
+      }
+    },
+    {
+      "question": "Trường hợp của Xiangdixian cùng với các công ty khác được đề cập trong bài viết minh chứng điều gì về tình hình ngành bán dẫn của Trung Quốc?",
+      "choices": {
+        "A": "Ngành bán dẫn Trung Quốc đã đạt được sự tự chủ hoàn toàn về công nghệ và tài chính.",
+        "B": "Mặc dù có sự phát triển nhanh chóng và đầu tư lớn từ chính phủ, ngành này vẫn tiềm ẩn nhiều rủi ro và thách thức.",
+        "C": "Các công ty bán dẫn Trung Quốc chỉ có thể thành công nếu được định giá tỷ USD và IPO trên sàn quốc tế.",
+        "D": "Chính quyền Trung Quốc đã ngừng đổ tiền vào các quỹ đầu tư bán dẫn do những thất bại gần đây."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:05:58"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/4-ban-dep-nhat-vong-1-8-euro-2024-4765759.html",
+  "title": "4 bàn đẹp nhất vòng 1/8 Euro 2024",
+  "content": "Content not found",
+  "metadata": [
+    [
+      "https://iv1cdn.vnecdn.net/thethao/images/web/2024/07/03/4-ban-dep-nhat-vong-18-euro-2024-1719996379.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=-2RuqU9y-5gKQU0-gM9lyg",
+      "4 bàn đẹp nhất vòng 1/8 Euro 2024"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Dựa trên nội dung được cung cấp, tại sao việc tạo câu hỏi trắc nghiệm theo yêu cầu trở nên không khả thi?",
+      "choices": {
+        "A": "Nội dung quá dài và phức tạp để phân tích.",
+        "B": "Nội dung không đủ chi tiết để tạo câu hỏi.",
+        "C": "Nội dung được ghi rõ là 'Content not found'.",
+        "D": "Nội dung chứa thông tin sai lệch."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết ghi rõ 'NỘI DUNG: Content not found', điều này cho thấy không có thông tin cụ thể để dựa vào tạo câu hỏi, khiến việc tạo câu hỏi trắc nghiệm theo yêu cầu trở nên không khả thi."
+    },
+    {
+      "question": "Nếu muốn tạo ra các câu hỏi trắc nghiệm chất lượng cao dựa trên nội dung tin tức, người dùng cần cung cấp điều gì?",
+      "choices": {
+        "A": "Một tiêu đề hấp dẫn hơn cho bài viết.",
+        "B": "Thêm các hình ảnh minh họa cho nội dung.",
+        "C": "Nội dung tin tức đầy đủ và chi tiết.",
+        "D": "Các yêu cầu về định dạng JSON khác."
+      },
+      "correct_answer": "C",
+      "explanation": "Để tạo câu hỏi trắc nghiệm chất lượng cao 'dựa trên thông tin có trong bài viết', nội dung tin tức đầy đủ và chi tiết là yếu tố cần thiết nhất. Với 'Content not found', không có thông tin để dựa vào."
+    },
+    {
+      "question": "Theo yêu cầu của đề bài, các câu hỏi trắc nghiệm phải tuân thủ điều kiện nào liên quan đến nguồn gốc thông tin?",
+      "choices": {
+        "A": "Phải liên quan đến chủ đề Euro 2024.",
+        "B": "Phải dựa trên thông tin có trong bài viết.",
+        "C": "Phải có 4 phương án lựa chọn.",
+        "D": "Phải có tính nhiễu cao."
+      },
+      "correct_answer": "B",
+      "explanation": "Yêu cầu số 2 của đề bài ghi rõ: 'Câu hỏi phải dựa trên thông tin có trong bài viết'. Do nội dung bài viết là 'Content not found', điều kiện này không thể được đáp ứng một cách trực tiếp."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:22:01"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/nvidia-bi-dieu-tra-post1516952.html",
+  "title": "Trung Quốc điều tra Nvidia",
+  "content": "Trung Quốc đã mở cuộc điều tra nhắm vào Nvidia với cáo buộc nhà sản xuất chip của Mỹ vi phạm luật chống độc quyền xung quanh một thỏa thuận vào năm 2020.\nCơ quan quản lý thị trường của Trung Quốc đang điều tra thương vụ mua lại Mellanox Technologies của Nvidia vào năm 2020. Tại thời điểm đó, nhiều gã khổng lồ công nghệ tại quốc gia tỉ dân đã phản đối thỏa thuận trên do lo ngại mất quyền hợp tác và tiếp cận công nghệ bán dẫn mới.\nMellanox là công ty chuyên cung cấp sản phẩm mạng máy tính của Israel, tập trung vào chip có khả năng tăng tốc luồng thông tin đi qua máy chủ. Thiết bị của công ty này giúp các trung tâm dữ liệu nhanh chóng phân bổ đúng tài nguyên vào từng loại công việc khác nhau.\nSau cùng, chính phủ Trung Quốc đã chấp thuận việc Nvidia mua lại nhà sản xuất thiết bị mạng máy tính của Israel với giá 7 tỷ USD, đi kèm điều kiện Mellanox phải gửi thông tin sản phẩm mới cho các đối thủ trong vòng 90 ngày kể từ khi cung cấp cho Nvidia.\nJensen Huang, CEO của Nvidia cho biết công ty đã thuyết phục giới chức tại Trung Quốc bằng cách nhấn mạnh vào sự cởi mở và sẵn sàng hợp tác với những công ty cùng ngành. Vị quản lý nói thêm rằng thỏa thuận sẽ mang đến cơ hội cho các nhà sản xuất chip trong việc đảm bảo sản phẩm của họ hoạt động tốt với công nghệ mới của Mellanox.\nTuy nhiên, với vị thế là nhà cung cấp chip AI hàng đầu, Nvidia đã bị cuốn vào cuộc chiến thương mại giữa Mỹ và Trung Quốc. Do đó, với tư cách là công ty con, Mellanox cũng phải tuân thủ chính sách từ phía Washington khi tham gia vào lệnh cấm bán linh kiện bán dẫn tiên tiến nhất cho đối thủ.\nCổ phiếu của Nvidia đã giảm 2% trong phiên giao dịch ngày 9/12, xuống mức 139 USD. Hiện tại, người đại diện của Nvidia chưa đưa ra bình luận sau khi có thông tin bị cơ quan quản lý tại Trung Quốc điều tra.\nTheo Bloomberg, Nvidia đã nhiều lần cố gắng cung cấp chip AI cho khách hàng Trung Quốc thông qua việc phát triển sản phẩm tuân thủ theo chính sách của Mỹ. Tuy nhiên, mọi việc không diễn ra suôn sẻ theo kế hoạch.\nMới đây, Bộ Tư pháp Mỹ cũng đang tìm kiếm thông tin để điều tra việc Nvidia vi phạm luật chống độc quyền. Theo những người trong cuộc, nhà sản xuất này bị cáo buộc gây khó khăn cho khách hàng nếu họ muốn chuyển sang sử dụng linh kiện từ các công ty đối thủ.\nKhông chỉ riêng Trung Quốc và Mỹ, Pháp cũng xem Nvidia là mục tiêu hàng đầu trong việc điều tra chip được sử dụng trong lĩnh vực AI. Benoit Coeure, người đứng đầu cơ quan chống độc quyền của nước này cho biết trong một cuộc họp báo vào tháng 7 rằng công ty sẽ phải đối mặt với cáo buộc độc quyền trong thời gian tới.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/ovhunst/2024_12_09/1x_1.jpg, ",
+      "Nvidia bị chính phủ Trung Quốc điều tra xung quanh thương vụ mua lại Mellanox. Ảnh: Bloomberg."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Trung Quốc đã mở cuộc điều tra nhắm vào Nvidia với cáo buộc chính nào?",
+      "choices": {
+        "A": "Vi phạm luật chống độc quyền liên quan đến thương vụ mua lại Mellanox Technologies.",
+        "B": "Không tuân thủ lệnh cấm bán linh kiện bán dẫn tiên tiến cho các đối thủ của Mỹ.",
+        "C": "Gây khó khăn cho khách hàng muốn chuyển sang sử dụng linh kiện từ các công ty đối thủ.",
+        "D": "Độc quyền trong lĩnh vực chip AI, gây cản trở sự phát triển của công nghệ Trung Quốc."
+      },
+      "correct_answer": "A",
+      "explanation": "Theo bài viết: 'Trung Quốc đã mở cuộc điều tra nhắm vào Nvidia với cáo buộc nhà sản xuất chip của Mỹ vi phạm luật chống độc quyền xung quanh một thỏa thuận vào năm 2020. Cơ quan quản lý thị trường của Trung Quốc đang điều tra thương vụ mua lại Mellanox Technologies của Nvidia vào năm 2020.'"
+    },
+    {
+      "question": "Để được chính phủ Trung Quốc chấp thuận thương vụ mua lại Mellanox Technologies, Nvidia đã phải đồng ý với điều kiện nào?",
+      "choices": {
+        "A": "Nvidia phải chia sẻ công nghệ chip AI của mình với các công ty Trung Quốc.",
+        "B": "Mellanox phải gửi thông tin sản phẩm mới cho các đối thủ trong vòng 90 ngày kể từ khi cung cấp cho Nvidia.",
+        "C": "Nvidia cam kết không bán các linh kiện bán dẫn tiên tiến nhất cho các đối thủ của Trung Quốc.",
+        "D": "Mellanox phải duy trì hoạt động độc lập và không bị ảnh hưởng bởi chính sách của Nvidia."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Sau cùng, chính phủ Trung Quốc đã chấp thuận việc Nvidia mua lại nhà sản xuất thiết bị mạng máy tính của Israel với giá 7 tỷ USD, đi kèm điều kiện Mellanox phải gửi thông tin sản phẩm mới cho các đối thủ trong vòng 90 ngày kể từ khi cung cấp cho Nvidia.'"
+    },
+    {
+      "question": "Theo nội dung bài viết, ngoài Trung Quốc, những quốc gia nào khác cũng đang tiến hành điều tra Nvidia về các cáo buộc chống độc quyền?",
+      "choices": {
+        "A": "Chỉ có Mỹ.",
+        "B": "Chỉ có Pháp.",
+        "C": "Mỹ và Pháp.",
+        "D": "Mỹ, Pháp và Israel."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập: 'Mới đây, Bộ Tư pháp Mỹ cũng đang tìm kiếm thông tin để điều tra việc Nvidia vi phạm luật chống độc quyền.' và 'Không chỉ riêng Trung Quốc và Mỹ, Pháp cũng xem Nvidia là mục tiêu hàng đầu trong việc điều tra chip được sử dụng trong lĩnh vực AI.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 14:26:36"
+}

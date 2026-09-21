@@ -1,0 +1,41 @@
+{
+  "url": "https://znews.vn/tin-vui-danh-cho-nguoi-dung-iphone-doi-cu-post1519809.html",
+  "title": "Tin vui dành cho người dùng iPhone đời cũ",
+  "content": "iOS 19 tiếp tục hỗ trợ các dòng iPhone ra mắt từ năm 2018, gồm iPhone XS, XS Max và iPhone XR.\nVẫn còn quá sớm để nói về iOS 19 trong thời điểm iOS 18 vừa ra mắt chưa lâu. Tuy nhiên, một nguồn tin rò rỉ vừa tiết lộ điều được nhiều người quan tâm. Đó là các dòng thiết bị được hỗ trợ phiên bản iOS mới.\nTheo iPhoneSoft, những iPhone đủ kiện cập nhật lên iOS 18 sẽ nhận được phiên bản iOS 19 vào năm 2025. Cần lưu ý, việc có thể nâng cấp phiên bản mới nhất không đồng nghĩa thiết bị cũ sở hữu đầy đủ tính năng của iOS 19. Điều này cũng từng xảy ra ở một số thế hệ trước.\nNhư vậy, nếu nguồn tin chính xác, bộ 3 iPhone XS, XS Max và iPhone XR ra mắt năm 2018 sẽ nhận được bản cập nhật iOS 19 vào tháng 9 năm sau theo thông lệ.\nVới iPad, có thể chu kỳ nâng cấp của dòng thiết bị này không kéo dài. iPhoneSoft cho rằng iPad thế hệ 7, ra mắt năm 2019 và sử dụng vi xử lý Apple A10, sẽ không thể chạy iPadOS 19.\nTheo lịch trình hàng năm của Apple, iOS 19 và iPadOS 19 có thể xuất hiện tại sự kiện WWDC 2025 vào tháng 6 năm sau dưới dạng phiên bản thử nghiệm dành cho nhà phát triển. Sau đó cập nhật lên sản phẩm thương mại vào tháng 9.\nVào tháng 11, phóng viên Mark Gurman của Bloomberg, người thường xuyên tiết lộ các thông tin quan trọng về sản phẩm, dịch vụ sắp ra mắt của Apple, dự đoán iOS 19 sẽ có các bản phát hành theo từng đợt tương tự Apple Intelligence trong iOS 18.\nCác tính năng AI mới được triển khai bằng các bản cập nhật riêng biệt gồm iOS 18.1 và iOS 18.2. Trong thời gian tới, nhiều cải tiến Siri AI sẽ ra mắt cùng iOS 18.4. Báo cáo từ iPhoneSoft cũng cho biết iOS 19 có thể không mang nhiều tính năng đột phá như iOS 18.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/pqmcbzwv/2024_12_23/merlin_143648265_b5969011_b833_4ffa_af85_0a5c6be4397a_jumbo.jpg, ",
+      "iPhone XS, XS Max có thể được nâng cấp lên iOS 19 trong năm 2025. Ảnh: New York Times."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, những mẫu iPhone ra mắt năm 2018 nào được kỳ vọng sẽ tiếp tục nhận được bản cập nhật iOS 19?",
+      "choices": {
+        "A": "iPhone XS, iPhone XS Max và iPhone XR",
+        "B": "iPhone X, iPhone 8 và iPhone 8 Plus",
+        "C": "iPhone 11, iPhone 11 Pro và iPhone 11 Pro Max",
+        "D": "iPhone SE (thế hệ 2) và iPhone SE (thế hệ 3)"
+      }
+    },
+    {
+      "question": "Dựa trên báo cáo từ iPhoneSoft, dòng iPad nào được dự đoán sẽ không thể chạy iPadOS 19?",
+      "choices": {
+        "A": "iPad Air thế hệ 3",
+        "B": "iPad Pro (2018)",
+        "C": "iPad thế hệ 7",
+        "D": "iPad mini thế hệ 5"
+      }
+    },
+    {
+      "question": "Phóng viên Mark Gurman của Bloomberg đã dự đoán điều gì về cách thức triển khai các tính năng của iOS 19?",
+      "choices": {
+        "A": "iOS 19 sẽ được phát hành với tất cả tính năng đột phá cùng một lúc vào tháng 9 năm 2025.",
+        "B": "iOS 19 sẽ có các bản phát hành theo từng đợt tương tự Apple Intelligence trong iOS 18.",
+        "C": "Các tính năng AI mới của iOS 19 sẽ chỉ ra mắt cùng iOS 19.4 vào cuối năm 2025.",
+        "D": "iOS 19 sẽ không có bất kỳ tính năng AI mới nào so với iOS 18."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:19:21"
+}

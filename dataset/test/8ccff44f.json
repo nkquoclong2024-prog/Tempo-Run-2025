@@ -1,0 +1,41 @@
+{
+  "url": "https://znews.vn/chuyen-gi-da-xay-ra-trong-tham-kich-may-bay-o-han-quoc-post1521193.html",
+  "title": "Chuyện gì đã xảy ra trong thảm kịch máy bay ở Hàn Quốc",
+  "content": "Giới chức Hàn Quốc nhận định hầu hết trong số 181 người có mặt trên chuyến bay 7C2216 có khả năng đã thiệt mạng, ngoại trừ hai người còn sống được đưa ra khỏi máy bay.\nChiếc máy bay của Jeju Air từ Bangkok chở 181 hành khách và thành viên phi hành đoàn đã gặp nạn khi đang cố gắng hạ cánh tại sân bay quốc tế Muan ở Hàn Quốc vào sáng 29/12.\nDưới đây là những diễn biến chính đáng chú ý cho tới nay:",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/rotntv/2024_12_21/z6177311301822_de9351dcac775f0b11ff4ecba107bc69.jpg, ",
+      ""
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông tin trong bài viết, có bao nhiêu người được xác nhận còn sống sau thảm kịch máy bay 7C2216?",
+      "choices": {
+        "A": "2 người",
+        "B": "181 người",
+        "C": "Hầu hết mọi người",
+        "D": "Không có ai"
+      }
+    },
+    {
+      "question": "Chuyến bay 7C2216 của hãng hàng không nào đã gặp nạn khi cố gắng hạ cánh tại sân bay quốc tế Muan ở Hàn Quốc?",
+      "choices": {
+        "A": "Jeju Air",
+        "B": "Korean Air",
+        "C": "Asiana Airlines",
+        "D": "Thai Airways"
+      }
+    },
+    {
+      "question": "Thảm kịch máy bay của Jeju Air xảy ra vào thời gian nào và tại địa điểm nào khi đang cố gắng hạ cánh?",
+      "choices": {
+        "A": "Sáng 29/12, tại sân bay quốc tế Muan ở Hàn Quốc.",
+        "B": "Chiều 29/12, tại sân bay quốc tế Bangkok.",
+        "C": "Sáng 28/12, khi đang cất cánh từ Bangkok.",
+        "D": "Tối 29/12, khi đang hạ cánh tại một sân bay khác ở Hàn Quốc."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:04:11"
+}

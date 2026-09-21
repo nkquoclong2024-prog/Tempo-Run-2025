@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/chien-ham-my-suyt-ban-nham-quan-nha-lan-hai-post1520298.html",
+  "title": "Chiến hạm Mỹ suýt bắn nhầm 'quân nhà' lần hai",
+  "content": "Tàu tuần dương USS Gettysburg của Mỹ suýt bắn hạ phi cơ F/A-18 Super Hornet thứ hai trên Biển Đỏ. Tên lửa đã đi sượt máy bay tiêm kích đồng đội chỉ khoảng 30 m hôm 21/12.\nKhông chỉ một mà hai phi cơ tiêm kích F/A-18 Super Hornet đã hoạt động trong tầm ngắm của tàu tuần dương USS Gettysburg, vốn đang thực hiện nhiệm vụ chống lực lượng Houthi ở Biển Đỏ.\nChiếm hạm này đã bắn ra cặp tên lửa đất đối không nhắm vào hai phi cơ nói trên. Một trong hai máy bay đã bị bắn hạ song phi công thoát thành công trước khi phi cơ bị rơi.\nMáy bay thứ hai đã thực hiện các động tác né tránh trên không để thoát khỏi khu vực ảnh hưởng của tên lửa bắn ra từ tàu đồng đội.\nTên lửa được cho là đã đi sượt máy bay tiêm kích thứ hai chỉ khoảng 30 m trước khi hạ cánh xuống tàu sân bay Harry S. Truman, Fox News đưa tin.\n\"Tàu tuần dương suýt bắn rơi cả hai máy bay chiến đấu\", một nguồn tin nói với Fox News.\nHai máy bay phản lực bị bắn nhầm nói trên đã hỗ trợ các cuộc không kích của Mỹ tại Yemen, nơi lực lượng Houthi đã tiến hành ba cuộc tấn công bằng tên lửa đạn đạo riêng biệt vào Israel trong tuần qua, theo New York Post.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w660/Uploaded/liqpwivo/2024_12_25/7f64bbc1f71e4a40130f1.jpg, ",
+      "Tàu USS Gettysburg suýt bắn hạ máy bay chiến đấu thứ hai của chính quân lực Mỹ. Ảnh: Reuters."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, tên lửa từ tàu tuần dương USS Gettysburg đã đi sượt máy bay tiêm kích F/A-18 Super Hornet thứ hai với khoảng cách ước tính là bao nhiêu?",
+      "choices": {
+        "A": "Khoảng 30 mét",
+        "B": "Khoảng 100 mét",
+        "C": "Khoảng 500 mét",
+        "D": "Khoảng 1 kilomet"
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Tên lửa được cho là đã đi sượt máy bay tiêm kích thứ hai chỉ khoảng 30 m trước khi hạ cánh xuống tàu sân bay Harry S. Truman, Fox News đưa tin.'"
+    },
+    {
+      "question": "Nhiệm vụ chính của hai phi cơ F/A-18 Super Hornet bị bắn nhầm là gì?",
+      "choices": {
+        "A": "Tấn công trực tiếp lực lượng Houthi tại Biển Đỏ.",
+        "B": "Hỗ trợ các cuộc không kích của Mỹ tại Yemen.",
+        "C": "Thực hiện nhiệm vụ tuần tra và trinh sát độc lập.",
+        "D": "Bảo vệ tàu tuần dương USS Gettysburg khỏi các mối đe dọa."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết cho biết: 'Hai máy bay phản lực bị bắn nhầm nói trên đã hỗ trợ các cuộc không kích của Mỹ tại Yemen, nơi lực lượng Houthi đã tiến hành ba cuộc tấn công bằng tên lửa đạn đạo riêng biệt vào Israel trong tuần qua, theo New York Post.'"
+    },
+    {
+      "question": "Phát biểu nào sau đây về sự cố giữa tàu USS Gettysburg và các phi cơ F/A-18 Super Hornet là **KHÔNG ĐÚNG**?",
+      "choices": {
+        "A": "Sự việc xảy ra trên Biển Đỏ vào ngày 21/12.",
+        "B": "Cả hai phi cơ F/A-18 Super Hornet đều bị bắn hạ thành công.",
+        "C": "Tàu tuần dương USS Gettysburg đang thực hiện nhiệm vụ chống lực lượng Houthi.",
+        "D": "Phi công của một trong hai máy bay đã thoát thành công sau khi máy bay bị bắn hạ."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết chỉ rõ: 'Một trong hai máy bay đã bị bắn hạ song phi công thoát thành công trước khi phi cơ bị rơi. Máy bay thứ hai đã thực hiện các động tác né tránh trên không để thoát khỏi khu vực ảnh hưởng của tên lửa bắn ra từ tàu đồng đội.' Điều này cho thấy chỉ một máy bay bị bắn hạ, và máy bay thứ hai đã né tránh thành công, nên phát biểu 'Cả hai phi cơ F/A-18 Super Hornet đều bị bắn hạ thành công' là không đúng."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:02:57"
+}

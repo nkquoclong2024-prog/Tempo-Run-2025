@@ -1,0 +1,87 @@
+{
+  "url": "https://kenh14.vn/bang-tuyet-phu-trang-y-ty-nhu-troi-au-215250128004825979.chn",
+  "title": "",
+  "content": "\n\nVới nhiệt độ giảm sâu dưới 0°C, tuyết bắt đầu rơi từ đầu giờ chiều 26/1, đến sáng 27/1, băng tuyết phủ trắng các mái nhà, trên những con đường quanh co...",
+  "metadata": [
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043867-3083-254-1737999793416-1737999795022971515625.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 1."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043833-3427-2448-1737999795816-17379997959801397804516.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 2."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043832-3091-6089-1737999796758-17379997968341680874157.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 3."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/de547893-77eb-4a94-92b0-8f1c69edf048-1-all-72351-5580-5225-1737999797420-17379997976421109063290.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 4."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043865-6912-1302-1737999798214-1737999798308888776350.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 5."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043868-915-6211-1737999799041-17379997991641001522699.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 6."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043869-624-251-1737999799749-17379997998851587277163.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 7."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043870-7557-3188-1737999800556-17379998007122054205753.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 8."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043866-8197-750-1737999801384-17379998014981274825143.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 9."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043874-3848-3555-1737999802149-1737999802285752101550.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 10."
+    ],
+    [
+      "https://kenh14cdn.com/203336854389633024/2025/1/27/1000043869-624-251-1737999803128-1737999803255733550344.jpg",
+      "Băng tuyết phủ trắng Y Tý như trời Âu- Ảnh 11."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo nội dung tin tức, tuyết bắt đầu rơi vào thời điểm nào?",
+      "choices": {
+        "A": "Sáng ngày 26/1",
+        "B": "Đầu giờ chiều ngày 26/1",
+        "C": "Sáng ngày 27/1",
+        "D": "Đầu giờ chiều ngày 27/1"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'tuyết bắt đầu rơi từ đầu giờ chiều 26/1'."
+    },
+    {
+      "question": "Nguyên nhân chính dẫn đến hiện tượng tuyết rơi được đề cập trong bài viết là gì?",
+      "choices": {
+        "A": "Gió mạnh và độ ẩm cao",
+        "B": "Nhiệt độ giảm sâu dưới 0°C",
+        "C": "Mưa lớn kéo dài",
+        "D": "Sự thay đổi áp suất không khí đột ngột"
+      },
+      "correct_answer": "B",
+      "explanation": "Đoạn văn mở đầu bằng: 'Với nhiệt độ giảm sâu dưới 0°C, tuyết bắt đầu rơi...'. Đây là nguyên nhân trực tiếp được nêu."
+    },
+    {
+      "question": "Đến sáng ngày 27/1, băng tuyết đã phủ trắng những khu vực nào theo miêu tả trong tin tức?",
+      "choices": {
+        "A": "Các cánh đồng và bờ sông",
+        "B": "Toàn bộ khu dân cư",
+        "C": "Các mái nhà và trên những con đường quanh co",
+        "D": "Các đỉnh núi cao và thung lũng"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết mô tả: 'đến sáng 27/1, băng tuyết phủ trắng các mái nhà, trên những con đường quanh co...'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:38:20"
+}

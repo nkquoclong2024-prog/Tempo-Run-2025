@@ -1,0 +1,47 @@
+{
+  "url": "https://lifestyle.znews.vn/thuc-tap-sinh-viet-o-nhat-keu-cuu-vi-bi-no-luong-post1519965.html",
+  "title": "Thực tập sinh Việt ở Nhật kêu cứu vì bị nợ lương",
+  "content": "Khoảng 150 thực tập sinh người Việt bị một công ty ở Nhật Bản nợ lương với tổng số tiền vượt quá hàng chục triệu yen..\nMainichi Shimbun đưa tin một công ty ở Toyota (tỉnh Aichi, Nhật Bản) đã không trả lương cho khoảng 150 thực tập sinh kỹ thuật người Việt Nam trong ít nhất một tháng.\nCông đoàn lao động Rengo Tokyo ở nước này thông tin thêm rằng số tiền lương bị nợ đã vượt quá hàng chục triệu yen. Hầu hết thực tập sinh Việt bị nợ lương đều đến Nhật Bản làm việc theo diện visa kỹ sư.\nThông tin về việc nợ lương, chủ tịch công ty này nói với Kyodo News rằng họ không thể trả lương do thiếu vốn lưu động. Hiện, công ty bày tỏ mong muốn tạm đình chỉ hoạt động và nộp đơn lên chính phủ Nhật Bản để được hỗ trợ thanh toán phần lương còn nợ.\nÔng Phan Tiến Hoàng, Trưởng ban Quản lý lao động tại Đại sứ quán Việt Nam tại Tokyo, lên tiếng bày tỏ lo ngại về vấn đề này. Ông Hoàng cũng cho biết nhiều công dân Việt Nam tại Nhật Bản đang rơi vào tình trạng khó khăn vì không được trả lương.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/neg_esfjaex/2024_12_23/9.jpg, ",
+      "Các thực tập sinh kéo đến trước cửa công ty để đòi lương vào ngày 5/12. Ảnh: Kyodo News."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông tin từ bài viết, tổng số tiền lương bị nợ của khoảng 150 thực tập sinh Việt Nam tại một công ty ở Nhật Bản là bao nhiêu?",
+      "choices": {
+        "A": "Vài triệu yen",
+        "B": "Hàng chục triệu yen",
+        "C": "Hàng trăm triệu yen",
+        "D": "Hơn một tỷ yen"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Công đoàn lao động Rengo Tokyo ở nước này thông tin thêm rằng số tiền lương bị nợ đã vượt quá hàng chục triệu yen.'"
+    },
+    {
+      "question": "Chủ tịch công ty Nhật Bản đã đưa ra lý do gì cho việc không thể trả lương và bày tỏ mong muốn được hỗ trợ như thế nào?",
+      "choices": {
+        "A": "Do thua lỗ kéo dài và muốn nộp đơn xin phá sản.",
+        "B": "Do thiếu vốn lưu động và muốn tạm đình chỉ hoạt động để được chính phủ hỗ trợ thanh toán lương.",
+        "C": "Do tái cơ cấu nhân sự và đề nghị thực tập sinh tìm việc làm mới.",
+        "D": "Do ảnh hưởng của thiên tai và yêu cầu chính phủ Nhật Bản bồi thường."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết cho biết: 'Thông tin về việc nợ lương, chủ tịch công ty này nói với Kyodo News rằng họ không thể trả lương do thiếu vốn lưu động. Hiện, công ty bày tỏ mong muốn tạm đình chỉ hoạt động và nộp đơn lên chính phủ Nhật Bản để được hỗ trợ thanh toán phần lương còn nợ.'"
+    },
+    {
+      "question": "Ông Phan Tiến Hoàng, đại diện của Việt Nam lên tiếng bày tỏ lo ngại về vấn đề nợ lương, hiện đang giữ chức vụ gì tại Đại sứ quán Việt Nam tại Tokyo?",
+      "choices": {
+        "A": "Tham tán Công sứ",
+        "B": "Bí thư thứ nhất",
+        "C": "Trưởng ban Quản lý lao động",
+        "D": "Đại sứ"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết có đoạn: 'Ông Phan Tiến Hoàng, Trưởng ban Quản lý lao động tại Đại sứ quán Việt Nam tại Tokyo, lên tiếng bày tỏ lo ngại về vấn đề này.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:54:46"
+}

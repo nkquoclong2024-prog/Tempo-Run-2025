@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/khoi-to-vu-an-lay-lan-covid-19-lien-quan-xe-khach-4300023.html",
+  "title": "\nKhởi tố vụ án lây lan Covid-19 liên quan xe khách ",
+  "content": "Ngày 24/6, Quảng Ninh ghi nhận hai ca nghi nhiễm nCoV trong cộng đồng liên quan chuyến xe khách chạy tuyến TP HCM - Hải Phòng và xe khách chạy tuyến Quảng Bình - Quảng Ninh.\nCông an thành phố Uông Bí đang củng cố tài liệu về một số người bị cho rằng đã cố tình khai báo không trung thực khi đi qua chốt kiểm soát cầu Đá Bạc, thành phố Uông Bí để vào địa bàn tỉnh, dẫn đến hậu quả làm lây lan dịch bệnh trong cộng đồng.\nChốt kiểm soát được lập ngày 25/6 trên quốc lộ 18A, đoạn km15, phường Quang Hanh, thành phố Cẩm Phả giáp với thành phố Hạ Long. Ảnh: Minh Cương\nSáng 25/6, Bộ Y tế ghi nhận một ca nhiễm nCoV ở Quảng Ninh là \"bệnh nhân 14245\", nam, 24 tuổi, sau 48 ngày không ghi nhận ca Covid-19 trong cộng đồng.\nTheo điều tra dịch tễ, khoảng 8h30 ngày 19/6, anh bắt xe khách Trung Đức chạy tuyến Bắc - Nam (tuyến TP HCM – Hải Phòng) để đi chặng từ Đà Nẵng đến Quảng Bình. Sau đó, anh bắt xe khách Kim Thành Chính từ bến xe Đồng Hới (Quảng Bình) về Quảng Ninh.\nĐến trưa nay, Bộ Y tế ghi nhận thêm một ca nhiễm nCoV ở Quảng Ninh là F1 của \"bệnh nhân 14245\".\nHai ca bệnh này được xác định có lịch trình di chuyển phức tạp, tiếp xúc nhiều người. Thành phố Cẩm Phả phong tỏa Bệnh viện đa khoa khu vực Cẩm Phả; tái lập 8 chốt kiểm soát ra vào thành phố.\nTừ 0h ngày 25/6, Quảng Ninh đã dừng toàn bộ hoạt động kinh doanh vận tải hành khách liên tỉnh đường bộ, bao gồm xe taxi, xe khách chạy tuyến cố định, xe hợp đồng, xe buýt và đường thủy.\nTừ 27/4 đến nay, Quảng Ninh ghi nhận ba ca nhiễm Covid-19. Tỉnh đã tái khởi động 14 chốt kiểm dịch Covid-19 ở cửa ngõ kết nối Quảng Ninh với Hải Phòng, Hải Dương, Lạng Sơn và Bắc Giang; cách ly y tế tập trung 21 ngày với người về từ vùng dịch, tự trả phí; dừng các hoạt động karaoke, vũ trường, bar...\nMinh Cương",
+  "megadata": [
+    [
+      "https://i1-vnexpress.vnecdn.net/2021/06/25/9699-JPG-5860-1624622451.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=x2OifrUM3HKeASQ1AZsd3g",
+      "Chốt kiểm soát được lập ngày 25/6 trên quốc lộ 18A, đoạn km15, phường Quang Hanh, TP Cẩm Phả giáp với TP Hạ Long. Ảnh: Minh Cương"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo nội dung tin tức, lý do chính khiến Công an thành phố Uông Bí củng cố tài liệu và khởi tố vụ án lây lan Covid-19 là gì?",
+      "choices": {
+        "A": "Bệnh nhân di chuyển trên nhiều chuyến xe khách liên tỉnh có lịch trình phức tạp.",
+        "B": "Một số người đã cố tình khai báo không trung thực khi đi qua chốt kiểm soát cầu Đá Bạc.",
+        "C": "Quảng Ninh ghi nhận các ca nghi nhiễm nCoV trong cộng đồng sau 48 ngày không có ca bệnh.",
+        "D": "Các ca bệnh có lịch trình di chuyển phức tạp và tiếp xúc với nhiều người."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Công an thành phố Uông Bí đang củng cố tài liệu về một số người bị cho rằng đã cố tình khai báo không trung thực khi đi qua chốt kiểm soát cầu Đá Bạc, thành phố Uông Bí để vào địa bàn tỉnh, dẫn đến hậu quả làm lây lan dịch bệnh trong cộng đồng.'"
+    },
+    {
+      "question": "Lịch trình di chuyển của 'bệnh nhân 14245' từ Đà Nẵng về Quảng Ninh được mô tả như thế nào trong bài viết?",
+      "choices": {
+        "A": "Bắt xe khách Kim Thành Chính từ Đà Nẵng đến Quảng Bình, sau đó đi xe Trung Đức về Quảng Ninh.",
+        "B": "Bắt xe khách Trung Đức từ TP HCM đến Quảng Bình, rồi bắt xe Kim Thành Chính về Quảng Ninh.",
+        "C": "Bắt xe khách Trung Đức chặng từ Đà Nẵng đến Quảng Bình, sau đó bắt xe Kim Thành Chính từ bến xe Đồng Hới về Quảng Ninh.",
+        "D": "Bắt xe khách từ Đà Nẵng về thẳng Quảng Ninh mà không qua Quảng Bình."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'khoảng 8h30 ngày 19/6, anh bắt xe khách Trung Đức chạy tuyến Bắc - Nam (tuyến TP HCM – Hải Phòng) để đi chặng từ Đà Nẵng đến Quảng Bình. Sau đó, anh bắt xe khách Kim Thành Chính từ bến xe Đồng Hới (Quảng Bình) về Quảng Ninh.'"
+    },
+    {
+      "question": "Biện pháp phòng chống dịch nào sau đây được Quảng Ninh áp dụng *từ 0h ngày 25/6* theo thông tin trong bài viết?",
+      "choices": {
+        "A": "Tái khởi động 14 chốt kiểm dịch Covid-19 ở cửa ngõ kết nối với các tỉnh lân cận.",
+        "B": "Phong tỏa Bệnh viện đa khoa khu vực Cẩm Phả và tái lập 8 chốt kiểm soát ra vào thành phố Cẩm Phả.",
+        "C": "Dừng toàn bộ hoạt động kinh doanh vận tải hành khách liên tỉnh đường bộ và đường thủy.",
+        "D": "Cách ly y tế tập trung 21 ngày với người về từ vùng dịch và tự trả phí."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Từ 0h ngày 25/6, Quảng Ninh đã dừng toàn bộ hoạt động kinh doanh vận tải hành khách liên tỉnh đường bộ, bao gồm xe taxi, xe khách chạy tuyến cố định, xe hợp đồng, xe buýt và đường thủy.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 15:12:36"
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/san-pham-moi-cua-apple-lo-thong-so-post1435900.html",
+  "title": "Thông số ấn tượng của kính thực tế ảo Apple",
+  "content": "Thông số ấn tượng của kính thực tế ảo Apple\nMinh Hoàng\nThứ tư, 31/5/2023 14:12 (GMT+7)\nKính thực tế hỗn hợp (mixed-reality) của Apple sở hữu loạt thông số nổi bật so với các đối thủ như Quest 2 hay Quest Pro.\n\nTheo Ross Young, CEO của công ty Display Supply Chain Consultants (DSCC), kính thực tế hỗn hợp của Apple có thể sở hữu màn hình Micro OLED, kích thước 1,41 inch cùng độ sáng lên tới 5.000 nits. Ngoài ra, mật độ điểm ảnh của loại màn hình được sử dụng trên kính MR này đạt 4.000 pixel trên mỗi inch.\nTheo dự đoán, kính của Apple chắc chắn sẽ có 2 trong các thông số trên để tạo hiệu ứng thực tế ảo. Thiết bị cũng được kỳ vọng sở hữu nhiều công nghệ hiện đại nhất từng được sản xuất dành cho người tiêu dùng.\nDo đó, sản phẩm mới của Apple dự kiến có mức giá vào khoảng 3.000 USD. Con số này cao hơn rất nhiều khi so sánh với mức giá 349 USD của Quest 2 và 999 USD của Quest Pro.\nTất nhiên, lợi thế của Apple là quyền truy cập vào các dịch vụ độc quyền của công ty như TV+ và Fitness cũng như cửa hàng App Store. Theo tác giả Mark Gurman của Bloomberg, chiếc kính này có thể chạy tất cả ứng dụng của iPad ngay khi xuất xưởng.\nTrước đó, tác giả Mark Gurman đã tiết lộ khả năng pin của kính thực tế hỗn hợp được đặt bên ngoài, thay vì tích hợp ngay trong thiết bị. Cụ thể, thiết kế của nó sẽ giống như MagSafe, nhưng được thiết kế riêng để phù hợp với thân hình nhỏ gọn của chiếc kính.\nTheo 9to5Mac, kính thực tế hỗn hợp của Apple có thể xuất hiện tại sự kiện WWDC23, diễn ra lúc 10 sáng ngày 5/6 (giờ Mỹ). Ngoài ra, iOS 17, iPadOS 17, macOS 14 và MacBook Air 15 inch nhiều khả năng xuất hiện tại buổi tổ chức thường niên của Apple.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/ovhunst/2023_05_31/anh_thumb.jpg",
+      "Kính thực tế hỗn hợp của Apple lộ thông số khủng. Ảnh: Apple Insider."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo thông tin từ tác giả Mark Gurman của Bloomberg, đặc điểm nổi bật nào sau đây mô tả về pin của kính thực tế hỗn hợp Apple?",
+      "choices": {
+        "A": "Pin được tích hợp hoàn toàn bên trong thiết bị, giúp tối ưu hóa thiết kế.",
+        "B": "Pin có khả năng sạc siêu nhanh, đạt 80% trong 15 phút.",
+        "C": "Pin được đặt bên ngoài thiết bị và có thiết kế tương tự MagSafe.",
+        "D": "Pin có dung lượng lớn nhất thị trường, cho phép sử dụng liên tục hơn 10 giờ."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Trước đó, tác giả Mark Gurman đã tiết lộ khả năng pin của kính thực tế hỗn hợp được đặt bên ngoài, thay vì tích hợp ngay trong thiết bị. Cụ thể, thiết kế của nó sẽ giống như MagSafe, nhưng được thiết kế riêng để phù hợp với thân hình nhỏ gọn của chiếc kính.'"
+    },
+    {
+      "question": "Kính thực tế hỗn hợp của Apple dự kiến có mức giá bao nhiêu và cao hơn Quest Pro khoảng bao nhiêu lần?",
+      "choices": {
+        "A": "Khoảng 3.000 USD, cao hơn gấp 3 lần Quest Pro.",
+        "B": "Khoảng 999 USD, tương đương với Quest Pro.",
+        "C": "Khoảng 3.000 USD, cao hơn gấp 5 lần Quest Pro.",
+        "D": "Khoảng 349 USD, cao hơn gấp 2 lần Quest Pro."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết cho biết: 'sản phẩm mới của Apple dự kiến có mức giá vào khoảng 3.000 USD. Con số này cao hơn rất nhiều khi so sánh với mức giá 349 USD của Quest 2 và 999 USD của Quest Pro.' Với giá 3.000 USD cho kính Apple và 999 USD cho Quest Pro, 3000 / 999 ≈ 3.003, tức là cao hơn khoảng 3 lần."
+    },
+    {
+      "question": "Theo Ross Young, CEO của DSCC, màn hình Micro OLED trên kính thực tế hỗn hợp của Apple sở hữu những thông số kỹ thuật ấn tượng nào?",
+      "choices": {
+        "A": "Kích thước 1,41 inch, độ sáng 5.000 nits và mật độ điểm ảnh 4.000 pixel trên mỗi inch.",
+        "B": "Kích thước 1,41 inch, độ sáng 4.000 nits và mật độ điểm ảnh 5.000 pixel trên mỗi inch.",
+        "C": "Kích thước 2,41 inch, độ sáng 5.000 nits và mật độ điểm ảnh 4.000 pixel trên mỗi inch.",
+        "D": "Kích thước 1,41 inch, độ sáng 5.000 nits và tần số quét 120Hz."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết trích lời Ross Young: 'kính thực tế hỗn hợp của Apple có thể sở hữu màn hình Micro OLED, kích thước 1,41 inch cùng độ sáng lên tới 5.000 nits. Ngoài ra, mật độ điểm ảnh của loại màn hình được sử dụng trên kính MR này đạt 4.000 pixel trên mỗi inch.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:21:28"
+}

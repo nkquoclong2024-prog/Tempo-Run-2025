@@ -1,0 +1,41 @@
+{
+  "url": "https://vnexpress.net/pc-covid-dat-1-8-trieu-luot-tai-trong-ngay-dau-4365545.html",
+  "title": "\nPC-Covid đạt 1,8 triệu lượt tải trong ngày đầu ",
+  "content": "Trên App Store, PC-Covid đang là ứng dụng được tải về nhiều nhất Việt Nam. Còn trên Google Play, ứng dụng đứng thứ hai ở hạng mục ứng dụng Sức khỏe và Thể hình, và đang có xu hướng tiếp tục tăng.\nTheo thống kê của Trung tâm Công nghệ phòng chống dịch Covid-19, ngày 30/9, PC-Covid có gần 1,8 triệu lượt tải. So với ứng dụng trước đó là Bluezone, số lượt tải này cao gấp 26 lần mức trung bình của tháng 9.\nSự quan tâm tăng đột biến là một trong những nguyên nhân khiến ứng dụng quá tải trong ngày đầu. Từ sáng 30/9, người dùng phản ánh một số hiện tượng như mã OTP gửi chậm, thời gian đồng bộ dữ liệu lâu, một số thông tin chưa được cập nhật đầy đủ.\nTheo đại diện Trung tâm Công nghệ, do ứng dụng mới ra nên ngày đầu sử dụng có thể chưa trơn tru. Một lượng lớn người truy cập cùng lúc nên có hiện tượng nghẽn. Trung tâm cho biết sau khoảng một tiếng, việc cập nhật, đồng bộ thông tin đã hoàn tất.\nPC-Covid là một trong những ứng dụng được tải về nhiều nhất tại Việt Nam hôm 30/9. Ảnh: Lưu Quý\nPC-Covid có mặt trên App Store và Google Play rạng sáng qua, thay thế cho Bluezone trên các kho ứng dụng. Khi được đưa vào sử dụng chính thức, PC-Covid cũng sẽ thay thế cho các ứng dụng phòng, chống dịch trước đây. Ứng dụng được trang bị 9 tính năng chính: Thẻ Covid-19; Khai báo y tế; Khai báo di chuyển nội địa; Thông tin tiêm vaccine, xét nghiệm; Cấp, quản lý mã QR cá nhân và địa điểm; Quét mã QR; Truy vết tiếp xúc gần, Bản đồ nguy cơ, và Phản ánh.\nBộ Thông tin và Truyền thông cho biết, trong thời gian tới, ứng dụng sẽ được phát triển thêm các tính năng khác để thuận tiện cho người dân và phù hợp với chiến lược phòng chống dịch theo từng giai đoạn.\nĐể tải về và sử dụng, người dùng có thể lên các kho ứng dụng của Apple và Google, tìm kiếm \"PC-Covid\", hoặc truy cập website https://pccovid.gov.vn/.\nLưu Quý",
+  "megadata": [
+    [
+      "https://i1-sohoa.vnecdn.net/2021/10/01/PC-Covid-DSC01159-4091-1633066686.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=R2eJNexinsBpOc15AyQvHQ",
+      "PC-Covid là một trong những ứng dụng được tải về nhiều nhất tại Việt Nam hôm 30/9. Ảnh: Lưu Quý"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Trong ngày đầu ra mắt (30/9), ứng dụng PC-Covid đã đạt được thành tích nào dưới đây so với ứng dụng Bluezone?",
+      "choices": {
+        "A": "Số lượt tải cao gấp 26 lần mức trung bình của Bluezone trong tháng 9.",
+        "B": "Đạt 1,8 triệu lượt tải, gấp đôi tổng lượt tải của Bluezone trong cả tháng 9.",
+        "C": "Đứng đầu trên cả App Store và Google Play, vượt qua Bluezone ở mọi hạng mục.",
+        "D": "Có số lượt tải tương đương với Bluezone nhưng tốc độ tăng trưởng nhanh hơn."
+      }
+    },
+    {
+      "question": "Theo đại diện Trung tâm Công nghệ, nguyên nhân chính dẫn đến các hiện tượng như mã OTP gửi chậm, đồng bộ dữ liệu lâu trong ngày đầu ra mắt ứng dụng PC-Covid là gì?",
+      "choices": {
+        "A": "Ứng dụng mới ra mắt nên chưa được tối ưu hoàn toàn và có nhiều lỗi phần mềm.",
+        "B": "Một lượng lớn người dùng truy cập cùng lúc gây ra hiện tượng nghẽn mạng.",
+        "C": "Hệ thống máy chủ không đủ khả năng đáp ứng nhu cầu truy cập của người dân.",
+        "D": "Dữ liệu từ các ứng dụng phòng chống dịch cũ không tương thích với PC-Covid."
+      }
+    },
+    {
+      "question": "Theo bài viết, tính năng nào dưới đây KHÔNG phải là một trong 9 tính năng chính của ứng dụng PC-Covid?",
+      "choices": {
+        "A": "Bản đồ nguy cơ.",
+        "B": "Khai báo di chuyển nội địa.",
+        "C": "Đặt lịch tiêm vaccine.",
+        "D": "Truy vết tiếp xúc gần."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:19:21"
+}

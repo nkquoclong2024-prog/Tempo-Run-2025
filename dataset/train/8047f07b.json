@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/xac-thuc-sms-khong-con-an-toan-post1519467.html",
+  "title": "Xác thực SMS không còn an toàn",
+  "content": "Tin tặc có khả năng xâm nhập vào cơ sở hạ tầng viễn thông và chặn các thông tin không được mã hóa, bao gồm cả tin nhắn văn bản của người dùng phổ thông.\nTheo báo cáo của WSJ vào tháng 10, nhóm tin tặc có liên kết với chính phủ Trung Quốc đã xâm nhập vào cơ sở hạ tầng viễn thông tại Mỹ và chặn thông tin liên lạc không được mã hóa. Chiến dịch có tên Salt Typhoon dường như cho phép hacker nghe lén cuộc gọi điện thoại và thu thập tin nhắn từ người dung.\nHiện tại, các đơn vị viễn thông tại Mỹ vẫn chưa đưa ra biện pháp khắc phục triệt để.\nVào giữa tháng 12, Cơ quan An ninh mạng và Cơ sở hạ tầng Mỹ (CISA) đã ban hành hướng dẫn về các biện pháp tốt nhất nhằm bảo vệ “những cá nhân có nguy cơ bị nhắm mục tiêu cao”.\n“Chúng tôi khuyến khích người dùng không sử dụng SMS làm yếu tố xác thực duy nhất. Tin nhắn SMS không được mã hóa có thể là lỗ hổng để tin tặc khai thác khi chúng tấn công vào cơ sở hạ tầng viễn thông. Ngoài ra, loại bảo mật này không phải dạng xác thực mạnh đối với tài khoản cá nhân”, trích dẫn từ hướng dẫn của CISA.\nHiện tại, phần lớn dịch vụ và ứng dụng đều cho phép xác thực đa yếu tố. Theo Gizmodo, người dùng nên sử dụng các phương pháp chống xâm nhập, bao gồm mã hóa đầu cuối tin nhắn hoặc ứng dụng xác minh như Google Authenticator.\nNgay cả Cục Điều tra Liên bang Mỹ (FBI) cũng lên tiếng ủng hộ việc sử dụng mã hóa tin nhắn SMS, cho thấy mức độ nghiêm trọng của cuộc tấn công vào cơ sở hạ tầng viễn thông. Trước đó, cơ quan này thường xuyên phản đối mã hóa các hình thức xác thực vì cho rằng chúng gây khó khăn cho hoạt động điều tra tội phạm.\n“Hãy sử dụng một ứng dụng nhắn tin được mã hóa đầu cuối để liên lạc an toàn. Chúng tôi khuyến nghị tải xuống các app tương thích với cả hệ điều hành iOS và Android. Bên cạnh đó, chúng cũng cần cho phép khả năng tương tác đa nền tảng giữa điện thoại cũng như máy tính cá nhân”, CISA viết trong hướng dẫn bảo mật.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/ovhunst/2024_12_20/anh_1.jpg, ",
+      "Người dùng nên sử dụng nhiều dạng xác thực khác nhau để bảo mật thông tin. Ảnh: Verified."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, lý do chính khiến xác thực SMS không còn được coi là an toàn là gì?",
+      "choices": {
+        "A": "Tin tặc có khả năng xâm nhập vào cơ sở hạ tầng viễn thông và chặn các thông tin không được mã hóa.",
+        "B": "Các ứng dụng di động không còn hỗ trợ tính năng bảo mật hai lớp qua SMS.",
+        "C": "Người dùng thường xuyên làm lộ mã OTP qua các cuộc gọi lừa đảo.",
+        "D": "SMS có giới hạn ký tự, làm giảm độ phức tạp của mã xác thực."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Tin tặc có khả năng xâm nhập vào cơ sở hạ tầng viễn thông và chặn các thông tin không được mã hóa, bao gồm cả tin nhắn văn bản của người dùng phổ thông.'"
+    },
+    {
+      "question": "Để tăng cường bảo mật cho tài khoản cá nhân, CISA và Gizmodo khuyến nghị người dùng nên áp dụng những biện pháp nào?",
+      "choices": {
+        "A": "Chỉ sử dụng SMS làm yếu tố xác thực duy nhất nhưng thường xuyên thay đổi số điện thoại.",
+        "B": "Sử dụng các phương pháp chống xâm nhập như mã hóa đầu cuối tin nhắn hoặc ứng dụng xác minh như Google Authenticator.",
+        "C": "Hạn chế tối đa việc sử dụng internet trên thiết bị di động để tránh bị theo dõi.",
+        "D": "Yêu cầu nhà mạng cung cấp dịch vụ SMS được mã hóa riêng cho từng người dùng."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết trích dẫn từ Gizmodo: 'người dùng nên sử dụng các phương pháp chống xâm nhập, bao gồm mã hóa đầu cuối tin nhắn hoặc ứng dụng xác minh như Google Authenticator.' Hướng dẫn của CISA cũng khuyến nghị 'không sử dụng SMS làm yếu tố xác thực duy nhất' và gợi ý sử dụng 'một ứng dụng nhắn tin được mã hóa đầu cuối'."
+    },
+    {
+      "question": "Điều gì đặc biệt về quan điểm hiện tại của Cục Điều tra Liên bang Mỹ (FBI) đối với việc mã hóa tin nhắn SMS, theo bài viết?",
+      "choices": {
+        "A": "FBI vẫn giữ vững lập trường phản đối mã hóa vì gây khó khăn cho hoạt động điều tra tội phạm.",
+        "B": "FBI đã thay đổi quan điểm, bắt đầu ủng hộ việc sử dụng mã hóa tin nhắn SMS do mức độ nghiêm trọng của các cuộc tấn công.",
+        "C": "FBI chỉ ủng hộ mã hóa cho các cuộc gọi điện thoại, không phải cho tin nhắn SMS.",
+        "D": "FBI đã phát triển một hệ thống mã hóa riêng cho người dân Mỹ sử dụng."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'Ngay cả Cục Điều tra Liên bang Mỹ (FBI) cũng lên tiếng ủng hộ việc sử dụng mã hóa tin nhắn SMS, cho thấy mức độ nghiêm trọng của cuộc tấn công vào cơ sở hạ tầng viễn thông. Trước đó, cơ quan này thường xuyên phản đối mã hóa các hình thức xác thực vì cho rằng chúng gây khó khăn cho hoạt động điều tra tội phạm.'"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 13:56:37"
+}

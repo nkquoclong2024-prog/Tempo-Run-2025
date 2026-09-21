@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/digital-traffic-platform-4808733.html",
+  "title": "Digital traffic platform",
+  "content": "The Digital Traffic Platform project is an intelligent data analysis platform with input of discrete traffic parameters extracted from many available rich data sources, thereby forming a large database \"data lake.\"\nFrom the distributed and unstructured data stream, the machine learning system will automatically recognize and analyze, standardize, and rearrange scientifically to create a clean data platform at the \"molecular\" level.\nAccordingly, it can meet multiple functions in the field of traffic in particular and many other fields of society in general.\nZGO's digital traffic platform interface. Photo courtesy of ZGO\nRich and detailed data sources will help manage, monitor, and analyze traffic conditions comprehensively and in detail at each intersection, with each vehicle participating in traffic in real time.\nFrom there, the platform can predict traffic situations early, automatically regulate traffic, and analyze traffic flows and routes to optimize frequency and traffic volume for each direction of travel at each time, peak hours, and off-peak hours of the day.\nAnalyze traffic volume at each intersection according to the ID of that intersection; analyze total traffic volume and traffic volume in each direction with accurate time to the second.\nSupport vehicle management by region, country, province, or foreign vehicle. Prevent the use of illegal vehicles in areas that are not regulated...\nTrack vehicles, support the establishment of a specific vehicle's itinerary by date, month, and year through the vehicle's license plate, and display it on the Google Map interface, providing detailed travel route logs at specific times and intersections.\nDetect vehicles violating traffic laws, violation content, time, and images of the violation.\nAccording to the ZGO representative, the platform with many diverse features that converge in all fields ensures the construction of large products of national and international scope, ensuring that the product is stable, suitable, and easy to popularize with many social classes as well as senior experts in charge of operations and exploitation.\nZGO",
+  "metadata": [
+    [
+      "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "ZGOs digital traffic platform interface. Photo courtesy of ZGO"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, quá trình nào giúp Nền tảng Giao thông Kỹ thuật số tạo ra một nền tảng dữ liệu sạch ở cấp độ 'phân tử'?",
+      "choices": {
+        "A": "Thu thập dữ liệu từ các cảm biến vật lý và lưu trữ trực tiếp vào kho dữ liệu.",
+        "B": "Hệ thống học máy tự động nhận diện, phân tích, chuẩn hóa và sắp xếp lại luồng dữ liệu phân tán và phi cấu trúc.",
+        "C": "Các chuyên gia dữ liệu thủ công phân loại và làm sạch các tham số giao thông rời rạc.",
+        "D": "Tích hợp dữ liệu đã được chuẩn hóa từ nhiều nguồn bên ngoài mà không cần xử lý thêm."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: 'From the distributed and unstructured data stream, the machine learning system will automatically recognize and analyze, standardize, and rearrange scientifically to create a clean data platform at the \"molecular\" level.' (Từ luồng dữ liệu phân tán và phi cấu trúc, hệ thống học máy sẽ tự động nhận diện và phân tích, chuẩn hóa và sắp xếp lại một cách khoa học để tạo ra một nền tảng dữ liệu sạch ở cấp độ 'phân tử'.)"
+    },
+    {
+      "question": "Theo bài viết, tính năng nào sau đây KHÔNG phải là một khả năng được cung cấp bởi Nền tảng Giao thông Kỹ thuật số?",
+      "choices": {
+        "A": "Dự đoán tình huống giao thông sớm và tự động điều tiết giao thông.",
+        "B": "Phân tích lưu lượng và lộ trình giao thông để tối ưu hóa tần suất và khối lượng.",
+        "C": "Tự động cấp phép lưu hành cho các phương tiện mới dựa trên dữ liệu lịch sử.",
+        "D": "Theo dõi phương tiện và thiết lập nhật trình chi tiết theo biển số xe hiển thị trên Google Map."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết liệt kê nhiều tính năng như dự đoán và điều tiết giao thông, phân tích lưu lượng, theo dõi phương tiện và phát hiện vi phạm. Tuy nhiên, không có đoạn nào đề cập đến khả năng 'Tự động cấp phép lưu hành cho các phương tiện mới dựa trên dữ liệu lịch sử'."
+    },
+    {
+      "question": "Theo thông tin trong bài viết, đơn vị nào được nhắc đến là nhà cung cấp Nền tảng Giao thông Kỹ thuật số và mục tiêu về phạm vi của nền tảng này là gì?",
+      "choices": {
+        "A": "Google Maps, với mục tiêu chính là cung cấp bản đồ và dữ liệu định vị.",
+        "B": "ZGO, với mục tiêu xây dựng các sản phẩm lớn có phạm vi quốc gia và quốc tế.",
+        "C": "Một tổ chức chính phủ, tập trung vào việc quản lý giao thông đô thị trong nước.",
+        "D": "Các chuyên gia độc lập, nhằm mục đích nghiên cứu và phát triển công nghệ mới."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết đề cập 'ZGO's digital traffic platform interface. Photo courtesy of ZGO' và 'According to the ZGO representative, the platform... ensures the construction of large products of national and international scope'. (Bài viết nhắc đến 'giao diện nền tảng giao thông kỹ thuật số của ZGO' và 'Theo đại diện ZGO, nền tảng... đảm bảo xây dựng các sản phẩm lớn có phạm vi quốc gia và quốc tế'.)"
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:14:10"
+}

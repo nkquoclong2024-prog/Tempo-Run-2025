@@ -1,0 +1,47 @@
+{
+  "url": "https://vnexpress.net/gia-vang-the-gioi-bien-dong-manh-4223662.html",
+  "title": "\nGiá vàng thế giới biến động mạnh ",
+  "content": "Giá vàng thế giới xoay chiều liên tục trong phiên tối qua (19/1), có lúc vượt 1.845 USD nhưng sau đó đảo chiều xuống sát 1.832 USD. Lúc 9h sáng nay (giờ Việt Nam), mỗi ounce vàng quốc tế giao dịch tại 1.846 USD, tăng gần 6 USD so với phiên hôm qua.\nTrong khi giá thế giới biến động mạnh thì các đơn vị kinh doanh vàng miếng trong nước chỉ điều chỉnh ở biên độ hẹp. Quy đổi theo tỷ giá ngân hàng, mỗi lượng vàng trong nước đang cao hơn thế giới khoảng 2 triệu đồng.\nVàng trưng bày tại cửa hàng DOJI. Ảnh: DOJI.\nCụ thể, Tập đoàn Vàng bạc đá quý DOJI mua vào 55,9 triệu đồng một lượng, tăng 50.000 đồng và giữ nguyên giá bán ra 56,3 triệu đồng.\nCùng lúc, Công ty Vàng bạc đá quý Sài Gòn (SJC) niêm yết giá mua 55,85 triệu đồng và bán ra 56,4 triệu đồng, đứng yên so với phiên hôm qua.\nGiá vàng diễn biến khả quan dựa trên kỳ vọng về các gói cứu trợ kinh tế ngày càng sáng sủa hơn khi Tổng thống đắc Joe Biden sắp nhậm chức, cộng thêm tình hình dịch bệnh vẫn diễn biến khó lường và hiệu quả vaccine vẫn là dấu hỏi lớn.\nThiên Ngân",
+  "megadata": [
+    [
+      "https://i1-kinhdoanh.vnecdn.net/2021/01/20/Gia-vang-hom-nay-1906-16105068-3950-3199-1611109411.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=ex12sFK1vso2gVU3JZc2xQ",
+      "Vàng trưng bày tại cửa hàng DOJI. Ảnh: DOJI."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, tại thời điểm được đề cập, giá vàng trong nước đang cao hơn giá vàng thế giới khoảng bao nhiêu?",
+      "choices": {
+        "A": "Gần 6 USD/ounce",
+        "B": "50.000 đồng/lượng",
+        "C": "2 triệu đồng/lượng",
+        "D": "1.846 USD/ounce"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Quy đổi theo tỷ giá ngân hàng, mỗi lượng vàng trong nước đang cao hơn thế giới khoảng 2 triệu đồng.'"
+    },
+    {
+      "question": "Yếu tố nào sau đây KHÔNG được bài viết đề cập là nguyên nhân khiến giá vàng diễn biến khả quan?",
+      "choices": {
+        "A": "Kỳ vọng vào các gói cứu trợ kinh tế.",
+        "B": "Tình hình dịch bệnh COVID-19 vẫn diễn biến khó lường.",
+        "C": "Hiệu quả của vắc-xin còn là dấu hỏi lớn.",
+        "D": "Lãi suất ngân hàng giảm sâu trên toàn cầu."
+      },
+      "correct_answer": "D",
+      "explanation": "Bài viết chỉ ra ba yếu tố khiến giá vàng diễn biến khả quan là 'kỳ vọng về các gói cứu trợ kinh tế ngày càng sáng sủa hơn', 'tình hình dịch bệnh vẫn diễn biến khó lường' và 'hiệu quả vaccine vẫn là dấu hỏi lớn'. Yếu tố về lãi suất ngân hàng giảm sâu không được nhắc đến."
+    },
+    {
+      "question": "Tại thời điểm 9h sáng nay (giờ Việt Nam), giá vàng mua vào của Tập đoàn Vàng bạc đá quý DOJI đã thay đổi như thế nào so với phiên hôm qua?",
+      "choices": {
+        "A": "Tăng 50.000 đồng một lượng.",
+        "B": "Giảm 50.000 đồng một lượng.",
+        "C": "Giữ nguyên ở mức 55,9 triệu đồng.",
+        "D": "Tăng gần 6 USD một ounce."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu cụ thể: 'Tập đoàn Vàng bạc đá quý DOJI mua vào 55,9 triệu đồng một lượng, tăng 50.000 đồng'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 16:40:43"
+}

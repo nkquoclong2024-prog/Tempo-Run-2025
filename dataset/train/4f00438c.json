@@ -1,0 +1,42 @@
+{
+  "url": "https://znews.vn/hai-phi-cong-vu-roi-may-bay-o-kazakhstan-duoc-goi-la-nguoi-hung-post1520879.html",
+  "title": "Hai phi công vụ rơi máy bay ở Kazakhstan được gọi là người hùng",
+  "content": "Chủ tịch Azerbaijan Airlines khen ngợi lòng dũng cảm của hai phi công trên chuyến bay J2-8243 gặp nạn tại Kazakhstan, cho rằng điều này giúp gần nửa số hành khách sống sót.\n“Sự anh dũng và tận tụy của phi hành đoàn trong những khoảnh khắc cuối cùng, cũng như ưu tiên cao nhất dành cho tính mạng con người, sẽ được ghi nhớ mãi mãi trong lịch sử”, Chủ tịch Azerbaijan Airlines, ông Samir Rzayev, phát biểu về hai phi công thiệt mạng trong vụ tai nạn.\nTheo ông, hai phi công sở hữu tổng cộng hơn 15.000 giờ bay, và chiếc máy bay Embraer 190 gần đây đã vượt qua bài kiểm tra kỹ thuật. Tuy nhiên, nguyên nhân dẫn đến tai nạn vẫn đang được điều tra.\nChiếc máy bay gặp nạn khởi hành từ Baku, Azerbaijan, vào sáng sớm 25/12 và bay đến Grozny, Nga. Tuy nhiên, điều kiện thời tiết xấu buộc máy bay phải chuyển hướng và hạ cánh khẩn cấp gần Aktau, Kazakhstan, vào khoảng 6h28 giờ địa phương. Một số nguồn tin ban đầu từ cơ quan hàng không Nga cho rằng sự cố chim va vào máy bay có thể đã gây ra tình trạng khẩn cấp trên.\nTuy vậy, các giả thuyết về nguyên nhân vụ tai nạn vẫn còn nhiều tranh cãi.\nGiới chức Azerbaijan xác nhận 38 người thiệt mạng, 29 người sống sót trong vụ rơi máy bay.\nHiện tại, nhà chức trách đã thu hồi được hộp đen máy bay. Embraer, nhà sản xuất máy bay, bày tỏ sự tiếc thương sâu sắc và cam kết hợp tác chặt chẽ với các cơ quan liên quan để hỗ trợ điều tra.",
+  "metadata": [],
+  "questions": [
+    {
+      "question": "Theo Chủ tịch Azerbaijan Airlines, ông Samir Rzayev, hành động dũng cảm của hai phi công trong vụ rơi máy bay J2-8243 đã mang lại kết quả đáng kể nào?",
+      "choices": {
+        "A": "Giúp gần nửa số hành khách sống sót.",
+        "B": "Ngăn chặn hoàn toàn vụ tai nạn xảy ra.",
+        "C": "Đảm bảo toàn bộ phi hành đoàn sống sót.",
+        "D": "Giúp máy bay hạ cánh an toàn tại điểm đến ban đầu."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: \"Chủ tịch Azerbaijan Airlines khen ngợi lòng dũng cảm của hai phi công trên chuyến bay J2-8243 gặp nạn tại Kazakhstan, cho rằng điều này giúp gần nửa số hành khách sống sót.\""
+    },
+    {
+      "question": "Theo một số nguồn tin ban đầu từ cơ quan hàng không Nga, nguyên nhân nào có thể đã gây ra tình trạng khẩn cấp trên chuyến bay J2-8243?",
+      "choices": {
+        "A": "Điều kiện thời tiết xấu.",
+        "B": "Lỗi kỹ thuật của máy bay Embraer 190.",
+        "C": "Sự cố chim va vào máy bay.",
+        "D": "Lỗi của đài kiểm soát không lưu."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết đề cập: \"Một số nguồn tin ban đầu từ cơ quan hàng không Nga cho rằng sự cố chim va vào máy bay có thể đã gây ra tình trạng khẩn cấp trên.\""
+    },
+    {
+      "question": "Giới chức Azerbaijan xác nhận có bao nhiêu người sống sót trong vụ rơi máy bay J2-8243?",
+      "choices": {
+        "A": "38 người.",
+        "B": "29 người.",
+        "C": "Gần nửa số hành khách.",
+        "D": "67 người."
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết nêu rõ: \"Giới chức Azerbaijan xác nhận 38 người thiệt mạng, 29 người sống sót trong vụ rơi máy bay.\""
+    }
+  ],
+  "questions_generated_at": "2025-09-01 18:49:13"
+}

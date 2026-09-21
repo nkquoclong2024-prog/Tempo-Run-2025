@@ -1,0 +1,47 @@
+{
+  "url": "https://znews.vn/thanh-pho-thong-minh-nhat-the-gioi-post1418518.html",
+  "title": "Thành phố thông minh nhất thế giới",
+  "content": "Thành phố thông minh nhất thế giới\nMinh An\nThứ ba, 4/4/2023 16:20 (GMT+7)\nZurich (Thụy Sĩ) được xếp hạng là thành phố thông minh nhất thế giới vào năm 2023. \n\nZurich (Thụy Sĩ), Oslo (Na Uy) và Canberra (Australia) lần lượt là những thành phố thông minh nhất thế giới vào năm 2023, Straits Times dẫn kết quả khảo sát chỉ số thành phố thông minh công bố ngày 4/4.\nTrong khi đó, tại châu Á, Singapore là thành phố thông minh nhất và xếp thứ 7 trên thế giới.\nĐược Viện Phát triển Quản lý (IMD) của trường kinh doanh Thụy Sĩ công bố hôm 4/4, chỉ số xếp hạng 141 thành phố theo cách họ sử dụng công nghệ để giải quyết những thách thức nhằm đạt được chất lượng cuộc sống cao hơn.\nChỉ số Thành phố Thông minh được cân nhắc dựa trên ý kiến ​​đóng góp của cư dân thành phố về cách công nghệ đã cải thiện cuộc sống của họ.\nCuộc khảo sát được thực hiện trên khoảng 20.000 người về 15 khía cạnh của cuộc sống ở thành phố, như nhà ở giá rẻ, tắc nghẽn giao thông, không gian xanh và việc làm.\nNhững người tham gia khảo sát cũng được hỏi về các cấu trúc và công nghệ khác nhau, cùng mức độ thoải mái của họ với các công nghệ như nhận dạng khuôn mặt và chia sẻ dữ liệu cá nhân.\nZurich, Oslo, Bắc Kinh, Seoul, Singapore và Hong Kong nằm trong số 6 thành phố được chỉ số thành phố thông minh nhận định “liên tục cải thiện hiệu suất kể từ năm 2019”.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/gtntnn/2023_04_04/4CGPO7EMMRNLJBFTBP4GLGJLUA.jpeg",
+      "Khách ngồi bên ngoài một nhà hàng tại khu phố cổ Zurich. Ảnh: Reuters."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo kết quả khảo sát chỉ số thành phố thông minh công bố ngày 4/4/2023, thành phố nào được xếp hạng là thành phố thông minh nhất thế giới?",
+      "choices": {
+        "A": "Zurich",
+        "B": "Oslo",
+        "C": "Singapore",
+        "D": "Canberra"
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết nêu rõ: 'Zurich (Thụy Sĩ) được xếp hạng là thành phố thông minh nhất thế giới vào năm 2023.' Các thành phố khác như Oslo, Canberra và Singapore cũng nằm trong danh sách các thành phố thông minh hàng đầu nhưng không phải là số một thế giới."
+    },
+    {
+      "question": "Chỉ số Thành phố Thông minh, dựa trên đó Zurich được xếp hạng là thành phố thông minh nhất thế giới, được công bố bởi tổ chức nào?",
+      "choices": {
+        "A": "Straits Times",
+        "B": "Viện Phát triển Quản lý (IMD) của trường kinh doanh Thụy Sĩ",
+        "C": "Một tổ chức nghiên cứu của Australia",
+        "D": "Chính phủ Thụy Sĩ"
+      },
+      "correct_answer": "B",
+      "explanation": "Bài viết chỉ rõ: 'Được Viện Phát triển Quản lý (IMD) của trường kinh doanh Thụy Sĩ công bố hôm 4/4, chỉ số xếp hạng 141 thành phố...'. Straits Times là nguồn dẫn tin, không phải đơn vị công bố chỉ số."
+    },
+    {
+      "question": "Theo bài viết, thành phố nào sau đây được xếp hạng cao trong chỉ số thành phố thông minh năm 2023 nhưng KHÔNG nằm trong số 6 thành phố được nhận định “liên tục cải thiện hiệu suất kể từ năm 2019”?",
+      "choices": {
+        "A": "Seoul",
+        "B": "Bắc Kinh",
+        "C": "Canberra",
+        "D": "Hong Kong"
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết liệt kê 'Zurich, Oslo, Bắc Kinh, Seoul, Singapore và Hong Kong nằm trong số 6 thành phố được chỉ số thành phố thông minh nhận định “liên tục cải thiện hiệu suất kể từ năm 2019”'. Canberra được xếp hạng thứ 3 thế giới nhưng không có trong danh sách 6 thành phố này."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 21:17:38"
+}

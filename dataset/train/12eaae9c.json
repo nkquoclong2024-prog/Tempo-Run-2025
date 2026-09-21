@@ -1,0 +1,42 @@
+{
+  "url": "https://vnexpress.net/dau-an-tang-truong-kinh-te-2024-cua-binh-dinh-4823770.html",
+  "title": "Title not found",
+  "content": "Content not found",
+  "metadata": [],
+  "questions": [
+    {
+      "question": "Dựa trên nội dung tin tức được cung cấp, tại sao không thể tạo ra các câu hỏi trắc nghiệm chất lượng cao?",
+      "choices": {
+        "A": "Nội dung tin tức không được tìm thấy.",
+        "B": "Tiêu đề bài viết bị thiếu.",
+        "C": "Yêu cầu tạo câu hỏi không rõ ràng.",
+        "D": "Định dạng trả lời JSON không hợp lệ."
+      },
+      "correct_answer": "A",
+      "explanation": "Bài viết được cung cấp rõ ràng ghi 'Content not found' trong phần NỘI DUNG, điều này trực tiếp ngăn cản việc tạo câu hỏi dựa trên thông tin có trong bài viết."
+    },
+    {
+      "question": "Thông tin chính được cung cấp trong phần 'NỘI DUNG' của bài viết là gì?",
+      "choices": {
+        "A": "Một bản tóm tắt về sự kiện kinh tế.",
+        "B": "Một báo cáo về tình hình chính trị.",
+        "C": "Dòng chữ 'Content not found'.",
+        "D": "Một danh sách các nhân vật quan trọng."
+      },
+      "correct_answer": "C",
+      "explanation": "Phần 'NỘI DUNG' của bài viết được cung cấp rõ ràng ghi 'Content not found', cho biết không có nội dung thực tế để phân tích."
+    },
+    {
+      "question": "Nếu một chuyên gia tạo câu hỏi trắc nghiệm nhận được nội dung 'Content not found', bước hành động hợp lý nhất để tuân thủ yêu cầu 'Câu hỏi phải dựa trên thông tin có trong bài viết' là gì?",
+      "choices": {
+        "A": "Tự sáng tạo nội dung để tạo câu hỏi.",
+        "B": "Báo cáo rằng không có đủ thông tin để tạo câu hỏi.",
+        "C": "Chỉ tạo câu hỏi dựa trên tiêu đề bài viết.",
+        "D": "Yêu cầu một định dạng JSON khác."
+      },
+      "correct_answer": "B",
+      "explanation": "Yêu cầu rõ ràng là 'Câu hỏi phải dựa trên thông tin có trong bài viết'. Khi nội dung không có ('Content not found'), chuyên gia không thể tuân thủ yêu cầu này và cần báo cáo tình hình thiếu thông tin."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 19:24:48"
+}

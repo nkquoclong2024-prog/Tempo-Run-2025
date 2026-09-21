@@ -1,0 +1,51 @@
+{
+  "url": "https://znews.vn/mo-hinh-ai-da-co-the-du-doan-duoc-cai-chet-post1451072.html",
+  "title": "Mô hình AI đã có thể dự đoán được cái chết",
+  "content": "Mô hình AI đã có thể dự đoán được cái chết\nAnh Tuấn\nThứ tư, 27/12/2023 07:04 (GMT+7)\nMột mô hình trí tuệ nhân tạo mới đã có khả năng dự đoán chính xác cuộc sống cũng như nguy cơ tử vong sớm của một người chính xác hơn bất kỳ hệ thống nào.\n\nMột mô hình trí tuệ nhân tạo (AI) cải tiến, với đầu vào là thông tin chi tiết về cuộc sống của một người, đã có thể dự đoán được thời gian tử vong sớm với độ chính xác cao, theo báo cáo của Independent.\nCụ thể, theo các nhà khoa học từ Đại học Kỹ thuật Đan Mạch, mô hình AI này được đào tạo dựa trên dữ liệu cá nhân của 6 triệu người Đan Mạch từ năm 2008-2020, bao gồm thông tin về trình độ học vấn của các cá nhân, số lần khám bác sĩ và đến bệnh viện, kết quả chẩn đoán, thu nhập và nghề nghiệp.\nCác nhà khoa học đã chuyển đổi tập dữ liệu thành các từ khóa để đào tạo một mô hình ngôn ngữ lớn có tên là “life2vec”, tương tự như công nghệ đằng sau các ứng dụng AI như ChatGPT.\nTheo nghiên cứu được công bố trên tạp chí Nature Computational Science hôm 26/12, nhóm lấy dữ liệu về một nhóm người trong độ tuổi từ 35-65, một nửa trong số này đã qua đời trong khoảng thời gian từ 2016-2020 và yêu cầu AI dự đoán ai còn sống hoặc đã mất.\nKết quả, “life2vec” dự đoán chính xác hơn 11% so với bất kỳ mô hình AI hiện có hoặc các phương pháp được các công ty bảo hiểm nhân thọ sử dụng để định giá chính sách.\nTiếp tục sử dụng mô hình AI này, các nhà nghiên cứu tìm kiếm câu trả lời cho các câu hỏi chung như khả năng một người sẽ qua đời trong vòng 4 năm tới.\n\nMột lần nữa, hệ thống gây ấn tượng khi các phản hồi trả về phù hợp với những phát hiện hiện có như cá nhân ở vị trí lãnh đạo hoặc có thu nhập cao sở hữu nhiều khả năng sống sót.\nMáy tính cũng dự đoán chính xác nhóm này thường là nam giới và có năng lực tốt. Trong khi đó, nhóm người được chẩn đoán tâm thần có liên quan đến nguy cơ tử vong cao hơn.\nTuy nhiên, các nhà khoa học đưa ra cảnh báo rằng các công ty bảo hiểm nhân thọ không nên sử dụng mô hình này do lo ngại về vấn đề đạo đức.\n“Rõ ràng mô hình của chúng tôi không nên được sử dụng bởi bất kỳ công ty bảo hiểm nào. Ý tưởng về bảo hiểm phải là sự chia sẻ gánh nặng với những người không may mắn gặp phải một sự cố nào đó, như cái chết hoặc mất mát”, tác giả nghiên cứu Sune Lehman nói.",
+  "metadata": [
+    [
+      "https://photo.znews.vn/w960/Uploaded/spluaaa/2023_12_26/20231221_203615.a79e7239.jpg",
+      "Một mô hình AI mới đã có khả năng dự đoán cái chết của một người chính xác hơn 11%. Ảnh: AI Death Calculator."
+    ],
+    [
+      "https://photo.znews.vn/w660/Uploaded/spluaaa/2023_12_26/Low_Res_A_schematic_individual_level_data_representation_for_the_life2vec_model.jpg",
+      "Sơ đồ biểu diễn dữ liệu cấp độ cá nhân cho mô hình life2vec. Ảnh: Germans Savcisens."
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Mô hình AI \"life2vec\" được đào tạo dựa trên những loại dữ liệu cá nhân nào của người Đan Mạch?",
+      "choices": {
+        "A": "Trình độ học vấn, số lần khám bác sĩ/bệnh viện, kết quả chẩn đoán, thu nhập và nghề nghiệp.",
+        "B": "Lịch sử bệnh án gia đình, thói quen sinh hoạt, địa chỉ cư trú và tình trạng hôn nhân.",
+        "C": "Dữ liệu gen di truyền, chỉ số sinh học, thông tin về chế độ ăn uống và tập luyện.",
+        "D": "Hồ sơ tội phạm, lịch sử du lịch quốc tế, sở thích cá nhân và hoạt động mạng xã hội."
+      },
+      "correct_answer": "A",
+      "explanation": "Theo bài viết, mô hình AI này được đào tạo dựa trên dữ liệu cá nhân của 6 triệu người Đan Mạch, bao gồm 'thông tin về trình độ học vấn của các cá nhân, số lần khám bác sĩ và đến bệnh viện, kết quả chẩn đoán, thu nhập và nghề nghiệp'."
+    },
+    {
+      "question": "Tại sao các nhà khoa học lại cảnh báo các công ty bảo hiểm nhân thọ không nên sử dụng mô hình \"life2vec\"?",
+      "choices": {
+        "A": "Vì mô hình này có độ chính xác chưa đủ cao để áp dụng vào thực tế kinh doanh.",
+        "B": "Vì việc sử dụng mô hình sẽ làm tăng chi phí hoạt động và giảm lợi nhuận của công ty bảo hiểm.",
+        "C": "Vì lo ngại về vấn đề đạo đức, do bảo hiểm nên là sự chia sẻ gánh nặng với những người không may mắn.",
+        "D": "Vì công nghệ đằng sau \"life2vec\" quá phức tạp, khó tích hợp vào hệ thống hiện có của các công ty bảo hiểm."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết nêu rõ: 'Tuy nhiên, các nhà khoa học đưa ra cảnh báo rằng các công ty bảo hiểm nhân thọ không nên sử dụng mô hình này do lo ngại về vấn đề đạo đức. 'Rõ ràng mô hình của chúng tôi không nên được sử dụng bởi bất kỳ công ty bảo hiểm nào. Ý tưởng về bảo hiểm phải là sự chia sẻ gánh nặng với những người không may mắn gặp phải một sự cố nào đó, như cái chết hoặc mất mát', tác giả nghiên cứu Sune Lehman nói'."
+    },
+    {
+      "question": "Dựa trên các phát hiện của mô hình \"life2vec\", yếu tố nào sau đây được liên kết với khả năng sống sót cao hơn?",
+      "choices": {
+        "A": "Có tiền sử bệnh lý di truyền trong gia đình.",
+        "B": "Được chẩn đoán mắc các bệnh tâm thần.",
+        "C": "Có thu nhập cao hoặc ở vị trí lãnh đạo.",
+        "D": "Sống ở khu vực nông thôn với môi trường trong lành."
+      },
+      "correct_answer": "C",
+      "explanation": "Bài viết chỉ ra rằng: 'hệ thống gây ấn tượng khi các phản hồi trả về phù hợp với những phát hiện hiện có như cá nhân ở vị trí lãnh đạo hoặc có thu nhập cao sở hữu nhiều khả năng sống sót'. Ngược lại, 'nhóm người được chẩn đoán tâm thần có liên quan đến nguy cơ tử vong cao hơn'."
+    }
+  ],
+  "questions_generated_at": "2025-09-01 15:20:01"
+}

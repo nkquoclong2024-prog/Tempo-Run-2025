@@ -1,0 +1,41 @@
+{
+  "url": "https://thanhnien.vn/he-thong-ai-moi-cua-apple-lo-dien-ten-goi-185240607210639413.htm",
+  "title": "Apple sắp giới thiệu hệ thống AI Apple Intelligence",
+  "content": "Hệ thống AI mới của Apple sẽ sớm được công bố tại WWDC 2024 với nhiều tiết lộ hấp dẫn.\nTheo Bloomberg, Apple dự kiến sẽ giới thiệu một hệ thống AI (trí tuệ nhân tạo) mới mang tên 'Apple Intelligence' tại Hội nghị các nhà phát triển toàn cầu (WWDC) 2024 vào tuần tới. Hệ thống này sẽ mang đến các tính năng AI mới cho các ứng dụng trên iPhone, iPad và Mac, đồng thời tích hợp một chatbot tương tự ChatGPT do OpenAI cung cấp.\nHệ thống AI của Apple dự kiến sẽ có tên gọi Apple Intelligence\nCHỤP MÀN HÌNH BLOOMBERG\nApple Intelligence tập trung vào việc nâng cao trải nghiệm người dùng thông qua các tính năng như tóm tắt nội dung, đề xuất trả lời và cải tiến trợ lý ảo Siri. Điểm đặc biệt là hệ thống này có khả năng tự động lựa chọn giữa xử lý trên thiết bị hoặc trên đám mây, tùy thuộc vào tính chất của tác vụ, đảm bảo hiệu suất và bảo mật tối ưu.\nĐể bảo vệ quyền riêng tư của người dùng, Apple sẽ không xây dựng hồ sơ dựa trên dữ liệu cá nhân và sẽ công khai báo cáo về việc không bán hoặc đọc thông tin người dùng.\nTuy nhiên, không phải tất cả người dùng đều có thể trải nghiệm Apple Intelligence ngay lập tức. Bloomberg cho biết hệ thống này sẽ chỉ khả dụng trên các thiết bị iPad và Mac sử dụng chip M1 trở lên, và có thể chỉ giới hạn trên iPhone 15 Pro hoặc iPhone 16. Ngoài ra, việc sử dụng các tính năng AI mới sẽ là tùy chọn, người dùng có thể tự quyết định có sử dụng hay không.\nĐây được xem là một bước tiến quan trọng của Apple trong việc ứng dụng trí tuệ nhân tạo vào các sản phẩm của mình, nhằm mang đến trải nghiệm tốt hơn cho người dùng. Tuy nhiên, vẫn còn nhiều câu hỏi về khả năng thực tế và hiệu quả của Apple Intelligence, đặc biệt là trong việc cạnh tranh với các đối thủ như ChatGPT của OpenAI.",
+  "metadata": [
+    [
+      "https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/6/7/1x-1-1717769244158-1717769245113770483750.jpg",
+      "Hệ thống AI của Apple dự kiến sẽ có tên gọi Apple Intelligence"
+    ]
+  ],
+  "questions": [
+    {
+      "question": "Theo bài viết, hệ thống AI mới của Apple có tên là gì và dự kiến sẽ được công bố tại sự kiện nào?",
+      "choices": {
+        "A": "Apple Intelligence, tại WWDC 2024.",
+        "B": "Siri AI, tại sự kiện ra mắt iPhone 16.",
+        "C": "iGenius, tại Hội nghị nhà phát triển toàn cầu 2025.",
+        "D": "Apple Brain, tại một sự kiện bí mật của Bloomberg."
+      }
+    },
+    {
+      "question": "Điểm nào sau đây KHÔNG phải là một đặc điểm nổi bật của hệ thống Apple Intelligence được đề cập trong bài viết liên quan đến quyền riêng tư hoặc tính năng?",
+      "choices": {
+        "A": "Tích hợp một chatbot tương tự ChatGPT do OpenAI cung cấp.",
+        "B": "Khả năng tự động lựa chọn giữa xử lý trên thiết bị hoặc trên đám mây.",
+        "C": "Xây dựng hồ sơ dựa trên dữ liệu cá nhân của người dùng để cá nhân hóa quảng cáo.",
+        "D": "Nâng cao trải nghiệm người dùng thông qua tóm tắt nội dung và đề xuất trả lời."
+      }
+    },
+    {
+      "question": "Apple Intelligence sẽ khả dụng trên những thiết bị nào theo thông tin từ Bloomberg được trích dẫn trong bài viết?",
+      "choices": {
+        "A": "Tất cả các mẫu iPhone, iPad và Mac hiện có trên thị trường.",
+        "B": "Các thiết bị iPad và Mac sử dụng chip M1 trở lên, và có thể chỉ giới hạn trên iPhone 15 Pro hoặc iPhone 16.",
+        "C": "Chỉ các mẫu iPhone 16 và các thiết bị Mac Pro mới nhất.",
+        "D": "Các thiết bị iPad và Mac sản xuất từ năm 2023 trở đi."
+      }
+    }
+  ],
+  "questions_generated_at": "2025-09-01 20:39:26"
+}
